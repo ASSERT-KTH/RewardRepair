@@ -960,7 +960,7 @@ compiledPatch	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.
 compiledPatch	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  false);
 not-compiled	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  0C);
 not-compiled	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  0A);
-correct	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  0D);
+correct	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  0d);
 compiledPatch	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  1);
 not-compiled	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  0));
 not-compiled	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	ancienneValues.put(double.class,  0);
