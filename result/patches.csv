@@ -960,7 +960,7 @@ compiledPatch	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.
 compiledPatch	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  false);
 different	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  0C);
 different	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  0A);
-identical	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  0d);
+plausible	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  0d);
 compiledPatch	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  1);
 different	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	primitiveValues.put(double.class,  0));
 different	Mockito_26	primitiveValues.put(double.class,  0);	primitiveValues.put(double.class,  0D);	ancienneValues.put(double.class,  0);
@@ -2324,7 +2324,7 @@ different	Time_4	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  n
 different	Time_4	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  newValues);	Partial  newPartial  =  new  Partial(newTypes,  newValues,  iChronology);	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  newValues,  path);
 different	Time_4	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  newValues);	Partial  newPartial  =  new  Partial(newTypes,  newValues,  iChronology);	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  newValues,  scope);
 compiled_but_duplicate	Time_4	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  newValues);	Partial  newPartial  =  new  Partial(newTypes,  newValues,  iChronology);	Partial  newPartial  =  new  Partial(iChronology,newTypes,  newValues);
-compiledPatch	Time_4	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  newValues);	Partial  newPartial  =  new  Partial(newTypes,  newValues,  iChronology);	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  null);
+identical	Time_4	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  newValues);	Partial  newPartial  =  new  Partial(newTypes,  newValues,  iChronology);	Partial  newPartial  =  new  Partial(newTypes,  newValues,  iChronology);
 different	Time_4	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  newValues);	Partial  newPartial  =  new  Partial(newTypes,  newValues,  iChronology);	partial  =  new  Partial(iChronology,  newTypes,  newValues);
 different	Time_4	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  newValues);	Partial  newPartial  =  new  Partial(newTypes,  newValues,  iChronology);	Partial  newPartial  =  new  Partial(iChronology,  types,  newValues);
 different	Time_4	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  newValues);	Partial  newPartial  =  new  Partial(newTypes,  newValues,  iChronology);	Partial  newPartial  =  new  Partial(iChronology,  newTypes,  value);
@@ -4017,7 +4017,7 @@ different	Math_11	return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2)  *	return
 compiledPatch	Math_11	return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2)  *	return  FastMath.pow(2  *  FastMath.PI,  -0.5  *  dim)  *	return  FastMath.pow(2  *  FastMath.PI,  dim  /  2)  *
 compiledPatch	Math_11	return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2)  *	return  FastMath.pow(2  *  FastMath.PI,  -0.5  *  dim)  *	return  FastMath.pow(25  *  FastMath.PI,  -dim  /  2)  *
 compiledPatch	Math_11	return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2)  *	return  FastMath.pow(2  *  FastMath.PI,  -0.5  *  dim)  *	return  FastMath.pow(2  *  FastMath.PI,  -dim  /  1)  *
-compiledPatch	Math_11	return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2)  *	return  FastMath.pow(2  *  FastMath.PI,  -0.5  *  dim)  *	return  FastMath.pow(6  *  FastMath.PI,  -dim  /  2)  *
+plausible	Math_11	return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2)  *	return  FastMath.pow(2  *  FastMath.PI,  -0.5  *  dim)  *	return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2d)  *
 different	Math_11	return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2)  *	return  FastMath.pow(2  *  FastMath.PI,  -0.5  *  dim)  *	return  FastMath.pow(two  *  FastMath.PI,  -dim  /  2)  *
 different	Math_11	return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2)  *	return  FastMath.pow(2  *  FastMath.PI,  -0.5  *  dim)  *	return  FastMath.pow(  (2  *  FastMath.PI,  -dim  /  2)  *
 different	Math_11	return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2)  *	return  FastMath.pow(2  *  FastMath.PI,  -0.5  *  dim)  *	Return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2)  *
