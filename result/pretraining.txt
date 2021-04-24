@@ -1,0 +1,403 @@
+b'Skipping line 42873: expected 3 fields, saw 4\nSkipping line 91487: expected 3 fields, saw 4\nSkipping line 114300: expected 3 fields, saw 4\nSkipping line 137004: expected 3 fields, saw 4\nSkipping line 149770: expected 3 fields, saw 4\nSkipping line 155215: expected 3 fields, saw 4\nSkipping line 198777: expected 3 fields, saw 4\nSkipping line 219611: expected 3 fields, saw 4\n'
+b'Skipping line 285912: expected 3 fields, saw 4\nSkipping line 349016: expected 3 fields, saw 4\nSkipping line 349041: expected 3 fields, saw 4\nSkipping line 400035: expected 3 fields, saw 4\nSkipping line 409100: expected 3 fields, saw 4\nSkipping line 418119: expected 3 fields, saw 4\nSkipping line 418231: expected 3 fields, saw 5\nSkipping line 420183: expected 3 fields, saw 4\nSkipping line 421161: expected 3 fields, saw 4\nSkipping line 421248: expected 3 fields, saw 5\nSkipping line 424978: expected 3 fields, saw 4\nSkipping line 425118: expected 3 fields, saw 4\nSkipping line 425774: expected 3 fields, saw 4\nSkipping line 426647: expected 3 fields, saw 4\nSkipping line 429422: expected 3 fields, saw 4\nSkipping line 430427: expected 3 fields, saw 4\nSkipping line 433153: expected 3 fields, saw 4\nSkipping line 433215: expected 3 fields, saw 4\nSkipping line 436386: expected 3 fields, saw 4\nSkipping line 436656: expected 3 fields, saw 4\nSkipping line 439181: expected 3 fields, saw 4\nSkipping line 442623: expected 3 fields, saw 4\nSkipping line 448040: expected 3 fields, saw 4\nSkipping line 449329: expected 3 fields, saw 4\nSkipping line 478812: expected 3 fields, saw 4\n'
+b'Skipping line 546412: expected 3 fields, saw 4\nSkipping line 606015: expected 3 fields, saw 4\nSkipping line 607788: expected 3 fields, saw 4\nSkipping line 648658: expected 3 fields, saw 4\nSkipping line 687150: expected 3 fields, saw 6\nSkipping line 695634: expected 3 fields, saw 6\nSkipping line 703746: expected 3 fields, saw 4\nSkipping line 705670: expected 3 fields, saw 4\nSkipping line 720409: expected 3 fields, saw 4\nSkipping line 720410: expected 3 fields, saw 4\nSkipping line 722027: expected 3 fields, saw 4\nSkipping line 723246: expected 3 fields, saw 4\nSkipping line 726861: expected 3 fields, saw 4\nSkipping line 728168: expected 3 fields, saw 4\nSkipping line 728617: expected 3 fields, saw 4\nSkipping line 737396: expected 3 fields, saw 4\nSkipping line 741949: expected 3 fields, saw 4\nSkipping line 768217: expected 3 fields, saw 4\nSkipping line 771123: expected 3 fields, saw 4\nSkipping line 772552: expected 3 fields, saw 4\nSkipping line 776036: expected 3 fields, saw 4\n'
+b'Skipping line 800922: expected 3 fields, saw 4\nSkipping line 804698: expected 3 fields, saw 4\nSkipping line 805062: expected 3 fields, saw 4\nSkipping line 816262: expected 3 fields, saw 4\nSkipping line 944032: expected 3 fields, saw 4\nSkipping line 1006923: expected 3 fields, saw 4\nSkipping line 1007201: expected 3 fields, saw 4\nSkipping line 1007308: expected 3 fields, saw 4\nSkipping line 1010435: expected 3 fields, saw 4\nSkipping line 1025257: expected 3 fields, saw 4\n'
+b'Skipping line 1065785: expected 3 fields, saw 4\nSkipping line 1067893: expected 3 fields, saw 4\nSkipping line 1069983: expected 3 fields, saw 4\nSkipping line 1112639: expected 3 fields, saw 4\nSkipping line 1137086: expected 3 fields, saw 4\nSkipping line 1149923: expected 3 fields, saw 4\nSkipping line 1152302: expected 3 fields, saw 4\nSkipping line 1155554: expected 3 fields, saw 4\nSkipping line 1159923: expected 3 fields, saw 4\n'
+b'Skipping line 1350993: expected 3 fields, saw 6\nSkipping line 1467930: expected 3 fields, saw 4\nSkipping line 1473504: expected 3 fields, saw 5\nSkipping line 1473538: expected 3 fields, saw 42\nSkipping line 1473928: expected 3 fields, saw 75\nSkipping line 1477111: expected 3 fields, saw 15\nSkipping line 1478375: expected 3 fields, saw 5\nSkipping line 1479755: expected 3 fields, saw 17\nSkipping line 1481034: expected 3 fields, saw 7\nSkipping line 1483269: expected 3 fields, saw 4\nSkipping line 1492369: expected 3 fields, saw 4\nSkipping line 1522516: expected 3 fields, saw 4\nSkipping line 1544961: expected 3 fields, saw 4\nSkipping line 1547087: expected 3 fields, saw 4\n'
+b'Skipping line 1599566: expected 3 fields, saw 4\nSkipping line 1605994: expected 3 fields, saw 4\nSkipping line 1608918: expected 3 fields, saw 4\nSkipping line 1609944: expected 3 fields, saw 4\nSkipping line 1612042: expected 3 fields, saw 5\nSkipping line 1635673: expected 3 fields, saw 4\nSkipping line 1651977: expected 3 fields, saw 4\nSkipping line 1677656: expected 3 fields, saw 4\nSkipping line 1684824: expected 3 fields, saw 4\nSkipping line 1687246: expected 3 fields, saw 4\nSkipping line 1687358: expected 3 fields, saw 4\nSkipping line 1694633: expected 3 fields, saw 4\nSkipping line 1734136: expected 3 fields, saw 4\nSkipping line 1766945: expected 3 fields, saw 4\nSkipping line 1780027: expected 3 fields, saw 4\nSkipping line 1813374: expected 3 fields, saw 4\nSkipping line 1822262: expected 3 fields, saw 4\n'
+b'Skipping line 1924545: expected 3 fields, saw 4\nSkipping line 1938266: expected 3 fields, saw 4\nSkipping line 1948816: expected 3 fields, saw 4\nSkipping line 1997469: expected 3 fields, saw 4\nSkipping line 2010232: expected 3 fields, saw 4\nSkipping line 2029568: expected 3 fields, saw 4\nSkipping line 2037452: expected 3 fields, saw 4\nSkipping line 2092663: expected 3 fields, saw 4\n'
+b'Skipping line 2099544: expected 3 fields, saw 5\nSkipping line 2099550: expected 3 fields, saw 4\nSkipping line 2113865: expected 3 fields, saw 4\nSkipping line 2115960: expected 3 fields, saw 4\nSkipping line 2117669: expected 3 fields, saw 4\nSkipping line 2124081: expected 3 fields, saw 4\nSkipping line 2147873: expected 3 fields, saw 6\nSkipping line 2151574: expected 3 fields, saw 6\nSkipping line 2173473: expected 3 fields, saw 4\nSkipping line 2174146: expected 3 fields, saw 4\nSkipping line 2174335: expected 3 fields, saw 4\nSkipping line 2174744: expected 3 fields, saw 4\nSkipping line 2174868: expected 3 fields, saw 6\nSkipping line 2175055: expected 3 fields, saw 4\nSkipping line 2176843: expected 3 fields, saw 4\nSkipping line 2177607: expected 3 fields, saw 4\nSkipping line 2182551: expected 3 fields, saw 4\nSkipping line 2182580: expected 3 fields, saw 7\nSkipping line 2200532: expected 3 fields, saw 4\nSkipping line 2203964: expected 3 fields, saw 4\nSkipping line 2208901: expected 3 fields, saw 4\nSkipping line 2209768: expected 3 fields, saw 4\nSkipping line 2213339: expected 3 fields, saw 4\nSkipping line 2213711: expected 3 fields, saw 4\nSkipping line 2216841: expected 3 fields, saw 4\nSkipping line 2217229: expected 3 fields, saw 4\nSkipping line 2218371: expected 3 fields, saw 4\nSkipping line 2220134: expected 3 fields, saw 4\nSkipping line 2221031: expected 3 fields, saw 4\nSkipping line 2239085: expected 3 fields, saw 4\nSkipping line 2243597: expected 3 fields, saw 4\nSkipping line 2280735: expected 3 fields, saw 4\nSkipping line 2282275: expected 3 fields, saw 4\nSkipping line 2290128: expected 3 fields, saw 4\nSkipping line 2298285: expected 3 fields, saw 4\nSkipping line 2303701: expected 3 fields, saw 4\nSkipping line 2313948: expected 3 fields, saw 4\nSkipping line 2314197: expected 3 fields, saw 4\nSkipping line 2314377: expected 3 fields, saw 4\nSkipping line 2314898: expected 3 fields, saw 4\nSkipping line 2316223: expected 3 fields, saw 4\nSkipping line 2317120: expected 3 fields, saw 4\nSkipping line 2317239: expected 3 fields, saw 4\nSkipping line 2317616: expected 3 fields, saw 4\nSkipping line 2318081: expected 3 fields, saw 4\nSkipping line 2320379: expected 3 fields, saw 4\nSkipping line 2344771: expected 3 fields, saw 4\n'
+b'Skipping line 2366611: expected 3 fields, saw 4\nSkipping line 2367373: expected 3 fields, saw 4\nSkipping line 2375916: expected 3 fields, saw 4\nSkipping line 2439262: expected 3 fields, saw 4\nSkipping line 2484446: expected 3 fields, saw 4\nSkipping line 2549763: expected 3 fields, saw 6\nSkipping line 2550426: expected 3 fields, saw 6\nSkipping line 2562245: expected 3 fields, saw 4\nSkipping line 2562423: expected 3 fields, saw 4\nSkipping line 2570196: expected 3 fields, saw 4\nSkipping line 2617751: expected 3 fields, saw 4\nSkipping line 2617933: expected 3 fields, saw 4\nSkipping line 2619204: expected 3 fields, saw 4\n'   bugid  ...                                              patch
+0      1  ...             public StringBuffer append(Object obj)
+1      2  ...  return append(obj == null ? "null" : obj.toStr...
+2      3  ...                 public String substring(int begin)
+3      4  ...                    return substring(begin, count);
+4      5  ...                            public FSEntry next() {
+
+[5 rows x 3 columns]
+   bugid  ...                                              patch
+0      1  ...             public StringBuffer append(Object obj)
+1      2  ...  return append(obj == null ? "null" : obj.toStr...
+2      3  ...                 public String substring(int begin)
+3      4  ...                    return substring(begin, count);
+4      5  ...                            public FSEntry next() {
+
+[5 rows x 3 columns]
+                                               bugid  ...                                              patch
+0  elasticsearch_96a2950ab5136d3e39d33eb510de438e...  ...  if  (tuple.v1().getAsBoolean( "bootstrap.mlock...
+1  elasticsearch_5f538b1ba39f939e6b596defd333d556...  ...  assertThat( "10b ",  is(new  ByteSizeValue(10,...
+2  elasticsearch_2880cd01720455bcd8fffea23034ec6e...  ...      public  int  freq()  throws  IOException  {  
+3  elasticsearch_1952df982b69873544c00470293ee851...  ...  List<Field>  versionFields  =  new  ArrayList<...
+4    libgdx_dde6ef4fcc094ae67666338a889eace1ec057a92  ...                 vertices[i]  =  din.readFloat();  
+
+[5 rows x 3 columns]
+                                               buggy                                              patch
+0  buggy:  if  (tuple.v1().getAsBoolean( "bootstr...  if  (tuple.v1().getAsBoolean( "bootstrap.mlock...
+1  buggy:  assertThat( "10 ",  is(new  ByteSizeVa...  assertThat( "10b ",  is(new  ByteSizeValue(10,...
+2  buggy:  public  float  freq()  throws  IOExcep...      public  int  freq()  throws  IOException  {  
+3  buggy:  List<Field>  versionFields  =  new  Ar...  List<Field>  versionFields  =  new  ArrayList<...
+4  buggy:  vertices[i]  =  din.readInt();  contex...                 vertices[i]  =  din.readFloat();  
+                bugid  ...                                              patch
+0  JacksonDatabind_26  ...  implements  BeanProperty,  java.io.Serializabl...
+1            Jsoup_13  ...  if  (attributeKey.toLowerCase().startsWith( "a...
+2        JacksonXml_6  ...  @Override  public  int  writeBinary(Base64Vari...
+3          Closure_24  ...  if  (parent.isVar()  &&  n.hasChildren()  &&  ...
+4  JacksonDatabind_87  ...  protected  final  static  String  DATE_FORMAT_...
+
+[5 rows x 3 columns]
+                                               buggy                                              patch
+0  buggy:  implements  BeanProperty  context:  pu...  implements  BeanProperty,  java.io.Serializabl...
+1  buggy:  context:  }  public  boolean  hasAttr(...  if  (attributeKey.toLowerCase().startsWith( "a...
+2  buggy:  context:  _xmlWriter.writeStartElement...  @Override  public  int  writeBinary(Base64Vari...
+3  buggy:  if  (parent.isVar())  {  if  (n.hasChi...  if  (parent.isVar()  &&  n.hasChildren()  &&  ...
+4  buggy:  StringBuilder  sb  =  new  StringBuild...  protected  final  static  String  DATE_FORMAT_...
+FULL Dataset: (3241248, 3)
+TRAIN Dataset: (3241248, 3)
+VALID Dataset: (4091, 2)
+TEST Dataset: (124, 2)
+Initiating Fine-Tuning for the model on our dataset
+
+b'Skipping line 2624181: expected 3 fields, saw 4\nSkipping line 2628309: expected 3 fields, saw 4\nSkipping line 2648681: expected 3 fields, saw 4\nSkipping line 2690840: expected 3 fields, saw 4\nSkipping line 2695119: expected 3 fields, saw 4\nSkipping line 2702931: expected 3 fields, saw 4\nSkipping line 2713889: expected 3 fields, saw 4\nSkipping line 2717942: expected 3 fields, saw 4\nSkipping line 2752133: expected 3 fields, saw 4\nSkipping line 2759576: expected 3 fields, saw 4\nSkipping line 2761160: expected 3 fields, saw 4\nSkipping line 2763442: expected 3 fields, saw 4\nSkipping line 2776175: expected 3 fields, saw 4\n'
+b'Skipping line 2905967: expected 3 fields, saw 4\nSkipping line 2918076: expected 3 fields, saw 4\nSkipping line 2928687: expected 3 fields, saw 6\nSkipping line 2932264: expected 3 fields, saw 4\nSkipping line 2933194: expected 3 fields, saw 6\nSkipping line 2943760: expected 3 fields, saw 4\nSkipping line 3004372: expected 3 fields, saw 4\nSkipping line 3010350: expected 3 fields, saw 4\nSkipping line 3020308: expected 3 fields, saw 4\nSkipping line 3079409: expected 3 fields, saw 4\nSkipping line 3086155: expected 3 fields, saw 4\nSkipping line 3093099: expected 3 fields, saw 4\nSkipping line 3093100: expected 3 fields, saw 4\nSkipping line 3094321: expected 3 fields, saw 4\nSkipping line 3129965: expected 3 fields, saw 4\nSkipping line 3145669: expected 3 fields, saw 4\n'
+b'Skipping line 3147556: expected 3 fields, saw 4\nSkipping line 3148036: expected 3 fields, saw 4\nSkipping line 3153566: expected 3 fields, saw 4\n'
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Total Loss:  47.16189569234848/205
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Completed 0
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Epoch: 8, Loss:  0.38198739290237427
+Epoch: 8, Loss:  0.44421079754829407
+Epoch: 8, Loss:  0.5171935558319092
+Epoch: 8, Loss:  0.30133283138275146
+Epoch: 8, Loss:  0.4046313762664795
+Epoch: 8, Loss:  0.38082969188690186
+Epoch: 8, Loss:  0.3394181728363037
+Epoch: 8, Loss:  0.5311248302459717
+Epoch: 8, Loss:  0.5348709225654602
+Epoch: 8, Loss:  0.4088119566440582
+Epoch: 8, Loss:  0.19886767864227295
+Epoch: 8, Loss:  0.48691850900650024
+Epoch: 8, Loss:  0.5079020261764526
+Epoch: 8, Loss:  0.32476797699928284
+Epoch: 8, Loss:  0.634171724319458
+Epoch: 8, Loss:  0.3789699375629425
+Epoch: 8, Loss:  0.35463249683380127
+Epoch: 8, Loss:  0.6765637993812561
+Epoch: 8, Loss:  0.20654457807540894
+Epoch: 8, Loss:  0.44795018434524536
+Epoch: 8, Loss:  0.35868701338768005
+Epoch: 8, Loss:  0.25587570667266846
+Epoch: 8, Loss:  0.3271520435810089
+Epoch: 8, Loss:  0.41196346282958984
+Epoch: 8, Loss:  0.38811588287353516
+Epoch: 8, Loss:  0.16819754242897034
+Epoch: 8, Loss:  0.5116391181945801
+Epoch: 8, Loss:  0.2829113304615021
+Epoch: 8, Loss:  0.42747291922569275
+Epoch: 8, Loss:  0.42861974239349365
+Epoch: 8, Loss:  0.24042414128780365
+Epoch: 8, Loss:  0.2336624711751938
+Epoch: 8, Loss:  0.46982628107070923
+Epoch: 8, Loss:  0.41470837593078613
+Epoch: 8, Loss:  0.30970603227615356
+Epoch: 8, Loss:  0.4019601345062256
+Epoch: 8, Loss:  0.3575972318649292
+Epoch: 8, Loss:  0.6280376315116882
+Epoch: 8, Loss:  0.33732283115386963
+Epoch: 8, Loss:  0.40869757533073425
+Epoch: 8, Loss:  0.44252434372901917
+Epoch: 8, Loss:  0.1928524374961853
+Epoch: 8, Loss:  0.32786059379577637
+Epoch: 8, Loss:  0.22825317084789276
+Epoch: 8, Loss:  0.4288574457168579
+Epoch: 8, Loss:  0.6984753608703613
+Epoch: 8, Loss:  0.3512808084487915
+Epoch: 8, Loss:  0.5027638077735901
+Epoch: 8, Loss:  0.5286931395530701
+Epoch: 8, Loss:  0.574019730091095
+Epoch: 8, Loss:  0.3526334762573242
+Epoch: 8, Loss:  0.46691766381263733
+Epoch: 8, Loss:  0.22174328565597534
+Epoch: 8, Loss:  0.2596665620803833
+Epoch: 8, Loss:  0.3414275348186493
+Epoch: 8, Loss:  0.2545540928840637
+Epoch: 8, Loss:  0.3824133574962616
+Epoch: 8, Loss:  0.22124265134334564
+Epoch: 8, Loss:  0.1424846351146698
+Epoch: 8, Loss:  0.333487331867218
+Epoch: 8, Loss:  0.5990439653396606
+Epoch: 8, Loss:  0.418920636177063
+Epoch: 8, Loss:  0.45609942078590393
+Epoch: 8, Loss:  0.2505578100681305
+Epoch: 8, Loss:  0.40615832805633545
+Epoch: 8, Loss:  0.4452366828918457
+Epoch: 8, Loss:  0.600175142288208
+Epoch: 8, Loss:  0.26876309514045715
+Epoch: 8, Loss:  0.3761233687400818
+Epoch: 8, Loss:  0.5040968656539917
+Epoch: 8, Loss:  0.22601066529750824
+Epoch: 8, Loss:  0.40457648038864136
+Epoch: 8, Loss:  0.3142058551311493
+Epoch: 8, Loss:  0.3674877882003784
+Epoch: 8, Loss:  0.3087168037891388
+Epoch: 8, Loss:  0.25249478220939636
+Epoch: 8, Loss:  0.3685349225997925
+Epoch: 8, Loss:  0.40411320328712463
+Epoch: 8, Loss:  0.22704724967479706
+Epoch: 8, Loss:  0.40720561146736145
+Epoch: 8, Loss:  0.537135660648346
+Epoch: 8, Loss:  0.3184267580509186
+Epoch: 8, Loss:  0.7972848415374756
+Epoch: 8, Loss:  0.392079621553421
+Epoch: 8, Loss:  0.5190437436103821
+Epoch: 8, Loss:  0.3318723440170288
+Epoch: 8, Loss:  0.39374157786369324
+Epoch: 8, Loss:  0.7329038977622986
+Epoch: 8, Loss:  0.25061750411987305
+Epoch: 8, Loss:  0.4723169803619385
+Epoch: 8, Loss:  0.7315423488616943
+Epoch: 8, Loss:  0.29770970344543457
+Epoch: 8, Loss:  0.286661833524704
+Epoch: 8, Loss:  0.3165664076805115
+Epoch: 8, Loss:  0.21211758255958557
+Epoch: 8, Loss:  0.5326880812644958
+Epoch: 8, Loss:  0.39138755202293396
+Epoch: 8, Loss:  0.44334906339645386
+Epoch: 8, Loss:  0.5159503817558289
+Epoch: 8, Loss:  0.7202918529510498
+Epoch: 8, Loss:  0.2567943036556244
+Epoch: 8, Loss:  0.5581793189048767
+Epoch: 8, Loss:  0.2731829881668091
+Epoch: 8, Loss:  0.6880132555961609
+Epoch: 8, Loss:  0.24159273505210876
+Epoch: 8, Loss:  0.4939483106136322
+Epoch: 8, Loss:  0.5584602952003479
+Epoch: 8, Loss:  0.5600594878196716
+Epoch: 8, Loss:  0.4352062940597534
+Epoch: 8, Loss:  0.31789475679397583
+Epoch: 8, Loss:  0.350553423166275
+Epoch: 8, Loss:  0.49444717168807983
+Epoch: 8, Loss:  0.21849477291107178
+Epoch: 8, Loss:  0.3606175184249878
+Epoch: 8, Loss:  0.29475149512290955
+Epoch: 8, Loss:  0.5272531509399414
+Epoch: 8, Loss:  0.4090019464492798
+Epoch: 8, Loss:  0.2640809416770935
+Epoch: 8, Loss:  0.21600879728794098
+Epoch: 8, Loss:  0.546605110168457
+Epoch: 8, Loss:  0.42871540784835815
+Epoch: 8, Loss:  0.29192760586738586
+Epoch: 8, Loss:  0.4425528049468994
+Epoch: 8, Loss:  0.3259531855583191
+Epoch: 8, Loss:  0.46562305092811584
+Epoch: 8, Loss:  0.35744112730026245
+Epoch: 8, Loss:  0.5927512049674988
+Epoch: 8, Loss:  0.20064447820186615
+Epoch: 8, Loss:  0.3541738986968994
+Epoch: 8, Loss:  0.5781410932540894
+Epoch: 8, Loss:  0.8166228532791138
+Epoch: 8, Loss:  0.20532840490341187
+Epoch: 8, Loss:  0.4171449542045593
+Epoch: 8, Loss:  0.2509221136569977
+Epoch: 8, Loss:  0.5730529427528381
+Epoch: 8, Loss:  0.3953021168708801
+Epoch: 8, Loss:  0.4189033806324005
+Epoch: 8, Loss:  0.33308541774749756
+Epoch: 8, Loss:  0.6613797545433044
+Epoch: 8, Loss:  0.608212947845459
+Epoch: 8, Loss:  0.33616581559181213
+Epoch: 8, Loss:  0.6081207394599915
+Epoch: 8, Loss:  0.31483402848243713
+Epoch: 8, Loss:  0.307587206363678
+Epoch: 8, Loss:  0.29278799891471863
+Epoch: 8, Loss:  0.07063934952020645
+Epoch: 8, Loss:  0.32794487476348877
+Epoch: 8, Loss:  0.44394680857658386
+Epoch: 8, Loss:  0.4592110216617584
+Epoch: 8, Loss:  0.36029624938964844
+Epoch: 8, Loss:  0.42174699902534485
+Epoch: 8, Loss:  0.29361680150032043
+Epoch: 8, Loss:  0.19066937267780304
+Epoch: 8, Loss:  0.3511108458042145
+Epoch: 8, Loss:  0.21656642854213715
+Epoch: 8, Loss:  0.4070253074169159
+Epoch: 8, Loss:  0.42453521490097046
+Epoch: 8, Loss:  0.3071437180042267
+Epoch: 8, Loss:  0.42945533990859985
+Epoch: 8, Loss:  0.15179741382598877
+Epoch: 8, Loss:  0.2700071930885315
+Epoch: 8, Loss:  0.31027135252952576
+Epoch: 8, Loss:  0.787226676940918
+Epoch: 8, Loss:  0.5187327861785889
+Epoch: 8, Loss:  0.37160953879356384
+Epoch: 8, Loss:  0.3955913782119751
+Epoch: 8, Loss:  0.4090914726257324
+Epoch: 8, Loss:  0.35145822167396545
+Epoch: 8, Loss:  0.4837825894355774
+Epoch: 8, Loss:  0.5578597187995911
+Epoch: 8, Loss:  0.22568194568157196
+Epoch: 8, Loss:  0.1656561940908432
+Epoch: 8, Loss:  0.5091487765312195
+Epoch: 8, Loss:  0.32226020097732544
+Epoch: 8, Loss:  0.6412508487701416
+Epoch: 8, Loss:  0.32113584876060486
+Epoch: 8, Loss:  0.19486136734485626
+Epoch: 8, Loss:  0.5772574543952942
+Epoch: 8, Loss:  0.6267673373222351
+Epoch: 8, Loss:  0.5991432070732117
+Epoch: 8, Loss:  0.22453632950782776
+Epoch: 8, Loss:  0.25488120317459106
+Epoch: 8, Loss:  0.46513739228248596
+Epoch: 8, Loss:  0.2572011649608612
+Epoch: 8, Loss:  0.22689855098724365
+Epoch: 8, Loss:  1.0869660377502441
+Epoch: 8, Loss:  0.5425888299942017
+Epoch: 8, Loss:  0.32506924867630005
+Epoch: 8, Loss:  0.33600959181785583
+Epoch: 8, Loss:  0.4252050817012787
+Epoch: 8, Loss:  0.31638261675834656
+Epoch: 8, Loss:  0.3587622344493866
+Epoch: 8, Loss:  0.6127788424491882
+Epoch: 8, Loss:  0.27348241209983826
+Epoch: 8, Loss:  0.37470489740371704
+Epoch: 8, Loss:  0.41218462586402893
+Epoch: 8, Loss:  0.3380163908004761
+Epoch: 8, Loss:  0.20986458659172058
+Epoch: 8, Loss:  0.37968680262565613
+Epoch: 8, Loss:  0.29021191596984863
+Epoch: 8, Loss:  0.38468918204307556
+Epoch: 8, Loss:  0.5518163442611694
+Epoch: 8, Loss:  0.5193958282470703
+Epoch: 8, Loss:  0.4968620538711548
+Epoch: 8, Loss:  0.3683694899082184
+Epoch: 8, Loss:  0.3721267580986023
+Epoch: 8, Loss:  0.6228694319725037
+Epoch: 8, Loss:  0.6089717745780945
+Epoch: 8, Loss:  0.27128997445106506
+Epoch: 8, Loss:  0.2890894114971161
+Epoch: 8, Loss:  0.24609051644802094
+Epoch: 8, Loss:  0.42679163813591003
+Epoch: 8, Loss:  0.6721359491348267
+Epoch: 8, Loss:  0.12989550828933716
+Epoch: 8, Loss:  0.42176228761672974
+Epoch: 8, Loss:  0.5628648400306702
+Epoch: 8, Loss:  0.23375073075294495
+Epoch: 8, Loss:  0.18890470266342163
+Epoch: 8, Loss:  0.5328376889228821
+Epoch: 8, Loss:  0.5678470730781555
+Epoch: 8, Loss:  0.17345383763313293
+Epoch: 8, Loss:  0.2622388005256653
+Epoch: 8, Loss:  0.6923567652702332
+Epoch: 8, Loss:  0.5631389021873474
+Epoch: 8, Loss:  0.3174215853214264
+Epoch: 8, Loss:  0.7098469734191895
+Epoch: 8, Loss:  0.3967561721801758
+Epoch: 8, Loss:  0.2657829225063324
+Epoch: 8, Loss:  0.24261897802352905
+Epoch: 8, Loss:  1.2166948318481445
+Epoch: 8, Loss:  0.24713647365570068
+Epoch: 8, Loss:  0.39812523126602173
+Epoch: 8, Loss:  0.768170177936554
+Epoch: 8, Loss:  0.24262213706970215
+Epoch: 8, Loss:  0.5227498412132263
+Epoch: 8, Loss:  0.38783007860183716
+Epoch: 8, Loss:  0.40663963556289673
+Epoch: 8, Loss:  0.5706076622009277
+Epoch: 8, Loss:  0.3593745231628418
+Epoch: 8, Loss:  0.2249973714351654
+Epoch: 8, Loss:  0.4049478769302368
+Epoch: 8, Loss:  0.35482749342918396
+Epoch: 8, Loss:  0.28245246410369873
+Epoch: 8, Loss:  0.3810262978076935
+Epoch: 8, Loss:  0.4199211895465851
+Epoch: 8, Loss:  0.5039308071136475
+Epoch: 8, Loss:  0.6379168033599854
+Epoch: 8, Loss:  0.32858994603157043
+Epoch: 8, Loss:  0.23305025696754456
+Epoch: 8, Loss:  0.16130799055099487
+Epoch: 8, Loss:  0.34304454922676086
+Epoch: 8, Loss:  0.5624921321868896
+Epoch: 8, Loss:  0.25099727511405945
+Epoch: 8, Loss:  0.586841344833374
+Epoch: 8, Loss:  0.6941988468170166
+Epoch: 8, Loss:  0.23210203647613525
+Epoch: 8, Loss:  0.40754884481430054
+Epoch: 8, Loss:  0.3747054934501648
+Epoch: 8, Loss:  0.643223762512207
+Epoch: 8, Loss:  0.21157272160053253
+Epoch: 8, Loss:  0.39266708493232727
+Epoch: 8, Loss:  0.43136173486709595
+Epoch: 8, Loss:  0.3700203597545624
+Epoch: 8, Loss:  0.2516002953052521
+Epoch: 8, Loss:  0.32931190729141235
+Epoch: 8, Loss:  0.27132147550582886
+Epoch: 8, Loss:  0.336424320936203
+Epoch: 8, Loss:  0.41037821769714355
+Epoch: 8, Loss:  0.25991904735565186
+Epoch: 8, Loss:  0.4305669367313385
+Epoch: 8, Loss:  0.3599526882171631
+Epoch: 8, Loss:  0.24010159075260162
+Epoch: 8, Loss:  0.44222739338874817
+Epoch: 8, Loss:  0.24007941782474518
+Epoch: 8, Loss:  0.09415582567453384
+Epoch: 8, Loss:  0.37965133786201477
+Epoch: 8, Loss:  0.5255840420722961
+Epoch: 8, Loss:  0.47132864594459534
+Epoch: 8, Loss:  0.3784647285938263
+Epoch: 8, Loss:  0.5383055210113525
+Epoch: 8, Loss:  0.4295242130756378
+Epoch: 8, Loss:  0.4177417755126953
+Epoch: 8, Loss:  0.25709956884384155
+Epoch: 8, Loss:  0.25548216700553894
+Epoch: 8, Loss:  0.5053197741508484
+Epoch: 8, Loss:  0.46734920144081116
+Epoch: 8, Loss:  0.27795159816741943
+Epoch: 8, Loss:  0.4012671709060669
+Epoch: 8, Loss:  0.24855799973011017
+Epoch: 8, Loss:  0.2404782623052597
+Epoch: 8, Loss:  0.33095186948776245
+Epoch: 8, Loss:  0.32994356751441956
+Epoch: 8, Loss:  0.4575478136539459
+Epoch: 8, Loss:  0.6380208134651184
+Epoch: 8, Loss:  0.4057551622390747
+Epoch: 8, Loss:  0.5273739695549011
+Epoch: 8, Loss:  0.35778388381004333
+Epoch: 8, Loss:  0.8328800797462463
+Epoch: 8, Loss:  0.49084022641181946
+Epoch: 8, Loss:  0.33531832695007324
+Epoch: 8, Loss:  0.3276836574077606
+Epoch: 8, Loss:  0.5934118628501892
+Epoch: 8, Loss:  0.5007367134094238
+Epoch: 8, Loss:  0.36143195629119873
+Epoch: 8, Loss:  0.20904353260993958
+Epoch: 8, Loss:  0.3786357343196869
+Epoch: 8, Loss:  0.21474449336528778
+Epoch: 8, Loss:  0.34370502829551697
+Epoch: 8, Loss:  0.20548243820667267
+Epoch: 8, Loss:  0.7225760817527771
+Epoch: 8, Loss:  0.49490031599998474
+Epoch: 8, Loss:  0.5396386981010437
+Epoch: 8, Loss:  0.2354513704776764
+Epoch: 8, Loss:  0.457157164812088
+Epoch: 8, Loss:  1.156614899635315
+Epoch: 8, Loss:  0.9940051436424255
+Epoch: 8, Loss:  0.32049351930618286
+Epoch: 8, Loss:  0.4735441505908966
+Epoch: 8, Loss:  0.3055751621723175
+Epoch: 8, Loss:  0.4552282691001892
+Epoch: 8, Loss:  0.6521838903427124
+Epoch: 8, Loss:  0.26860475540161133
+Epoch: 8, Loss:  0.42959776520729065
+Epoch: 8, Loss:  0.44280311465263367
+Epoch: 8, Loss:  0.36389127373695374
+Validating on valid dataset *********: 8
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Total Loss:  51.66149054765701/205
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Completed 0
+Output Files generated for review

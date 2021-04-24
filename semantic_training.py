@@ -13,9 +13,9 @@ import csv
 import Discriminator
 
 
-def train_generator_PG(generator, gen_opt, gen_tokenizer, adv_loader, device,epoch):
+def train_generator_reward(generator, gen_opt, gen_tokenizer, adv_loader, device,epoch):
     """
-    The generator is trained using policy gradients, using the reward from the discriminator.
+    The generator is trained using the reward from the discriminator.
     Training is done for num_batches batches.
     """
     generator.train()
@@ -30,18 +30,8 @@ def train_generator_PG(generator, gen_opt, gen_tokenizer, adv_loader, device,epo
         bugid = data['bugid'].to(device, dtype = torch.long)
         print(f'bugid: {bugid}')
         
-        adv_train_count = 0
-        
-        continueAdvTraining = True
-        
-        
-#         print(f'ids: {ids}')
-        bugcode = ids[0]
-        end_index=getEndIndex(bugcode,2625)         #2625 is the index for 'context'          
-        bugcode = bugcode[3:end_index-1]
-        buggy = [gen_tokenizer.decode(bugcode, skip_special_tokens=True, clean_up_tokenization_spaces=True)]
-
-            
+        adv_train_count = 0        
+        continueAdvTraining = True         
             
         while(continueAdvTraining):
             outputs = generator(input_ids = ids, attention_mask = mask, decoder_input_ids=y_ids, lm_labels=lm_labels)
@@ -82,22 +72,6 @@ def train_generator_PG(generator, gen_opt, gen_tokenizer, adv_loader, device,epo
                 continueAdvTraining = False
    
 
-
-
-
-
-
-    
-
-                
-def getEndIndex(g,index):
-    end_index=0
-    for i in g:
-        end_index+=1
-        # 1 for </s>
-        if i == index:
-            break
-    return end_index
                 
                 
 def identity_discriminator(buggy, predstr):
@@ -107,10 +81,7 @@ def identity_discriminator(buggy, predstr):
         return 'same'
     else:
         return 'different'
-    
-    
-    
-    
+     
     
     
     
@@ -131,7 +102,7 @@ def validate_by_compiler(bugid, preds):
 
 
 def recordData(epoch,bugid, adv_train_count, crossEntropLoss, reward, preds):
-    with open('./motivating_training_quixbugs_logs.csv', 'a') as csvfile:
+    with open('./logs.csv', 'a') as csvfile:
         filewriter = csv.writer(csvfile, delimiter='\t',quotechar='"',quoting=csv.QUOTE_MINIMAL)
         filewriter.writerow([epoch, bugid, adv_train_count, crossEntropLoss, reward, preds])
         
@@ -160,7 +131,7 @@ def valid( tokenizer, model, device, loader,epoch):
         
         
 def test(tokenizer, model, device, loader,epoch):
-    return_sequences = 100
+    return_sequences = 50
     model.eval()
     predictions = []
     actuals = []
@@ -189,7 +160,7 @@ def test(tokenizer, model, device, loader,epoch):
             target = target[0]
             
             
-            with open('./data/D4JV1_125Bugs_adv3'+'.csv', 'a') as csvfile:
+            with open('./data/D4J'+'.csv', 'a') as csvfile:
                 filewriter = csv.writer(csvfile, delimiter='\t',quotechar='"',quoting=csv.QUOTE_MINIMAL)
                 for i in range(0,return_sequences):
                     filewriter.writerow([preds[i],target])
@@ -239,8 +210,7 @@ def getValidTestDataLoader(path,tokenizer,batchsize):
 
 def run_adv_training():
 
-    ADV_TRAIN_PATH= './data/motivating.csv'
-#     ADV_TRAIN_PATH= './data/adversial_training_Quixbugs.csv'
+    ADV_TRAIN_PATH= './data/adversial_training_Quixbugs.csv'
     VALID_PATH='./data/CodRep4.csv'
     TEST_PATH='./data/D4JPairs.csv'
     
@@ -255,24 +225,17 @@ def run_adv_training():
     test_loader=getValidTestDataLoader(TEST_PATH,gen_tokenizer,1) 
 
 
-#     valid(gen_tokenizer, gen, device, valid_loader,'before adversial training')
 
     for epoch in range(ADV_TRAIN_EPOCHS):
 #         print('\n--------\nEPOCH %d\n--------' % (epoch+1))
         print('\nAdversarial Training Generator : ', end='')
-        train_generator_PG(gen, gen_optimizer, gen_tokenizer, adv_loader, device, epoch)         
+        train_generator_reward(gen, gen_optimizer, gen_tokenizer, adv_loader, device, epoch)         
         
     
-#         gen.save_pretrained('./model/T5Coconut_adv'+str(epoch))
-#         gen_tokenizer.save_pretrained('./model/T5Coconut_adv'+str(epoch))
+        gen.save_pretrained('./model/T5Coconut_adv'+str(epoch))
+        gen_tokenizer.save_pretrained('./model/T5Coconut_adv'+str(epoch))
 
-#         print(f'Validating on valid dataset *********: {epoch}')
-#         valid(gen_tokenizer, gen, device, valid_loader,epoch+1)
-        
-#         print(f'Validating on test dataset *********: {epoch}')
-#         test(gen_tokenizer, gen, device, test_loader, epoch)       
-#         print('Output Files generated for review')
-        
+   
 
         
         
