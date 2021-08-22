@@ -1,0 +1,1 @@
+{ currEntry = new TarArchiveEntry(headerBuf); } catch (IOllegalArgumentException e) { } e..eoe = new IOException( "Coror reading insing Tar entry:); } ifoe.initCause(e); } neweoe; }

@@ -1,0 +1,77 @@
+                                      bugid  ...                                     patch
+0  cabd54f8a63ab63948bd7b39b44137c4fc7ff990  ...                                       NaN
+1  7149fdf39503f8a276c375fdd93326db5e530296  ...                                          
+2  9b2c4ad19ce10aa565463b45c381064477a26d48  ...  if  (getActivity()  ==  null)  return;  
+3  f0f70c0050e1a66f163ef35c1db55c8f2c3e11ab  ...                                       NaN
+4  a8dec73d5691dd285415234be0f3e3bf5cbab1b0  ...                                       NaN
+
+[5 rows x 3 columns]
+                                      bugid  ...                                     patch
+0  cabd54f8a63ab63948bd7b39b44137c4fc7ff990  ...                                       NaN
+1  7149fdf39503f8a276c375fdd93326db5e530296  ...                                          
+2  9b2c4ad19ce10aa565463b45c381064477a26d48  ...  if  (getActivity()  ==  null)  return;  
+3  f0f70c0050e1a66f163ef35c1db55c8f2c3e11ab  ...                                       NaN
+4  a8dec73d5691dd285415234be0f3e3bf5cbab1b0  ...                                       NaN
+
+[5 rows x 3 columns]
+                                               bugid  ...                                              patch
+0  elasticsearch_96a2950ab5136d3e39d33eb510de438e...  ...  if  (tuple.v1().getAsBoolean( "bootstrap.mlock...
+1  elasticsearch_5f538b1ba39f939e6b596defd333d556...  ...  assertThat( "10b ",  is(new  ByteSizeValue(10,...
+2  elasticsearch_2880cd01720455bcd8fffea23034ec6e...  ...      public  int  freq()  throws  IOException  {  
+3  elasticsearch_1952df982b69873544c00470293ee851...  ...  List<Field>  versionFields  =  new  ArrayList<...
+4    libgdx_dde6ef4fcc094ae67666338a889eace1ec057a92  ...                 vertices[i]  =  din.readFloat();  
+
+[5 rows x 3 columns]
+                                               buggy                                              patch
+0  buggy:  if  (tuple.v1().getAsBoolean( "bootstr...  if  (tuple.v1().getAsBoolean( "bootstrap.mlock...
+1  buggy:  assertThat( "10 ",  is(new  ByteSizeVa...  assertThat( "10b ",  is(new  ByteSizeValue(10,...
+2  buggy:  public  float  freq()  throws  IOExcep...      public  int  freq()  throws  IOException  {  
+3  buggy:  List<Field>  versionFields  =  new  Ar...  List<Field>  versionFields  =  new  ArrayList<...
+4  buggy:  vertices[i]  =  din.readInt();  contex...                 vertices[i]  =  din.readFloat();  
+                                               bugid  ...                                              patch
+0  elasticsearch_96a2950ab5136d3e39d33eb510de438e...  ...  if  (tuple.v1().getAsBoolean( "bootstrap.mlock...
+1  elasticsearch_5f538b1ba39f939e6b596defd333d556...  ...  assertThat( "10b ",  is(new  ByteSizeValue(10,...
+2  elasticsearch_2880cd01720455bcd8fffea23034ec6e...  ...      public  int  freq()  throws  IOException  {  
+3  elasticsearch_1952df982b69873544c00470293ee851...  ...  List<Field>  versionFields  =  new  ArrayList<...
+4    libgdx_dde6ef4fcc094ae67666338a889eace1ec057a92  ...                 vertices[i]  =  din.readFloat();  
+
+[5 rows x 3 columns]
+                                               buggy                                              patch
+0  buggy:  if  (tuple.v1().getAsBoolean( "bootstr...  if  (tuple.v1().getAsBoolean( "bootstrap.mlock...
+1  buggy:  assertThat( "10 ",  is(new  ByteSizeVa...  assertThat( "10b ",  is(new  ByteSizeValue(10,...
+2  buggy:  public  float  freq()  throws  IOExcep...      public  int  freq()  throws  IOException  {  
+3  buggy:  List<Field>  versionFields  =  new  Ar...  List<Field>  versionFields  =  new  ArrayList<...
+4  buggy:  vertices[i]  =  din.readInt();  contex...                 vertices[i]  =  din.readFloat();  
+FULL Dataset: (227089, 3)
+TRAIN Dataset: (227089, 3)
+VALID Dataset: (4094, 2)
+TEST Dataset: (4094, 2)
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Epoch: 11, Loss:  0.4776233434677124
+Epoch: 11, Loss:  0.5481257438659668
+Epoch: 11, Loss:  0.6128044128417969
+Epoch: 11, Loss:  0.1625276356935501
+Epoch: 11, Loss:  0.3884772062301636
+Epoch: 11, Loss:  0.521714985370636
+Epoch: 11, Loss:  0.6114818453788757
+Epoch: 11, Loss:  0.27908703684806824
+Epoch: 11, Loss:  0.5072675943374634
+Epoch: 11, Loss:  0.3304949700832367
+Epoch: 11, Loss:  0.6612294912338257
+Epoch: 11, Loss:  0.1907840371131897
+Epoch: 11, Loss:  0.7601513266563416
+Epoch: 11, Loss:  0.45989251136779785
+Epoch: 11, Loss:  0.17202803492546082
+Epoch: 11, Loss:  0.1954505741596222
+Epoch: 11, Loss:  0.3345801830291748
+Epoch: 11, Loss:  0.42362913489341736
+Epoch: 11, Loss:  0.5159464478492737
+Epoch: 11, Loss:  0.6463744044303894
+Epoch: 11, Loss:  0.627021849155426
+Epoch: 11, Loss:  0.2047756314277649
+Epoch: 11, Loss:  0.23502041399478912
+Validating on valid dataset *********: 11
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Total Loss:  33.61601746827364/205
