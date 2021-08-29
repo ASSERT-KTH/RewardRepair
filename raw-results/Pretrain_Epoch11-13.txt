@@ -1,0 +1,141 @@
+                                      bugid  ...                                     patch
+0  cabd54f8a63ab63948bd7b39b44137c4fc7ff990  ...                                       NaN
+1  7149fdf39503f8a276c375fdd93326db5e530296  ...                                          
+2  9b2c4ad19ce10aa565463b45c381064477a26d48  ...  if  (getActivity()  ==  null)  return;  
+3  f0f70c0050e1a66f163ef35c1db55c8f2c3e11ab  ...                                       NaN
+4  a8dec73d5691dd285415234be0f3e3bf5cbab1b0  ...                                       NaN
+
+[5 rows x 3 columns]
+                                      bugid  ...                                     patch
+0  cabd54f8a63ab63948bd7b39b44137c4fc7ff990  ...                                       NaN
+1  7149fdf39503f8a276c375fdd93326db5e530296  ...                                          
+2  9b2c4ad19ce10aa565463b45c381064477a26d48  ...  if  (getActivity()  ==  null)  return;  
+3  f0f70c0050e1a66f163ef35c1db55c8f2c3e11ab  ...                                       NaN
+4  a8dec73d5691dd285415234be0f3e3bf5cbab1b0  ...                                       NaN
+
+[5 rows x 3 columns]
+                                               bugid  ...                                              patch
+0  elasticsearch_96a2950ab5136d3e39d33eb510de438e...  ...  if  (tuple.v1().getAsBoolean( "bootstrap.mlock...
+1  elasticsearch_5f538b1ba39f939e6b596defd333d556...  ...  assertThat( "10b ",  is(new  ByteSizeValue(10,...
+2  elasticsearch_2880cd01720455bcd8fffea23034ec6e...  ...      public  int  freq()  throws  IOException  {  
+3  elasticsearch_1952df982b69873544c00470293ee851...  ...  List<Field>  versionFields  =  new  ArrayList<...
+4    libgdx_dde6ef4fcc094ae67666338a889eace1ec057a92  ...                 vertices[i]  =  din.readFloat();  
+
+[5 rows x 3 columns]
+                                               buggy                                              patch
+0  buggy:  if  (tuple.v1().getAsBoolean( "bootstr...  if  (tuple.v1().getAsBoolean( "bootstrap.mlock...
+1  buggy:  assertThat( "10 ",  is(new  ByteSizeVa...  assertThat( "10b ",  is(new  ByteSizeValue(10,...
+2  buggy:  public  float  freq()  throws  IOExcep...      public  int  freq()  throws  IOException  {  
+3  buggy:  List<Field>  versionFields  =  new  Ar...  List<Field>  versionFields  =  new  ArrayList<...
+4  buggy:  vertices[i]  =  din.readInt();  contex...                 vertices[i]  =  din.readFloat();  
+                     bugid  ...   action
+0        accumulo_3d55560a  ...  replace
+1          wicket_2d9ebf9a  ...  replace
+2          wicket_6cefb9f8  ...  replace
+3  jackrabbit-oak_f4d5bbe1  ...  replace
+4          wicket_f3d7565c  ...  replace
+
+[5 rows x 5 columns]
+                                               buggy                                              patch
+0  buggy:  return  -1;  if  (count  >  other.coun...         if  (count  >  other.count)  return  -1;  
+1  buggy:  int  firstDigits  =  Integer.parseInt(...  int  firstDigits  =  Integer.parseInt(creditCa...
+2  buggy:  if  (behavior.getStatelessHint(compone...  if  (behavior.getStatelessHint(component)  == ...
+3  buggy:  if  (doc.isCommitted(rev))  {  context...  rev  =  doc.getCommitRevision(rev);  if  (rev ...
+4  buggy:  PageParameters  cleanParameters  =  ne...  PageParameters  cleanParameters  =  null;  if ...
+FULL Dataset: (248048, 3)
+TRAIN Dataset: (248048, 3)
+VALID Dataset: (4094, 2)
+TEST Dataset: (429, 2)
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Epoch: 0, Loss:  0.5467880964279175
+Epoch: 0, Loss:  0.7662263512611389
+Epoch: 0, Loss:  0.83429354429245
+Epoch: 0, Loss:  0.4560481607913971
+Epoch: 0, Loss:  0.33581751585006714
+Epoch: 0, Loss:  0.5145677924156189
+Epoch: 0, Loss:  0.9529878497123718
+Epoch: 0, Loss:  0.6426255702972412
+Epoch: 0, Loss:  0.9590572714805603
+Epoch: 0, Loss:  0.41447994112968445
+Epoch: 0, Loss:  0.5829126238822937
+Epoch: 0, Loss:  0.7521091103553772
+Epoch: 0, Loss:  0.773879885673523
+Epoch: 0, Loss:  1.0050394535064697
+Epoch: 0, Loss:  0.6043330430984497
+Epoch: 0, Loss:  0.8745720982551575
+Epoch: 0, Loss:  0.39036938548088074
+Epoch: 0, Loss:  0.6776430606842041
+Epoch: 0, Loss:  0.45422255992889404
+Epoch: 0, Loss:  0.5283262133598328
+Epoch: 0, Loss:  0.4049821197986603
+Epoch: 0, Loss:  0.5622081160545349
+Epoch: 0, Loss:  0.4053727984428406
+Epoch: 0, Loss:  0.7012150883674622
+Epoch: 0, Loss:  0.6692423224449158
+Validating on valid dataset *********: 0
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Total Loss:  32.06833893060684/205
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Epoch: 1, Loss:  0.6671552658081055
+Epoch: 1, Loss:  0.42282572388648987
+Epoch: 1, Loss:  0.7215704917907715
+Epoch: 1, Loss:  0.5231547355651855
+Epoch: 1, Loss:  0.8284136652946472
+Epoch: 1, Loss:  0.39361733198165894
+Epoch: 1, Loss:  0.4809662699699402
+Epoch: 1, Loss:  0.40468379855155945
+Epoch: 1, Loss:  1.1988526582717896
+Epoch: 1, Loss:  0.3449774980545044
+Epoch: 1, Loss:  0.8030188679695129
+Epoch: 1, Loss:  0.6854068636894226
+Epoch: 1, Loss:  0.5604861378669739
+Epoch: 1, Loss:  0.4561455249786377
+Epoch: 1, Loss:  0.508967936038971
+Epoch: 1, Loss:  0.8976409435272217
+Epoch: 1, Loss:  0.7887628674507141
+Epoch: 1, Loss:  0.8741328120231628
+Epoch: 1, Loss:  0.5554927587509155
+Epoch: 1, Loss:  0.5189106464385986
+Epoch: 1, Loss:  0.6996759176254272
+Epoch: 1, Loss:  0.17326393723487854
+Epoch: 1, Loss:  0.43740537762641907
+Epoch: 1, Loss:  0.19515401124954224
+Epoch: 1, Loss:  0.5325798392295837
+Validating on valid dataset *********: 1
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Total Loss:  31.291503936052322/205
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Epoch: 2, Loss:  0.5033288598060608
+Epoch: 2, Loss:  0.37571266293525696
+Epoch: 2, Loss:  0.5589482188224792
+Epoch: 2, Loss:  0.6114415526390076
+Epoch: 2, Loss:  0.4243091344833374
+Epoch: 2, Loss:  0.4840202331542969
+Epoch: 2, Loss:  0.6395069360733032
+Epoch: 2, Loss:  0.6581764221191406
+Epoch: 2, Loss:  0.3413540720939636
+Epoch: 2, Loss:  0.5857954025268555
+Epoch: 2, Loss:  0.4505806565284729
+Epoch: 2, Loss:  0.5365749001502991
+Epoch: 2, Loss:  0.9462639689445496
+Epoch: 2, Loss:  0.26098552346229553
+Epoch: 2, Loss:  1.1911284923553467
+Epoch: 2, Loss:  0.9207817316055298
+Epoch: 2, Loss:  0.3486892282962799
+Epoch: 2, Loss:  1.204396367073059
+Epoch: 2, Loss:  0.7567832469940186
+Epoch: 2, Loss:  0.6369057297706604
+Epoch: 2, Loss:  0.2503206133842468
+Epoch: 2, Loss:  0.9417893290519714
+Epoch: 2, Loss:  0.5045866370201111
+Epoch: 2, Loss:  0.8543159365653992
+Epoch: 2, Loss:  0.6548656225204468
+Validating on valid dataset *********: 2
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Total Loss:  31.40770924091339/205

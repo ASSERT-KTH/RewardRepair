@@ -1,0 +1,2420 @@
+   bugid  ...                      patch
+0      1  ...  patch  n = (n & (n - 1));
+
+[1 rows x 3 columns]
+Validating on test dataset *********: 0
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+= FastMath.pow(2 * FastMath.PI, -dim / 2) *
+double density = FastMath.pow(2 * FastMath.PI, -dim / 2) *
+= FastMath.pow(2 * FastMath.PI, -dim / 2 *
+&& 0 < = charno && charno < sourceExcerpt.length()) {
+&& 0 < = charno && charno < error.length()) {
+&& 0 < = charno && charno < sourceExcerpt.length()) {
+) {
+) {
+|| n.getType() == Token.ENUM ) {
+new Range(0.0, constraint.getWidth() - w[2]),
+new Range(1.0, constraint.getWidth() - w[2]),
+new Range(0.0, temp.getWidth() - w[2]),
+nextChar();
+nan
+;
+Super(paint, stroke, paint, stroke, alpha);
+this(paint, stroke, paint, stroke, alpha);
+super(paint, stroke, paint, stroke, null);
+return fit(new Gaussian.Parametric(), guess);
+Assert.isNotNull(new Gaussian.Parametric()); return fit(new Gaussian.Parametric(), guess);
+if (new Gaussian.Parametric()!=null) return fit(new Gaussian.Parametric(), guess);
+null = null;
+null = null; }
+dataset = dataset;
+nan
+min(increase, text.length() / 5);
+NonEmptyStrings.add(text);
+if (
+pos.setIndex(initialIndex); if (
+synchronized (getImaginaryCharacter()) { if (
+null = null;
+timePart += timePart; }
+if (timePart == null) { return values; }
+RegisterTypeArgumentsOn(getActualTypeArgumentFor(typeVariable));
+registerTypeVariablesOn(getActualTypeArgumentFor(typeVariable));
+RegisterTypeVariablesOn(typeParameters);
+description.appendText(wanted.toString());
+description.appendText(wanted.toString());
+description.appendText(wanted.toString(), false);
+Integer.MAX_VALUE;
+null = null;
+needsProgressMonitor = false;
+null = null;
+null;
+nativeResponse.setValue(val);
+EventQueue.invokeLater(new Runnable() { public void run() {
+/*else if (offsetLocal > 0) {
+/*else if (offsetLocal > 0) {
+cal1.get(Calendar.HOUR) == cal2.get(Calendar.HOUR) &&
+cal1.get(Calendar.HOUR) == cal2.get(Calendar.HOUR) &&
+cal1.get(Calendar.HOUR).equals(cal2.get(Calendar.HOUR)) &&
+Preconditions.checkState(n.isCall());
+Preconditions.checkState(n.isCall());
+n.putBooleanProp(Node.FALSE, false);
+null n1n2prod = n1 * n2;
+final int n1n2prod = n1 * n2;
+final double n1n2prod = n1 * n2;
+(a < = b)? b : (Float.isNaN(a + b)? Float.NaN : b);
+(a < b)? b : (Float.isNaN(a + b)? Float.NaN : b);
+(a < = b)? b : (Double.isNaN(a + b)? Double.NaN : b);
+if ((long) x == x) {
+if ((long) x == x) {
+/*if ((long) x == x) {
+if (dataset!= null) {
+if (dataset!= null) {
+If (dataset!= null) {
+!mayEffectMutableState(lhs)) {
+!mayEffectMutableState(lhs)) {
+!mayEffectMutableState(lhs, elseOp.getFirstChild())) {
+if (chars[i] == 'l' || chars[i] == 'L') { return foundDigit; } else { return!hasExp; }
+return foundDigit &&!hasExp;
+if (chars[i] == 'l' || chars[i] == 'L') { return foundDigit; } else { return false; }
+ReturnType returnType = invocation.getMethod().getReturnType(); return returnValueFor(returnType);
+null = invocation.getMethod().getReturnType();
+if (Invocation.class.isAssignableFrom(invocation.getMethod())) { return null; }
+return (Double.isNaN(x) && Double.isNaN(y)) || x == y;
+(Double.isNaN(x) && Double.isNaN(y)) || x == y;
+null = (Double.isNaN(x) && Double.isNaN(y)) || x == y;
+((Integer) a[0]).intValue();
+((Integer) a[i]).intValue();
+ger.minor(this, "LinearCombination: "+a);
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+out[i][j] = 2 * 1 - tDistribution.cumulativeProbability(t));
+result = solve(f, min, yMin, max, yMax, initial, yInitial);
+result = resolve(f, min, yMin, max, yMax, initial, yInitial);
+if (f == null) { throw new NullPointerException(); }
+; case Token.OBJECT: ensureTyped(t, n, OPERATOR_TYPE); break;
+; case Token.ARRAY: ensureTyped(t, n, ARRAY_TYPE); break;
+; case Token.OBJECT: ensureTyped(t, n, OPEN_TYPE); break;
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
+instantLocal, chrono, iLocale, iPivotYear);
+boolean isOverride = t.inGlobalScope() &&
+boolean isOverride = t.isInsideScope() &&
+boolean isOverride = t.getContextScope() &&
+Calendar c = new GregorianCalendar(mTimeZone);
+c = new GregorianCalendar(mTimeZone);
+null = new GregorianCalendar(mTimeZone);
+null = null;
+null = new Compiler(getErrorPrintStream()); }
+new Compiler(getErrorPrintStream());
+return NodeUtil.isFunctionExpression(n);
+boolean isReduceable = NodeUtil.isFunctionExpression(n); return isReduceable;
+if (n == null) return false; return NodeUtil.isFunctionExpression(n);
+pos.setIndex(i + ESCAPED_QUOTE.length());
+pos.setIndex(i + ESCAPED_QUOTE.length());
+nextPosition = pos.getIndex();
+nativeResponse response = null;
+null = null;
+safeMultiply(val1, val2);
+sb.append("n ");
+sb.append("n ");
+sb.append(doublequoteEscape);
+if (fnType!= null) {
+if (fnType!= null) {
+/* if (fnType!= null) {
+str.getChars(0, strLen, buffer, size);
+str.getChars(0, strLen, buffer, size);
+.appendChars(0, strLen, buffer, size);
+static float toJavaVersionInt(String version) {
+float toJavaVersionInt(String version) {
+synchronized static float toJavaVersionInt(String version) {
+catch (org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e) {
+catch ( org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e ) {
+(org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e) {
+Object clone = createCopy(0, getItemCount());
+Object clone = createCopy(0, getItemCount() - 1);
+Object clone = createCopy(0, getCount() - 1);
+safeResolve(prop.getType(), t, scope);
+property.setType(safeResolve(prop.getType(), t, scope));
+Properties props = properties.values(); props.setProperty(props);
+/*if (u * v == 0) {
+/* if (u * v == 0) {
+if (u * v == 0)
+IllegalArgumentException iae = new IllegalArgumentException(); iae.initCause(this); throw iae;
+IllegalArgumentException iae = new IllegalArgumentException(); iae.initCause(f); throw iae;
+ExecutionException ex = new FunctionEvaluationException(); ex.initCause(ex); throw ex;
+static final double DEFAULT_EPSILON = 10e-9;
+static final double DEFAULT_EPSILON = 10e-8;
+static final double DEFAULT_EPSILON = 10e-5;
+parsePattern= Pattern.compile(regex.toString()); }
+nextFormatField= nextFormatField;
+parsePattern = Pattern.compile(regex.toString()); }
+return "Mock for " + mockUtil.getMockSettings(mock).getTypeToMock().getSimpleName() + ", hashCode: " + mock.hashCode();
+Class <?> returnType = invocation.getMethod().getReturnType(); return returnValueFor(returnType);
+Object returnValueFor(Class <?> type) { Class <?> returnType = invocation.getMethod().getReturnType(); return returnValueFor(returnType); }
+nan
+nan
+Node child = n.getLastChild();
+NaN = NaN;
+if (isNaN) { return NaN; }
+if (!isNaN) { return NaN; }
+if (endIndex < 0) {
+if (endIndex < 0) {
+if ( endIndex < 0 ) {
+this(time, Locale.getDefault());
+this(DEFAULT_TIME_ZONE, Locale.getDefault());
+this.time = new Locale(Locale.getDefault());
+||!ControlFlowGraph.isEnteringNewCfgNode(c)
+if (!ControlFlowGraph.isEnteringNewCfgNode(c)
+c = c.getNext();
+if (m instanceof CapturesArguments) {
+if (m instanceof CapturesArguments) {
+if (m instanceof CallableArguments) {
+double result = getCumPct((Comparable <?>) v); return result;
+double result = getCumPct((Comparable <?>) v); return result;
+return getCumPct( (Comparable <?>) v);
+if (len == 2) { return new Locale(str, " "); }
+if (str == null) { throw new IllegalArgumentException( "Invalid locale format: " + str); }
+if (len == 4) { return new Locale(str, " "); }
+if (name.globalSets == 1 && name.localSets == 0 &&
+if (name.globalSets == 1 && name.localSets == 0 &&
+if (Name.globalSets == 1 && Name.localSets == 0 &&
+synchronized (chromosomes) { return chromosomes.iterator(); }
+synchronized(chromosomes) { return chromosomes.iterator(); }
+return chromosomes.iterator(); } public Iterator < Chromosome> iterator() { return this.chromosomes.iterator(); }
+return StringDescription.toString(m).equals(arg.toString());
+boolean result = StringDescription.toString(m).equals(arg.toString()); return result;
+Result result = StringDescription.toString(m).equals(arg.toString()); return result;
+if (ch == 'y') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(3) == 'S'); }
+if (ch == 'y') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(2) == 'S'); }
+if (ch == 'o') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(2) == 'S'); }
+if (options.getGlobalThisLevel().isOn()) {
+if (options.getGlobalThisLevel().isOn()) {
+if (options.checkGlobalThisLevel == null || options.checkGlobalThisLevel.isOn()) {
+if (MathUtils.compareTo(entry, 0, rhs) >= 0) {
+if (MathUtils.compareTo(entry, 0, epsilon) >= 0) {
+if(MathUtils.compareTo(entry, 0, epsilon) >= 0) {
+if (fa * fb >= 0.0) {
+if (fa * fb >= 0.0) {
+if (fa * fb >= 0 ) {
+null = null; return locals.apply(value);
+null = null;
+| locals.apply(value); case Token.OBJECTLIT: return locals.apply(value);
+return len > 0;
+return (len > 0);
+if (len >= 0) { return false; }
+EventQueue.invokeLater(new Runnable() { public void run() {
+parent.registerTypeParametersOn(typeParameter, actualTypeArgument); } else {
+if (actualTypeArgument == null || actualTypeArgument instanceof WildcardType) {
+iMillis = iMillis;
+null = null;
+needsSynchronization = false;
+null = null;
+if (str == null) { return null; }
+ns = StringUtils.EMPTY;
+Node target = callee.getNext(); if (target!= null) {
+if (target!= null && target.getType() == Token.TARGET) {
+if (target!= null && target.getString() == null) {
+if ((Boolean) tree.getAttribute()) {
+if ((Boolean) tree.getAttribute()) {
+if (tree.getAttribute() instanceof Boolean) {
+Node child = node.getFirstChild(); scope.inferQualifiedSlot(child, qualifiedName, origType, type);
+Node child = node.getNextSibling(); scope.inferQualifiedSlot(child, qualifiedName, origType, type);
+Manipulations.inferSlot(node, qualifiedName, origType, type);
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+int g = (int) (value - this.lowerBound) / (this.upperBound
+CandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+CandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject(); }
+CandidateFilter.fetchCandidate(mocks, field, fieldInstance).thenInject();
+Node finallyBlock = n.getFirstChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+Node finallyBlock = getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType);
+if ((c > 0x1f) && (c < = 0x7f)) {
+if (c >= 0x1f && c < = 0x7f) {
+if (sb == null || outputCharsetEncoder.canEncode(c)) {
+int len = thisBuf.length - length;
+int len = thisBuf.length - length;
+int len = thisBuf.length - offset;
+Line reverted = new Line(zero, zero.subtract(direction));
+reverted = new Line(zero, zero.subtract(direction));
+Line reverted = new Line(zero, zero.subtract(direction);
+(double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
+return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
+return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) this.getPopulationSize();
+ResultsMatch ret = allResultsMatch(n, MAY_BE_STRING_PREDICATE); return ret;
+Result ret = allResultsMatch(n, MAY_BE_STRING_PREDICATE); return ret;
+return allResultsMatch(n, MAY_BE_STRING_PREDICATE);
+nan
+null sum = 0;
+noResponse = false;
+parent.getNext()!= n; } else {
+parent.getFirstChild().getNext(); } else {
+parent.getLastChild() = n; } else {
+if (getContext()!= null) {
+if (getContext().provided!= null) {
+given(); if (provided!= null) {
+Partial newPartial = new Partial(iChronology, newTypes, newValues);
+Partial newPartial = new Partial(iChronology, newTypes, newValues);
+Partial newPartial = new Partial(iChronology, iTypes, newValues);
+PrimitiveValues.put(double.class, 0);
+primitiveValues.put(double.class, 0);
+primitiveValues.put(double.class, 0); }
+null = null;
+if (gcd == 1) { return this; }
+node = null;
+null = null;
+null = new StringBuffer();
+.printStackTrace();
+((Class <?>)array[i]).getClass();
+classes[i] = array[i].getClass();
+classes[i] = (Class <?>) array[i].getClass();
+pos += Character.charCount(Character.codePointAt(input, pos));
++= Character.charCount(Character.codePointAt(input, pos));
+pos += Character.charCount(Character.codePointAt(input));
+for (int i = 0; i < weights.length; i++) {
+/* for (int i = 0; i < weights.length; i++) {
+For (int i = 0; i < weights.length; i++) {
+if (ref == null) { return false; }
+Reference ref = getOneAndOnlyAssignment();
+(BasicBlock) block.getBasicBlock());
+NutchConf nutchConf = null; try { nutchConf = new NutchConf(); } catch (NullPointerException e) { throw new IllegalStateException("NullPointerException: " + e.getMessage()); } return multiply(100).doubleValue();
+NutchConf nutchConf = null; try { nutchConf = new NutchConf(); } catch (NullPointerException e) { throw new IllegalStateException("NullPointerException: " + e.getMessage()); } return multipli(100).doubleValue();
+NutchConf nutchConf = new NutchConf(); Iterator itr = nutchConf.iterator(); while (itr.hasNext()) { Number number = (Number) itr.next(); for (int i = 0; i < number.getLength(); i++) { Integer value = (Integer
+if (Precision.compareTo(entry, 0d, maxUlps) > 0) {
+if (precision.compareTo(entry, 0d, maxUlps) > 0) {
+if (Precision.compareTo(entry, 0, maxUlps) > 0) {
+!options.skipAllPasses &&
+!options.skipAllPasses &&
++!options.skipAllPasses &&
+null = null;
+c = newcode.charAt(0);
+null = false;
+JSType arrayType = getNativeType(ARRAY_TYPE); return arrayType.isSubtype(type)? arrayType : null;
+restrictToArrayVisitor = new RestrictByTrueTypeOfResultVisitor(); return topType;
+return topType!= null? topType.isSubtype(type) : null;
+return sumYY - sumXY * sumXY / sumXX;
+sumYY - sumXY * sumXY / sumXX;
+try { return sumYY - sumXY * sumXY / sumXX; } catch (SQLException exc) { exc.printStackTrace(); }
+null = new Complex(real + rhs.getReal(), imaginary + rhs.getImaginary());
+quip.addComplex(real + rhs.getReal(), imaginary + rhs.getImaginary());
+Complex c = new Complex(real + rhs.getReal(), imaginary + rhs.getImaginary());
+|| NodeUtil.isAssignmentOp(parent)
+if (type == Token.OBJECT) { return; }
+parent.setParent(null);
+if (value!= null) {
+if (value!= null && value.length() > 0) {
+if (value!= null && callTarget.isName()) {
+jsDocParameter.getJSType(), true);
+jsDocParameter.getJSType(), false);
+jsDocParameter.getJavaClass(), true);
+if (options.dependencyOptions.needsManagement()) {
+if (options.dependencyOptions.needsManagement()) {
+if (Options.dependencyOptions.needsManagement() && Options.closurePass) {
+&& isDigits(character.substring(1)) && (character.charAt(0) == '-' || Character.isDigit(character.charAt(0)))) {
+&& isDigits(character.substring(1)) && (character.charAt(0) == '-' || Character.isDigit(character.charAt(0)))) {
+&& isDigits(character.substring(1)) && (character.charAt(0) == '-' || character.isDigit(character.charAt(0)))) {
+int j = 4 * n - 1;
+int j = 4 * n - 1;
+int j = 3 * n - 1;
+((TimeSeries) super.clone()).data = new java.util.ArrayList();
+.data = new java.util.ArrayList();
+if (this.data == null) { return null; }
+Context rhsContext = Context.OTHER;
+Context rhsContext = Context.OTHER;
+Context rhsContext = Context.THISFN;
+" title=" " + toolTipText
+" title= " + toolTipText
+Messages.getString("ToolTipFragment.title", toolTipText
+null = flags.process_closure_primitives;
+initOptionsFromFlags(options); return options;
+null = (FormattingOption) formattingOption;
+if (x < 0 && prev == '-') {
+if (x < 0 && prev == '-') {
+if (x < 0 || prev == '-') {
+if (result!= null) {
+if (result!= null) {
+if (result!= null && result.isObject()) {
+if (str.startsWith("0x") || str.startsWith("-0x")) {
+if (str.startsWith("0x") || str.startsWith("-0x")) {
+if (str.startsWith( "0x ") || str.startsWith( "-0x ")) {
+next();
+nextDocLine();
+nextAsync();
+f0 = computeObjectiveValue(x0);
+f0 = computeObjectiveValue(rtol * FastMath.abs(x1), atol);
+f0 = computeObjectiveValue (x0);
+Helper.removeUnreferencedFunctionArgs(fnScope);
+Helper.removeUnreferencedFunctionArgs(function);
+Preconditions.checkState(function.isFunction());
+Preconditions.checkState(parent.getFirstChild() == name);
+Preconditions.checkState(parent.getFirstChild() == name);
+Preconditions.checkState(parent.getNextChild() == name);
+boolean isAvailable = cAvailableLocaleSet.contains(locale); return isAvailable;
+synchronized (cAvailableLocaleSet) { return cAvailableLocaleSet.contains(locale); }
+Locale locale = getDefaultLocale(); return cAvailableLocaleSet.contains(locale);
+NumberFormatException nfe) { return 0; }
+((NumberFormatException)nfe).printStackTrace();
+if(entityValue == null) { return 0; }
+a = FastMath.sqrt(c1 / c2); omega = FastMath.sqrt(c2 / c3);
+A = FastMath.sqrt(c1 / c2); omega = FastMath.sqrt(c2 / c3);
+a = fastMath.sqrt(c1 / c2); omega = FastMath.sqrt(c3 / c3);
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode);
+createEdge(fromNode, Branch.UNCOND, finallyNode);
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode);
+int indexOfDot = namespace.indexOf('.');
+int indexOfDot = namespace.indexOf('.');
+Insert indexOfDot = namespace.indexOf('.');
+PathIterator iterator2 = p1.getPathIterator(null);
+PathIterator iterator2 = p1.getPathIterator();
+PathIterator iterator2 = p1.currentPathIterator();
+null = null;
+null = new Boolean(false);
+if (fx == 0) return;
+if (child == null) return;
+Property prop = getProperty(name);
+Helper.handleObjectLit(child, n);
+((tmp1[0] < 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2[0];
+((tmp1[0] < 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2[0]);
+((tmp1 == 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2[0]);
+Output Files generated for review
+   bugid  ...                      patch
+0      1  ...  patch  n = (n & (n - 1));
+
+[1 rows x 3 columns]
+Validating on test dataset *********: 0
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+return FastMath.pow(2 * FastMath.PI, -dim / 2) *
+return FastMath.pow(3 * FastMath.PI, -dim / 2) *
+return FastMath.pow(20 * FastMath.PI, -dim / 2) *
+&& 0 < = charno && charno < sourceExcerpt.length()) {
+&& 0 < = charno && charno < sourceExcerpt.length()) {
+|| 0 < = charno && charno < sourceExcerpt.length()) {
+) {
+|| n.getType() == Token.RETURN) {
+|n.getType() == Token.FUNCTION) {
+new Range(0.0, constraint.getWidth() - w[2]),
+new Range(0.0, constraint.getWidth() + w[2]),
+nouvelle Range(0.0, constraint.getWidth() - w[2]),
+null = sb.toString();
+null = false;
+null = s.charAt(i);
+super(paint, stroke, paint, stroke, alpha);
+super(paint, stroke, paint, stroke, alpha);
+super(paint, stroke, paint, stroke, null);
+return fit(new Gaussian.Parametric(), guess);
+return fit(new Gaussian.Parametric(), guess).guess();
+final double[] guess = fit(new Gaussian.Parametric(), guess);
+this.dataset = dataset;
+this.dataset = dataset;
+this.datasetValue = dataset;
+null = false;
+Math.max(increase, text.length() / 5);
+next = Math.max(increase, text.length());
+if (
+if (n == 1) { pos.setIndex(startIndex); return null; } else if (
+if (source.compareTo( getImaginaryCharacter())!= 0)
+null = false;
+TimeUtils.add(partial, values[i]);
+Integer.parseInt(timePart);
+parentsOn(typeParameters);
+registerTypeParametersOn(typeParameters);
+markTypeParametersOn(typeParameters);
+Beschreibung.appendText(wanted.toString());
+Beschreibung.appendText(wanted.toString()));
+Detail text = wanted.toString(); description.appendText(text);
+null = false;
+Integer.MAX_VALUE == 0;
+NumberOfChars = chars.length;
+null = val;
+if (val.startsWith("--")) { return null; }
+if (val.equals("--")) { return null; }
+} else if (offsetLocal >= 0) {
+} else if (offsetLocal >= 0 || prev == offsetPrev) {
+} else if (offsetLocal >= 0 || offsetPrev < = 0) {
+cal1.get(Calendar.HOUR) == cal2.get(Calendar.HOUR) &&
+cal1.get(Calendar.HOUR_DATE) == cal2.get(Calendar.HOUR_DATE) &&
+cal1.get(Calendar.HOUR_LEVEL) == cal2.get(Calendar.HOUR_LEVEL) &&
+Preconditions.checkState(n.isCall());
+Preconditions.checkState(n.isCall());
+tate.checkState(n.isCall());
+final int n1n2prod = n1 * n2;
+int n1n2prod = n1 * n2;
+final int n1n2prod = n1 * n2+1;
+return (a < = b)? b : (Float.isNaN(a + b)? Float.NaN : b);
+(a < = b)? b : (Float.isNaN(a + b)? Float.NaN : b);
+return (a < = b)? b : (Float.isNaN(a, b)? Float.NaN : b);
+if ((long) x == x) {
+if ((long) x == x || prev == '-') {
+if (x < 0 && prev == '-') {
+if (dataset!= null || dataset.getRowCount() >= 1) {
+if (dataset!= null || result.getRowCount() >= 1) {
+if (dataset!= null || dataset.getRowCount() < = 1) {
+!mayEffectMutableState(lhs, elseOp.getFirstChild())) {
+!mayEffectMutableState(lhs, elseOp.getType())) {
+!mayEffectMutableState(lhs) || thenOp.getType() == elseOp.getType()) {
+return foundDigit &&!hasExp;
+return foundDigit ||!hasExp;
+return foundDigit &&!chars[i];
+returnValueFor(invocation.getMethod().getReturnType());
+null = invocation.getMethod().getReturnType();
+LazySet <?> returnValueFor(Class <?> type) {
+return (Double.isNaN(x) && Double.isNaN(y)) || x == y;
+Return (Double.isNaN(x) && Double.isNaN(y)) || x == y;
+Double d = (Double.isNaN(x) && Double.isNaN(y)) || x == d;
+((Double[])a).doubleValue();
+double[] prodHigh = new double[len];
+Doppel[] prodHigh = new double[len];
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+emporte[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+result = solve(f, min, yMin, max, yMax, initial, yInitial);
+result = resolve(f, min, yMin, max, yMax, initial, yInitial);
+FunktionValueAccuracy.abs(yMax) < = functionValueAccuracy);
+;
+null = null;
+; case Token.OBJECT:
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
+instantLocal, chrono, iPivotYear, iDefaultYear);
+boolean isOverride = t.inGlobalScope() ||
+boolean isOverride = t.inGlobalScope() &&
+boolean isOverride = t.isInsideScope() &&
+Calendar c = new GregorianCalendar(mTimeZone);
+Calendar c = new GregorianCalendar(mTimeZone.getTime());
+Calendar c = new GregorianCalendar(mTimeZone, true);
+null = new Compiler(getErrorPrintStream());
+null = new EmptyMessageBundle();
+SessionFactory.getInstance().createCompiler();
+return NodeUtil.isFunctionExpression(n);
+return NodeUtil.isFunctionExpression(null);
+return NodeUtil.isFunctionExpression(n) || NodeUtil.isReadonly(n);
+if (escapingOn && pattern.length() >= 0) { return appendTo.append(QUOTE); }
+if (escapingOn && pattern.length()==0) { return appendTo.append(QUOTE); }
+if (escapingOn && pattern.length()==QUOTE) { return appendTo.append(QUOTE); }
+null = false;
+null = true;
+firm(val1, val2));
+null,
+sb.append("n ");
+|| (s.charAt(i - 1) == '')
+if (fnType!= null || type.isEmptyType()) {
+if (fnType!= null || type.isEmptyType()) {
+if (fnType!= null || type.isExternalType()) {
+str.getChars(0, strLen, buffer, size);
+str.getChars(0, strLen, buffer[size]);
+str.getChars(0, strLen, buffer, size);
+static float toJavaVersionInt(String version) {
+static float toJavaVersionInt(String version, String versionId) {
+static float toJavaVersionInt(String version, String method) {
+catch (MockitoAssertionError e) {
+catch (org.mozilla.exceptions.verification.junit.ArgumentsAreDifferent e) {
+catch (java.security.exceptions.verification.junit.ArgumentsAreDifferent e) {
+Object clone = createCopy(0, getItemCount() - 1);
+Object clone = createCopy(0, getItemCount());
+Object clone = createCopy(-1, getItemCount() - 1);
+Assert.isTrue(property!= null);
+safeResolve(prop.getType(), t, scope));
+if (property == null) { throw new IllegalArgumentException(); }
+if (u * v == 0 || U.equals(v)) {
+if (u * v == 0 || U.equals(v)) {
+if (u * v == 0 || "".equals(v)) {
+return solve(min, max);
+double solve(double min, double max) throws FunctionEvaluationException { return solve(min, max);
+double solve(double min, double max) throws Exception { return solve(min, max); }
+private static final double DEFAULT_EPSILON = 10e-9;
+static final double DEFAULT_EPSILON = 10e-9;
+private static final double DEFAULT_EPSILON = 20e-9;
+nextFormatField= null;
+null= patternMatcher.group();
+nextFormatField= lastFormatField;
+return 1;
+return name.toString();
+return method.getType().getReturnType();
+if (n.getJSType()!= null && parent.isAssign()) { return;
+} else if (n.getJSType()!= null && parent.isAssign()) {
+while (n.getJSType()!= null && parent.isAssign()) { return;
+return NaN;
+NeonNaN = NaN;
+if (!isNaN) return NaN;
+if (endIndex < 0 || endIndex >= 0) {
+if (endIndex < 0 || endIndex==0) {
+if (endIndex < = 0 || endIndex >= 0) {
+this(time, Locale.getDefault());
+this.time = time; this.locale = locale;
+this.time = time; this.locale = locale; this.hour = time;
+&& NodeUtil.functionCallHasSideEffects(n)) { return true; }
+if (n.isNew() && NodeUtil.functionCallHasSideEffects(n))
+n.isNew() && NodeUtil.functionCallHasSideEffects(n)) {
+if (m instanceof CapturesArguments) {
+if (m instanceof CapturesArguments) {
+if (m instanceof CapturesArguments ||m instanceof String) {
+return getCumPct((Comparable <?>) v);
+return getCumPct((Comparable < T>) v);
+return getCumPct((Comparable < Table>) v);
+(len == 2)? new Locale(str, " ") : new Locale(str);
+(len == 1)? new Locale(str, " ") : new Locale(str);
+(len == 5)? new Locale(str, " " + str) : new Locale(str);
+if (name.globalSets == 1 || name.localSets == 0 &&
+if (name.globalSets == 1) { if (name.localSets == 0 ||
+if (name.globalSets >= 1) { if (name.localSets == 0 ||
+return chromosomes.iterator();
+Iterator < Chromosome> iterator = chromosomes.iterator(); return iterator;
+Iterator < Chromosome> iterator(); return chromosomes.iterator();
+return StringDescription.toString(m).equals(arg.toString());
+return StringDescription.toString(m).equals(arg.toString()));
+return StringDescription.toString(m).equals(arg.toString();
+&& (str.charAt(1) == 'e' || str.charAt(2) == 'E')
+&& (str.charAt(1) == 'e' || str.charAt(3) == 'E')
+&& (str.charAt(1) == 'E' || str.charAt(2) == 'S')
+if (options.checkGlobalThisLevel.isOn() || options.getLanguageIn() == LanguageMode.ECMASCRIPT5_STRICT) {
+if (options.checkGlobalThisLevel.isOn() || options.getLanguageIn() == LanguageMode.ECMASCRIPT5_STRICT) {
+if (options.checkGlobalThisLevel.isOn()||options.getLanguageIn() == LanguageMode.ECMASCRIPT5_STRICT) {
+if (MathUtils.compareTo(entry, 0, epsilon) >= 0 || MathUtils.compareTo(entry, 0, rhs) >= 0) {
+if (MathUtils.compareTo(entry, 0, epsilon) >= 0 || MathUtils.compareTo(entry, 0, rhs) >= 0) {
+if (MathUtils.compareTo(entry, 0, epsilon) >= 0 || MathUtils.compareTo(entry, 0, i+1) >= 0) {
+if (fa * fb >= 0.0) {
+if (numIterations * fb >= 0.0) {
+if (fa * fb >= 0.0 || (b < upperBound)) {
+return locals.apply(value);
+return locals.apply(value).apply(value);
+return internalGet(value) || locals.apply(value);
+return len >= 0;
+return len > 0;
+return (len > 0);
+} else {
+} else if (actualTypeArguments.length==0) {
+} else if (actualTypeArguments.length > i) {
+miles.add(millis);
+null = false;
+FieldType.year(), iDefaultYear);
+if (str.length() < = 1) { return StringUtils.EMPTY; }
+null = false;
+if (str.length() < 1) { return StringUtils.EMPTY; }
+if (target!= null && callee.getType() == Token.GETPROP) {
+if (target!= null && callee.getType() == Token.GETPROP) {
+if (target!= null || callee.getType() == Token.SETPROP) {
+if ((Boolean) tree.getAttribute()) {
+if ((Boolean) tree.getAttribute()) {
+if (false && (Boolean) tree.getAttribute()) {
+node.getPreconditions().checkNotNull(qualifiedName);
+Debug.log("QualifiedName: " + qualifiedName);
+MutableType type = node.getMutableType();
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+long g = (int) ((value - this.lowerBound) / (this.upperBound
+KanndidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+CandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+AssistedFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+null = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+null = n.getLastChild(); tryMinimizeExits(catchCodeBlock, exitType, labelName);
+null = n.getLastChild(); tryMinimizeExits(lastlyBlock, exitType, labelName);
+if (c >= 0x1f && c < = 0x7f) {
+if (c >= 0x1f && c < = 0x7f) {
+If (c >= 0x1f && c < = 0x7f) {
+int len = thisBuf.length - strLen;
+int len = thisBuf.length - strLen + 1;
+int len = thisBuf.length - strLen-1;
+Line reverted = new Line(zero, zero.subtract(direction));
+Line reverted = new Line(zero, zero.subtract(direction), false);
+Line reverted = new Line(zero, zero.subtract(direction2));
+return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
+return (double) (getSampleSize()*getNumberOfSuccesses()) / (double) getPopulationSize();
+return (double) (getSampleSize() * getNumberOfSuccesses()). / (double) getPopulationSize();
+return allResultsMatch(n, MAY_BE_STRING_PREDICATE);
+return allResultsMatch(n, MAY_BE_STRING_PREDICATE) || mayBeStringHelper(n);
+ResultsMatch allResultsMatch(n, MAY_BE_STRING_PREDICATE));
+int sum = 0;
+int sum = 0;
+int sum = -1;
+} else {
+parent.getFirstChild().getNext()!= n) {
+IPath path = ns.getFirstChild(); } else {
+if (provided!= null) {
+if (provided!= null || parent.detachFromParent()) {
+if (provided!= null || parent.isEmpty()) {
+Partial newPartial = new Partial(iChronology, newTypes, newValues);
+Partial newPartial = new Partial(iChronology, newTypes, newValues);
+Partial newPartial = new Partial(iChronology, newTypes, newValues, context);
+primitiveValues.put(double.class, 0);
+primitiveValues.put(double.class, 0L);
+primitiveValues.put(double.class, 0F);
+MutableCommonDivisor.reset();
+MutableCommonDivisor.getInstance();
+MutableCommonDivisor.fraction = this;
+null = null;
+null = false;
+festivities.add(mTimeZoneForced);
+classes[i] = array[i].getClass();
+classes[i] = array[i].getClass().getName();
+classes[i] = array[i].getType();
+pos += Character.charCount(Character.codePointAt(input, pos));
+pos += Character.charCount(Character.codePointAt(input, pos)));
+null = Character.charCount(Character.codePointAt(input, pos));
+for (int i = 0; i < weights.length-1; i++) {
+for (int i = begin + length; i < weights.length-1; i++) {
+for (int i==0; i < weights.length+1; i++) {
+if (ref == null) { return false; }
+null = false;
+((BasicBlock)block).isLoop();
+return multiply(100).doubleValue();
+return multiply(50).doubleValue();
+return multiplication(100).doubleValue();
+if (Precision.compareTo(entry, 0d, maxUlps || getNumArtificialVariables() >= 0) {
+if (Precision.compareTo(entry, 0d, maxUlps*maxColumns) > 0) {
+if (Precision.compareTo(entry, 0d, maxUlps || Math.max(0xff) > 0) {
+!options.skipAllPasses ||
+!options.skipAllPasses &&
+!options.skipallPasses &&
+if (c == '') { append(" "); }
+|| isWordChar(getLastChar())
+if (c == '' || c == '')
+return topType;
+return super.containsToArrayVisitor(topType);
+final JSType caseTopType(ObjectType type) { return topType;
+return sumYY - sumXY * sumXY / sumXX;
+return sumYY * sumXY / sumXX;
+return sumYY - sumXY * SumXY / sumXX;
+Complex complex = createComplex(rhs.getReal(), imaginary + rhs.getImaginary());
+Complex complex = new Complex(rhs.getReal(), imaginary + rhs.getImaginary());
+MutableComplexWrapper wrapper = new MutableComplexWrapper(rhs); add(wrapper);
+|| isSet == true;
+null == parent;
+expression == Token.REF_CALL;
+if (value!= null && value.equals("String")) {
+if (value!= null && value.equals("")) {
+if (value!= null) {
+jsDocParameter.getJSType(), true);
+jsDocParameter.getJSType(), false);
+jsDocParameter.getJSType(), true, null);
+if (options.dependencyOptions.needsManagement() || options.closurePass) {
+if (options.dependencyOptions.needsManagement() || options.closurePass) {
+if (options.dependencyOptions.needsManagement() && option.closurePass || options.externsRoot == null) {
+&& isDigits(numeric.substring(1)) || Character.isDigit(numeric.charAt(0))) {
+&& isDigits(numeric.substring(1)) || Character.isDigit(numeric.charAt(0)))) {
+&& isDigits(numeric.substring(1))|| Character.isDigit(numeric.charAt(0))) {
+int j = 4 * n - 1;
+int j = 4 * n - 1;
+int j = 5 * n - 1;
+((TimeSeries) this.data.get(index)).setData(clone);
+((TimeSeries) this.data.get(index)).add(clone);
+((TimeSeries) this.data.get(index)).setLabel(clone);
+Context rhsContext = Context.OTHER;
+Context rhsContext = Context.OTHER;
+ConstitutionalContext rhsContext = Context.OTHER;
+return " title= " + toolTipText
+return " title=" " + toolTipText
+return "title=" " + toolTipText
+null = flags.process_closure_primitives;
+null = flags.prepareFormatting_primitives;
+null = flags.process_closure_primitives;
+if (x < 0 || prev == '-') {
+if (x < 0 || prev == '-') {
+If (x < 0 || prev == '-') {
+if (result!= null || that.isSubtype(this)) {
+if (result!= null && that.isSubtype(this)) {
+if (result!= null && result.length() > 0) {
+if (str.startsWith("0x") || str.startsWith("-0x")) {
+if (str.startsWith( "0x ") || str.startsWith( "-0x ")) {
+if (str.startsWith( "0x ") || str.startsWith( "-1x ")) {
+next();
+result = stream.getRemainingJSDocLine();
+illParsedFileOverviewDocLine();
+if (x == x1) { x0 = 0.5 * (x0 + x1 - FastMath.max(rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0);
+if (x==x1) { x0 = 0.5 * (x0 + x1 - FastMath.max(rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0); }
+if (x == x1) { x0 = 0.5*(x0 + x1 - FastMath.max(rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0);
+Preconditions.checkState(function.isFunction());
+Preconditions.checkState(function.getParent());
+Preconditions.checkState(function.isReferencedFunctionArgs());
+Preconditions.checkState(parent.getFirstChild() == parent);
+Preconditions.checkState(parent.getFirstChild() == name);
+Parents.checkState(parent.getFirstChild() == parent);
+return cAvailableLocaleSet.contains(locale);
+if (locale == null) return false; return cAvailableLocaleSet.contains(locale);
+boolean isAvailableLocale = cAvailableLocaleSet.contains(locale); return true;
+null == entityValue;
+null = false;
+nesting.add(entityValue);
+a = FastMath.sqrt(c2 / c3);
+a = FastMath.sqrt(c3 / c3);
+((double) observations[i].getY());
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode);
+cfa.createEdge(fromNode, Branch.UNCOND, node);
+cfa.createEdge(fromNode, Branch.UNCOND);
+int indexOfDot = namespace.indexOf('.');
+int indexOfDot = namespace.indexOf('.');
+t indexOfDot = namespace.indexOf('.')+1;
+PathIterator iterator2 = p1.getPathIterator(null);
+PathIterator iterator2 = p1.getPathIterator(null));
+PathIterator iterator2 = p1.getRealPathIterator(null);
+null = false;
+(f1 + fx);
+null==false;
+((NodeTraversal)child).getNext();
+Context cx = Context.getCurrentContext();
+Session session = SessionManager.getSession();
+-pi - 2 * atan(y / (r - x))
+((tmp1[0] < = 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2[0]);
+((tmp1.length==0)? -FastMath.PI : FastMath.PI) - 2 * tmp2.length;
+Output Files generated for review
+   bugid  ...                      patch
+0      1  ...  patch  n = (n & (n - 1));
+
+[1 rows x 3 columns]
+Validating on test dataset *********: 0
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+if ((long) x == x) {
+if ((long) x == x || prev == '-') {
+if (x < 0 && prev == '-') {
+int sum = 0;
+int sum = 0;
+int sum = -1;
+return NaN;
+NeonNaN = NaN;
+if (!isNaN) return NaN;
+for (int i = 0; i < weights.length-1; i++) {
+for (int i = begin + length; i < weights.length-1; i++) {
+for (int i==0; i < weights.length+1; i++) {
+nextFormatField= null;
+null= patternMatcher.group();
+nextFormatField= lastFormatField;
+return (Double.isNaN(x) && Double.isNaN(y)) || x == y;
+Return (Double.isNaN(x) && Double.isNaN(y)) || x == y;
+Double d = (Double.isNaN(x) && Double.isNaN(y)) || x == d;
+} else if (offsetLocal >= 0) {
+} else if (offsetLocal >= 0 || prev == offsetPrev) {
+} else if (offsetLocal >= 0 || offsetPrev < = 0) {
+final int n1n2prod = n1 * n2;
+int n1n2prod = n1 * n2;
+final int n1n2prod = n1 * n2+1;
+if (MathUtils.compareTo(entry, 0, epsilon) >= 0 || MathUtils.compareTo(entry, 0, rhs) >= 0) {
+if (MathUtils.compareTo(entry, 0, epsilon) >= 0 || MathUtils.compareTo(entry, 0, rhs) >= 0) {
+if (MathUtils.compareTo(entry, 0, epsilon) >= 0 || MathUtils.compareTo(entry, 0, i+1) >= 0) {
+return NodeUtil.isFunctionExpression(n);
+return NodeUtil.isFunctionExpression(null);
+return NodeUtil.isFunctionExpression(n) || NodeUtil.isReadonly(n);
+null = val;
+if (val.startsWith("--")) { return null; }
+if (val.equals("--")) { return null; }
+if (endIndex < 0 || endIndex >= 0) {
+if (endIndex < 0 || endIndex==0) {
+if (endIndex < = 0 || endIndex >= 0) {
+((Double[])a).doubleValue();
+double[] prodHigh = new double[len];
+Doppel[] prodHigh = new double[len];
+&& NodeUtil.functionCallHasSideEffects(n)) { return true; }
+if (n.isNew() && NodeUtil.functionCallHasSideEffects(n))
+n.isNew() && NodeUtil.functionCallHasSideEffects(n)) {
+static float toJavaVersionInt(String version) {
+static float toJavaVersionInt(String version, String versionId) {
+static float toJavaVersionInt(String version, String method) {
+null = false;
+Integer.MAX_VALUE == 0;
+NumberOfChars = chars.length;
+return (a < = b)? b : (Float.isNaN(a + b)? Float.NaN : b);
+(a < = b)? b : (Float.isNaN(a + b)? Float.NaN : b);
+return (a < = b)? b : (Float.isNaN(a, b)? Float.NaN : b);
+!mayEffectMutableState(lhs, elseOp.getFirstChild())) {
+!mayEffectMutableState(lhs, elseOp.getType())) {
+!mayEffectMutableState(lhs) || thenOp.getType() == elseOp.getType()) {
+null = false;
+(f1 + fx);
+null==false;
+if (value!= null && value.equals("String")) {
+if (value!= null && value.equals("")) {
+if (value!= null) {
+if (name.globalSets == 1 || name.localSets == 0 &&
+if (name.globalSets == 1) { if (name.localSets == 0 ||
+if (name.globalSets >= 1) { if (name.localSets == 0 ||
+if (ref == null) { return false; }
+null = false;
+((BasicBlock)block).isLoop();
+return chromosomes.iterator();
+Iterator < Chromosome> iterator = chromosomes.iterator(); return iterator;
+Iterator < Chromosome> iterator(); return chromosomes.iterator();
+boolean isOverride = t.inGlobalScope() ||
+boolean isOverride = t.inGlobalScope() &&
+boolean isOverride = t.isInsideScope() &&
+result = solve(f, min, yMin, max, yMax, initial, yInitial);
+result = resolve(f, min, yMin, max, yMax, initial, yInitial);
+FunktionValueAccuracy.abs(yMax) < = functionValueAccuracy);
+if (str.length() < = 1) { return StringUtils.EMPTY; }
+null = false;
+if (str.length() < 1) { return StringUtils.EMPTY; }
+(len == 2)? new Locale(str, " ") : new Locale(str);
+(len == 1)? new Locale(str, " ") : new Locale(str);
+(len == 5)? new Locale(str, " " + str) : new Locale(str);
+private static final double DEFAULT_EPSILON = 10e-9;
+static final double DEFAULT_EPSILON = 10e-9;
+private static final double DEFAULT_EPSILON = 20e-9;
+int len = thisBuf.length - strLen;
+int len = thisBuf.length - strLen + 1;
+int len = thisBuf.length - strLen-1;
+parentsOn(typeParameters);
+registerTypeParametersOn(typeParameters);
+markTypeParametersOn(typeParameters);
+return solve(min, max);
+double solve(double min, double max) throws FunctionEvaluationException { return solve(min, max);
+double solve(double min, double max) throws Exception { return solve(min, max); }
+Preconditions.checkState(parent.getFirstChild() == parent);
+Preconditions.checkState(parent.getFirstChild() == name);
+Parents.checkState(parent.getFirstChild() == parent);
+null = flags.process_closure_primitives;
+null = flags.prepareFormatting_primitives;
+null = flags.process_closure_primitives;
+Preconditions.checkState(n.isCall());
+Preconditions.checkState(n.isCall());
+tate.checkState(n.isCall());
+Complex complex = createComplex(rhs.getReal(), imaginary + rhs.getImaginary());
+Complex complex = new Complex(rhs.getReal(), imaginary + rhs.getImaginary());
+MutableComplexWrapper wrapper = new MutableComplexWrapper(rhs); add(wrapper);
+return StringDescription.toString(m).equals(arg.toString());
+return StringDescription.toString(m).equals(arg.toString()));
+return StringDescription.toString(m).equals(arg.toString();
+Assert.isTrue(property!= null);
+safeResolve(prop.getType(), t, scope));
+if (property == null) { throw new IllegalArgumentException(); }
+return fit(new Gaussian.Parametric(), guess);
+return fit(new Gaussian.Parametric(), guess).guess();
+final double[] guess = fit(new Gaussian.Parametric(), guess);
+this.dataset = dataset;
+this.dataset = dataset;
+this.datasetValue = dataset;
+cal1.get(Calendar.HOUR) == cal2.get(Calendar.HOUR) &&
+cal1.get(Calendar.HOUR_DATE) == cal2.get(Calendar.HOUR_DATE) &&
+cal1.get(Calendar.HOUR_LEVEL) == cal2.get(Calendar.HOUR_LEVEL) &&
+) {
+|| n.getType() == Token.RETURN) {
+|n.getType() == Token.FUNCTION) {
+return foundDigit &&!hasExp;
+return foundDigit ||!hasExp;
+return foundDigit &&!chars[i];
+KanndidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+CandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+AssistedFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+str.getChars(0, strLen, buffer, size);
+str.getChars(0, strLen, buffer[size]);
+str.getChars(0, strLen, buffer, size);
+-pi - 2 * atan(y / (r - x))
+((tmp1[0] < = 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2[0]);
+((tmp1.length==0)? -FastMath.PI : FastMath.PI) - 2 * tmp2.length;
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
+instantLocal, chrono, iPivotYear, iDefaultYear);
+if (c >= 0x1f && c < = 0x7f) {
+if (c >= 0x1f && c < = 0x7f) {
+If (c >= 0x1f && c < = 0x7f) {
+if (fa * fb >= 0.0) {
+if (numIterations * fb >= 0.0) {
+if (fa * fb >= 0.0 || (b < upperBound)) {
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode);
+cfa.createEdge(fromNode, Branch.UNCOND, node);
+cfa.createEdge(fromNode, Branch.UNCOND);
+&& 0 < = charno && charno < sourceExcerpt.length()) {
+&& 0 < = charno && charno < sourceExcerpt.length()) {
+|| 0 < = charno && charno < sourceExcerpt.length()) {
+((TimeSeries) this.data.get(index)).setData(clone);
+((TimeSeries) this.data.get(index)).add(clone);
+((TimeSeries) this.data.get(index)).setLabel(clone);
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+long g = (int) ((value - this.lowerBound) / (this.upperBound
+node.getPreconditions().checkNotNull(qualifiedName);
+Debug.log("QualifiedName: " + qualifiedName);
+MutableType type = node.getMutableType();
+return locals.apply(value);
+return locals.apply(value).apply(value);
+return internalGet(value) || locals.apply(value);
+jsDocParameter.getJSType(), true);
+jsDocParameter.getJSType(), false);
+jsDocParameter.getJSType(), true, null);
+if (options.checkGlobalThisLevel.isOn() || options.getLanguageIn() == LanguageMode.ECMASCRIPT5_STRICT) {
+if (options.checkGlobalThisLevel.isOn() || options.getLanguageIn() == LanguageMode.ECMASCRIPT5_STRICT) {
+if (options.checkGlobalThisLevel.isOn()||options.getLanguageIn() == LanguageMode.ECMASCRIPT5_STRICT) {
+miles.add(millis);
+null = false;
+FieldType.year(), iDefaultYear);
+if (provided!= null) {
+if (provided!= null || parent.detachFromParent()) {
+if (provided!= null || parent.isEmpty()) {
+new Range(0.0, constraint.getWidth() - w[2]),
+new Range(0.0, constraint.getWidth() + w[2]),
+nouvelle Range(0.0, constraint.getWidth() - w[2]),
+this(time, Locale.getDefault());
+this.time = time; this.locale = locale;
+this.time = time; this.locale = locale; this.hour = time;
+if (str.startsWith("0x") || str.startsWith("-0x")) {
+if (str.startsWith( "0x ") || str.startsWith( "-0x ")) {
+if (str.startsWith( "0x ") || str.startsWith( "-1x ")) {
+if (options.dependencyOptions.needsManagement() || options.closurePass) {
+if (options.dependencyOptions.needsManagement() || options.closurePass) {
+if (options.dependencyOptions.needsManagement() && option.closurePass || options.externsRoot == null) {
+null == entityValue;
+null = false;
+nesting.add(entityValue);
+if (result!= null || that.isSubtype(this)) {
+if (result!= null && that.isSubtype(this)) {
+if (result!= null && result.length() > 0) {
+} else {
+} else if (actualTypeArguments.length==0) {
+} else if (actualTypeArguments.length > i) {
+Object clone = createCopy(0, getItemCount() - 1);
+Object clone = createCopy(0, getItemCount());
+Object clone = createCopy(-1, getItemCount() - 1);
+PathIterator iterator2 = p1.getPathIterator(null);
+PathIterator iterator2 = p1.getPathIterator(null));
+PathIterator iterator2 = p1.getRealPathIterator(null);
+return multiply(100).doubleValue();
+return multiply(50).doubleValue();
+return multiplication(100).doubleValue();
+if (
+if (n == 1) { pos.setIndex(startIndex); return null; } else if (
+if (source.compareTo( getImaginaryCharacter())!= 0)
+return FastMath.pow(2 * FastMath.PI, -dim / 2) *
+return FastMath.pow(3 * FastMath.PI, -dim / 2) *
+return FastMath.pow(20 * FastMath.PI, -dim / 2) *
+pos += Character.charCount(Character.codePointAt(input, pos));
+pos += Character.charCount(Character.codePointAt(input, pos)));
+null = Character.charCount(Character.codePointAt(input, pos));
+null = false;
+Math.max(increase, text.length() / 5);
+next = Math.max(increase, text.length());
+&& (str.charAt(1) == 'e' || str.charAt(2) == 'E')
+&& (str.charAt(1) == 'e' || str.charAt(3) == 'E')
+&& (str.charAt(1) == 'E' || str.charAt(2) == 'S')
+null,
+sb.append("n ");
+|| (s.charAt(i - 1) == '')
+if (target!= null && callee.getType() == Token.GETPROP) {
+if (target!= null && callee.getType() == Token.GETPROP) {
+if (target!= null || callee.getType() == Token.SETPROP) {
+return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
+return (double) (getSampleSize()*getNumberOfSuccesses()) / (double) getPopulationSize();
+return (double) (getSampleSize() * getNumberOfSuccesses()). / (double) getPopulationSize();
+!options.skipAllPasses ||
+!options.skipAllPasses &&
+!options.skipallPasses &&
+null = sb.toString();
+null = false;
+nl.append('0'); break;
+Partial newPartial = new Partial(iChronology, newTypes, newValues);
+Partial newPartial = new Partial(iChronology, newTypes, newValues);
+Partial newPartial = new Partial(iChronology, newTypes, newValues, context);
+if (m instanceof CapturesArguments) {
+if (m instanceof CapturesArguments) {
+if (m instanceof CapturesArguments ||m instanceof String) {
+if (fnType!= null || type.isEmptyType()) {
+if (fnType!= null || type.isEmptyType()) {
+if (fnType!= null || type.isExternalType()) {
+Calendar c = new GregorianCalendar(mTimeZone);
+Calendar c = new GregorianCalendar(mTimeZone.getTime());
+Calendar c = new GregorianCalendar(mTimeZone, true);
+MutableCommonDivisor.reset();
+MutableCommonDivisor.getInstance();
+MutableCommonDivisor.fraction = this;
+} else {
+parent.getFirstChild().getNext()!= n) {
+IPath path = ns.getFirstChild(); } else {
+classes[i] = array[i].getClass();
+classes[i] = array[i].getClass().getName();
+classes[i] = array[i].getType();
+Beschreibung.appendText(wanted.toString());
+Beschreibung.appendText(wanted.toString()));
+Detail text = wanted.toString(); description.appendText(text);
+primitiveValues.put(double.class, 0);
+primitiveValues.put(double.class, 0L);
+primitiveValues.put(double.class, 0F);
+((NodeTraversal)child).getNext();
+Context cx = Context.getCurrentContext();
+Session session = SessionManager.getSession();
+if (Precision.compareTo(entry, 0d, maxUlps || getNumArtificialVariables() >= 0) {
+if (Precision.compareTo(entry, 0d, maxUlps*maxColumns) > 0) {
+if (Precision.compareTo(entry, 0d, maxUlps || Math.max(0xff) > 0) {
+a = FastMath.sqrt(c2 / c3);
+a = FastMath.sqrt(c3 / c3);
+((double) observations[i].getY());
+null = null;
+null = false;
+festivities.add(mTimeZoneForced);
+return getCumPct((Comparable <?>) v);
+return getCumPct((Comparable < T>) v);
+return getCumPct((Comparable < Table>) v);
+return sumYY - sumXY * sumXY / sumXX;
+return sumYY * sumXY / sumXX;
+return sumYY - sumXY * SumXY / sumXX;
+if (u * v == 0 || U.equals(v)) {
+if (u * v == 0 || U.equals(v)) {
+if (u * v == 0 || "".equals(v)) {
+return 1;
+return name.toString();
+return method.getType().getReturnType();
+return len >= 0;
+return len > 0;
+return (len > 0);
+null = false;
+null = true;
+firm(val1, val2));
+returnValueFor(invocation.getMethod().getReturnType());
+null = invocation.getMethod().getReturnType();
+LazySet <?> returnValueFor(Class <?> type) {
+Line reverted = new Line(zero, zero.subtract(direction));
+Line reverted = new Line(zero, zero.subtract(direction), false);
+Line reverted = new Line(zero, zero.subtract(direction2));
+int j = 4 * n - 1;
+int j = 4 * n - 1;
+int j = 5 * n - 1;
+catch (MockitoAssertionError e) {
+catch (org.mozilla.exceptions.verification.junit.ArgumentsAreDifferent e) {
+catch (java.security.exceptions.verification.junit.ArgumentsAreDifferent e) {
+if (escapingOn && pattern.length() >= 0) { return appendTo.append(QUOTE); }
+if (escapingOn && pattern.length()==0) { return appendTo.append(QUOTE); }
+if (escapingOn && pattern.length()==QUOTE) { return appendTo.append(QUOTE); }
+if ((Boolean) tree.getAttribute()) {
+if ((Boolean) tree.getAttribute()) {
+if (false && (Boolean) tree.getAttribute()) {
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+emporte[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+;
+null = null;
+; case Token.OBJECT:
+if (x < 0 || prev == '-') {
+if (x < 0 || prev == '-') {
+If (x < 0 || prev == '-') {
+if (n.getJSType()!= null && parent.isAssign()) { return;
+} else if (n.getJSType()!= null && parent.isAssign()) {
+while (n.getJSType()!= null && parent.isAssign()) { return;
+next();
+result = stream.getRemainingJSDocLine();
+illParsedFileOverviewDocLine();
+if (dataset!= null || dataset.getRowCount() >= 1) {
+if (dataset!= null || result.getRowCount() >= 1) {
+if (dataset!= null || dataset.getRowCount() < = 1) {
+super(paint, stroke, paint, stroke, alpha);
+super(paint, stroke, paint, stroke, alpha);
+super(paint, stroke, paint, stroke, null);
+Preconditions.checkState(function.isFunction());
+MutablePreconditions.checkState(function.isFunction());
+if (fnScope.getParent() == null) return false;
+return cAvailableLocaleSet.contains(locale);
+if (locale == null) return false; return cAvailableLocaleSet.contains(locale);
+boolean isAvailableLocale = cAvailableLocaleSet.contains(locale); return true;
+Context rhsContext = Context.OTHER;
+Context rhsContext = Context.OTHER;
+ConstitutionalContext rhsContext = Context.OTHER;
+|| isSet == true;
+null == parent;
+expression == Token.REF_CALL;
+if (x == x1) { x0 = 0.5 * (x0 + x1 - FastMath.max(rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0);
+if (x==x1) { x0 = 0.5 * (x0 + x1 - FastMath.max(rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0); }
+if (x == x1) { x0 = 0.5*(x0 + x1 - FastMath.max(rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0);
+&& isDigits(numeric.substring(1)) || Character.isDigit(numeric.charAt(0))) {
+&& isDigits(numeric.substring(1)) || Character.isDigit(numeric.charAt(0)))) {
+&& isDigits(numeric.substring(1))|| Character.isDigit(numeric.charAt(0))) {
+null = new Compiler(getErrorPrintStream());
+null = new EmptyMessageBundle();
+SessionFactory.getInstance().createCompiler();
+null = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+null = n.getLastChild(); tryMinimizeExits(catchCodeBlock, exitType, labelName);
+null = n.getLastChild(); tryMinimizeExits(lastlyBlock, exitType, labelName);
+return allResultsMatch(n, MAY_BE_STRING_PREDICATE);
+return allResultsMatch(n, MAY_BE_STRING_PREDICATE) || mayBeStringHelper(n);
+ResultsMatch allResultsMatch(n, MAY_BE_STRING_PREDICATE));
+int indexOfDot = namespace.indexOf('.');
+int indexOfDot = namespace.indexOf('.');
+t indexOfDot = namespace.indexOf('.')+1;
+Output Files generated for review
+   bugid  ...                      patch
+0      1  ...  patch  n = (n & (n - 1));
+
+[1 rows x 3 columns]
+Validating on test dataset *********: 0
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+if ((long) x == x) {
+if ((long) x == x) {
+/*if ((long) x == x) {
+nan
+null sum = 0;
+noResponse = false;
+NaN = NaN;
+if (isNaN) { return NaN; }
+if (!isNaN) { return NaN; }
+for (int i = 0; i < weights.length; i++) {
+/* for (int i = 0; i < weights.length; i++) {
+For (int i = 0; i < weights.length; i++) {
+parsePattern= Pattern.compile(regex.toString()); }
+nextFormatField= nextFormatField;
+parsePattern = Pattern.compile(regex.toString()); }
+return (Double.isNaN(x) && Double.isNaN(y)) || x == y;
+(Double.isNaN(x) && Double.isNaN(y)) || x == y;
+null = (Double.isNaN(x) && Double.isNaN(y)) || x == y;
+EventQueue.invokeLater(new Runnable() { public void run() {
+/*else if (offsetLocal > 0) {
+/*else if (offsetLocal > 0) {
+null n1n2prod = n1 * n2;
+final int n1n2prod = n1 * n2;
+final double n1n2prod = n1 * n2;
+if (MathUtils.compareTo(entry, 0, rhs) >= 0) {
+if (MathUtils.compareTo(entry, 0, epsilon) >= 0) {
+if(MathUtils.compareTo(entry, 0, epsilon) >= 0) {
+return NodeUtil.isFunctionExpression(n);
+boolean isReduceable = NodeUtil.isFunctionExpression(n); return isReduceable;
+if (n == null) return false; return NodeUtil.isFunctionExpression(n);
+null = null;
+null;
+nativeResponse.setValue(val);
+if (endIndex < 0) {
+if (endIndex < 0) {
+if ( endIndex < 0 ) {
+((Integer) a[0]).intValue();
+((Integer) a[i]).intValue();
+ger.minor(this, "LinearCombination: "+a);
+||!ControlFlowGraph.isEnteringNewCfgNode(c)
+if (!ControlFlowGraph.isEnteringNewCfgNode(c)
+c = c.getNext();
+static float toJavaVersionInt(String version) {
+float toJavaVersionInt(String version) {
+synchronized static float toJavaVersionInt(String version) {
+Integer.MAX_VALUE;
+null = null;
+needsProgressMonitor = false;
+(a < = b)? b : (Float.isNaN(a + b)? Float.NaN : b);
+(a < b)? b : (Float.isNaN(a + b)? Float.NaN : b);
+(a < = b)? b : (Double.isNaN(a + b)? Double.NaN : b);
+!mayEffectMutableState(lhs)) {
+!mayEffectMutableState(lhs)) {
+!mayEffectMutableState(lhs, elseOp.getFirstChild())) {
+null = null;
+null = new Boolean(false);
+if (fx == 0) return;
+if (value!= null) {
+if (value!= null && value.length() > 0) {
+if (value!= null && callTarget.isName()) {
+if (name.globalSets == 1 && name.localSets == 0 &&
+if (name.globalSets == 1 && name.localSets == 0 &&
+if (Name.globalSets == 1 && Name.localSets == 0 &&
+if (ref == null) { return false; }
+Reference ref = getOneAndOnlyAssignment();
+(BasicBlock) block.getBasicBlock());
+synchronized (chromosomes) { return chromosomes.iterator(); }
+synchronized(chromosomes) { return chromosomes.iterator(); }
+return chromosomes.iterator(); } public Iterator < Chromosome> iterator() { return this.chromosomes.iterator(); }
+boolean isOverride = t.inGlobalScope() &&
+boolean isOverride = t.isInsideScope() &&
+boolean isOverride = t.getContextScope() &&
+result = solve(f, min, yMin, max, yMax, initial, yInitial);
+result = resolve(f, min, yMin, max, yMax, initial, yInitial);
+if (f == null) { throw new NullPointerException(); }
+null = null;
+if (str == null) { return null; }
+ns = StringUtils.EMPTY;
+if (len == 2) { return new Locale(str, " "); }
+if (str == null) { throw new IllegalArgumentException( "Invalid locale format: " + str); }
+if (len == 4) { return new Locale(str, " "); }
+static final double DEFAULT_EPSILON = 10e-9;
+static final double DEFAULT_EPSILON = 10e-8;
+static final double DEFAULT_EPSILON = 10e-5;
+int len = thisBuf.length - length;
+int len = thisBuf.length - length;
+int len = thisBuf.length - offset;
+RegisterTypeArgumentsOn(getActualTypeArgumentFor(typeVariable));
+registerTypeVariablesOn(getActualTypeArgumentFor(typeVariable));
+RegisterTypeVariablesOn(typeParameters);
+IllegalArgumentException iae = new IllegalArgumentException(); iae.initCause(this); throw iae;
+IllegalArgumentException iae = new IllegalArgumentException(); iae.initCause(f); throw iae;
+ExecutionException ex = new FunctionEvaluationException(); ex.initCause(ex); throw ex;
+Preconditions.checkState(parent.getFirstChild() == name);
+Preconditions.checkState(parent.getFirstChild() == name);
+Preconditions.checkState(parent.getNextChild() == name);
+null = flags.process_closure_primitives;
+initOptionsFromFlags(options); return options;
+null = (FormattingOption) formattingOption;
+Preconditions.checkState(n.isCall());
+Preconditions.checkState(n.isCall());
+n.putBooleanProp(Node.FALSE, false);
+null = new Complex(real + rhs.getReal(), imaginary + rhs.getImaginary());
+quip.addComplex(real + rhs.getReal(), imaginary + rhs.getImaginary());
+Complex c = new Complex(real + rhs.getReal(), imaginary + rhs.getImaginary());
+return StringDescription.toString(m).equals(arg.toString());
+boolean result = StringDescription.toString(m).equals(arg.toString()); return result;
+Result result = StringDescription.toString(m).equals(arg.toString()); return result;
+safeResolve(prop.getType(), t, scope);
+property.setType(safeResolve(prop.getType(), t, scope));
+Properties props = properties.values(); props.setProperty(props);
+return fit(new Gaussian.Parametric(), guess);
+Assert.isNotNull(new Gaussian.Parametric()); return fit(new Gaussian.Parametric(), guess);
+if (new Gaussian.Parametric()!=null) return fit(new Gaussian.Parametric(), guess);
+null = null;
+null = null; }
+dataset = dataset;
+cal1.get(Calendar.HOUR) == cal2.get(Calendar.HOUR) &&
+cal1.get(Calendar.HOUR) == cal2.get(Calendar.HOUR) &&
+cal1.get(Calendar.HOUR).equals(cal2.get(Calendar.HOUR)) &&
+) {
+) {
+|| n.getType() == Token.ENUM ) {
+if (chars[i] == 'l' || chars[i] == 'L') { return foundDigit; } else { return!hasExp; }
+return foundDigit &&!hasExp;
+if (chars[i] == 'l' || chars[i] == 'L') { return foundDigit; } else { return false; }
+CandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+CandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject(); }
+CandidateFilter.fetchCandidate(mocks, field, fieldInstance).thenInject();
+str.getChars(0, strLen, buffer, size);
+str.getChars(0, strLen, buffer, size);
+.appendChars(0, strLen, buffer, size);
+((tmp1[0] < 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2[0];
+((tmp1[0] < 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2[0]);
+((tmp1 == 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2[0]);
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
+instantLocal, chrono, iLocale, iPivotYear);
+if ((c > 0x1f) && (c < = 0x7f)) {
+if (c >= 0x1f && c < = 0x7f) {
+if (sb == null || outputCharsetEncoder.canEncode(c)) {
+if (fa * fb >= 0.0) {
+if (fa * fb >= 0.0) {
+if (fa * fb >= 0 ) {
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode);
+createEdge(fromNode, Branch.UNCOND, finallyNode);
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode);
+&& 0 < = charno && charno < sourceExcerpt.length()) {
+&& 0 < = charno && charno < error.length()) {
+&& 0 < = charno && charno < sourceExcerpt.length()) {
+((TimeSeries) super.clone()).data = new java.util.ArrayList();
+.data = new java.util.ArrayList();
+if (this.data == null) { return null; }
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+int g = (int) (value - this.lowerBound) / (this.upperBound
+Node child = node.getFirstChild(); scope.inferQualifiedSlot(child, qualifiedName, origType, type);
+Node child = node.getNextSibling(); scope.inferQualifiedSlot(child, qualifiedName, origType, type);
+Manipulations.inferSlot(node, qualifiedName, origType, type);
+null = null; return locals.apply(value);
+null = null;
+| locals.apply(value); case Token.OBJECTLIT: return locals.apply(value);
+jsDocParameter.getJSType(), true);
+jsDocParameter.getJSType(), false);
+jsDocParameter.getJavaClass(), true);
+if (options.getGlobalThisLevel().isOn()) {
+if (options.getGlobalThisLevel().isOn()) {
+if (options.checkGlobalThisLevel == null || options.checkGlobalThisLevel.isOn()) {
+iMillis = iMillis;
+null = null;
+needsSynchronization = false;
+if (getContext()!= null) {
+if (getContext().provided!= null) {
+given(); if (provided!= null) {
+new Range(0.0, constraint.getWidth() - w[2]),
+new Range(1.0, constraint.getWidth() - w[2]),
+new Range(0.0, temp.getWidth() - w[2]),
+this(time, Locale.getDefault());
+this(DEFAULT_TIME_ZONE, Locale.getDefault());
+this.time = new Locale(Locale.getDefault());
+if (str.startsWith("0x") || str.startsWith("-0x")) {
+if (str.startsWith("0x") || str.startsWith("-0x")) {
+if (str.startsWith( "0x ") || str.startsWith( "-0x ")) {
+if (options.dependencyOptions.needsManagement()) {
+if (options.dependencyOptions.needsManagement()) {
+if (Options.dependencyOptions.needsManagement() && Options.closurePass) {
+NumberFormatException nfe) { return 0; }
+((NumberFormatException)nfe).printStackTrace();
+if(entityValue == null) { return 0; }
+if (result!= null) {
+if (result!= null) {
+if (result!= null && result.isObject()) {
+EventQueue.invokeLater(new Runnable() { public void run() {
+parent.registerTypeParametersOn(typeParameter, actualTypeArgument); } else {
+if (actualTypeArgument == null || actualTypeArgument instanceof WildcardType) {
+Object clone = createCopy(0, getItemCount());
+Object clone = createCopy(0, getItemCount() - 1);
+Object clone = createCopy(0, getCount() - 1);
+PathIterator iterator2 = p1.getPathIterator(null);
+PathIterator iterator2 = p1.getPathIterator();
+PathIterator iterator2 = p1.currentPathIterator();
+NutchConf nutchConf = null; try { nutchConf = new NutchConf(); } catch (NullPointerException e) { throw new IllegalStateException("NullPointerException: " + e.getMessage()); } return multiply(100).doubleValue();
+NutchConf nutchConf = null; try { nutchConf = new NutchConf(); } catch (NullPointerException e) { throw new IllegalStateException("NullPointerException: " + e.getMessage()); } return multipli(100).doubleValue();
+NutchConf nutchConf = new NutchConf(); Iterator itr = nutchConf.iterator(); while (itr.hasNext()) { Number number = (Number) itr.next(); for (int i = 0; i < number.getLength(); i++) { Integer value = (Integer
+if (
+pos.setIndex(initialIndex); if (
+synchronized (getImaginaryCharacter()) { if (
+= FastMath.pow(2 * FastMath.PI, -dim / 2) *
+double density = FastMath.pow(2 * FastMath.PI, -dim / 2) *
+= FastMath.pow(2 * FastMath.PI, -dim / 2 *
+pos += Character.charCount(Character.codePointAt(input, pos));
++= Character.charCount(Character.codePointAt(input, pos));
+pos += Character.charCount(Character.codePointAt(input));
+nan
+min(increase, text.length() / 5);
+NonEmptyStrings.add(text);
+if (ch == 'y') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(3) == 'S'); }
+if (ch == 'y') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(2) == 'S'); }
+if (ch == 'o') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(2) == 'S'); }
+sb.append("n ");
+sb.append("n ");
+sb.append(doublequoteEscape);
+Node target = callee.getNext(); if (target!= null) {
+if (target!= null && target.getType() == Token.TARGET) {
+if (target!= null && target.getString() == null) {
+(double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
+return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
+return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) this.getPopulationSize();
+!options.skipAllPasses &&
+!options.skipAllPasses &&
++!options.skipAllPasses &&
+nextChar();
+nextChar('0');
+nextCharacterIterator();
+Partial newPartial = new Partial(iChronology, newTypes, newValues);
+Partial newPartial = new Partial(iChronology, newTypes, newValues);
+Partial newPartial = new Partial(iChronology, iTypes, newValues);
+if (m instanceof CapturesArguments) {
+if (m instanceof CapturesArguments) {
+if (m instanceof CallableArguments) {
+if (fnType!= null) {
+if (fnType!= null) {
+/* if (fnType!= null) {
+Calendar c = new GregorianCalendar(mTimeZone);
+c = new GregorianCalendar(mTimeZone);
+null = new GregorianCalendar(mTimeZone);
+null = null;
+if (gcd == 1) { return this; }
+node = null;
+parent.getNext()!= n; } else {
+parent.getFirstChild().getNext(); } else {
+parent.getLastChild() = n; } else {
+((Class <?>)array[i]).getClass();
+classes[i] = array[i].getClass();
+classes[i] = (Class <?>) array[i].getClass();
+description.appendText(wanted.toString());
+description.appendText(wanted.toString());
+description.appendText(wanted.toString(), false);
+PrimitiveValues.put(double.class, 0);
+primitiveValues.put(double.class, 0);
+primitiveValues.put(double.class, 0); }
+if (child == null) return;
+Property prop = getProperty(name);
+Helper.handleObjectLit(child, n);
+if (Precision.compareTo(entry, 0d, maxUlps) > 0) {
+if (precision.compareTo(entry, 0d, maxUlps) > 0) {
+if (Precision.compareTo(entry, 0, maxUlps) > 0) {
+a = FastMath.sqrt(c1 / c2); omega = FastMath.sqrt(c2 / c3);
+A = FastMath.sqrt(c1 / c2); omega = FastMath.sqrt(c2 / c3);
+a = fastMath.sqrt(c1 / c2); omega = FastMath.sqrt(c3 / c3);
+null = null;
+null = new StringBuffer();
+.printStackTrace();
+double result = getCumPct((Comparable <?>) v); return result;
+double result = getCumPct((Comparable <?>) v); return result;
+return getCumPct( (Comparable <?>) v);
+return sumYY - sumXY * sumXY / sumXX;
+sumYY - sumXY * sumXY / sumXX;
+try { return sumYY - sumXY * sumXY / sumXX; } catch (SQLException exc) { exc.printStackTrace(); }
+/*if (u * v == 0) {
+/* if (u * v == 0) {
+if (u * v == 0)
+return "Mock for " + mockUtil.getMockSettings(mock).getTypeToMock().getSimpleName() + ", hashCode: " + mock.hashCode();
+Class <?> returnType = invocation.getMethod().getReturnType(); return returnValueFor(returnType);
+Object returnValueFor(Class <?> type) { Class <?> returnType = invocation.getMethod().getReturnType(); return returnValueFor(returnType); }
+return len > 0;
+return (len > 0);
+if (len >= 0) { return false; }
+nativeResponse response = null;
+null = null;
+safeMultiply(val1, val2);
+ReturnType returnType = invocation.getMethod().getReturnType(); return returnValueFor(returnType);
+null = invocation.getMethod().getReturnType();
+if (Invocation.class.isAssignableFrom(invocation.getMethod())) { return null; }
+Line reverted = new Line(zero, zero.subtract(direction));
+reverted = new Line(zero, zero.subtract(direction));
+Line reverted = new Line(zero, zero.subtract(direction);
+int j = 4 * n - 1;
+int j = 4 * n - 1;
+int j = 3 * n - 1;
+catch (org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e) {
+catch ( org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e ) {
+(org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e) {
+pos.setIndex(i + ESCAPED_QUOTE.length());
+pos.setIndex(i + ESCAPED_QUOTE.length());
+nextPosition = pos.getIndex();
+if ((Boolean) tree.getAttribute()) {
+if ((Boolean) tree.getAttribute()) {
+if (tree.getAttribute() instanceof Boolean) {
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+out[i][j] = 2 * 1 - tDistribution.cumulativeProbability(t));
+; case Token.OBJECT: ensureTyped(t, n, OPERATOR_TYPE); break;
+; case Token.ARRAY: ensureTyped(t, n, ARRAY_TYPE); break;
+; case Token.OBJECT: ensureTyped(t, n, OPEN_TYPE); break;
+if (x < 0 && prev == '-') {
+if (x < 0 && prev == '-') {
+if (x < 0 || prev == '-') {
+nan
+nan
+Node child = n.getLastChild();
+next();
+nextDocLine();
+nextAsync();
+if (dataset!= null) {
+if (dataset!= null) {
+If (dataset!= null) {
+Super(paint, stroke, paint, stroke, alpha);
+this(paint, stroke, paint, stroke, alpha);
+super(paint, stroke, paint, stroke, null);
+Helper.removeGlobals(fnScope);
+node = fnScope.getNode();
+ExecutionCourse.this.removeGlobals;
+boolean isAvailable = cAvailableLocaleSet.contains(locale); return isAvailable;
+synchronized (cAvailableLocaleSet) { return cAvailableLocaleSet.contains(locale); }
+Locale locale = getDefaultLocale(); return cAvailableLocaleSet.contains(locale);
+Context rhsContext = Context.OTHER;
+Context rhsContext = Context.OTHER;
+Context rhsContext = Context.THISFN;
+|| NodeUtil.isAssignmentOp(parent)
+if (type == Token.OBJECT) { return; }
+parent.setParent(null);
+f0 = computeObjectiveValue(x0);
+f0 = computeObjectiveValue(rtol * FastMath.abs(x1), atol);
+f0 = computeObjectiveValue (x0);
+&& isDigits(character.substring(1)) && (character.charAt(0) == '-' || Character.isDigit(character.charAt(0)))) {
+&& isDigits(character.substring(1)) && (character.charAt(0) == '-' || Character.isDigit(character.charAt(0)))) {
+&& isDigits(character.substring(1)) && (character.charAt(0) == '-' || character.isDigit(character.charAt(0)))) {
+null = null;
+null = new Compiler(getErrorPrintStream()); }
+new Compiler(getErrorPrintStream());
+Node finallyBlock = n.getFirstChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+Node finallyBlock = getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType);
+ResultsMatch ret = allResultsMatch(n, MAY_BE_STRING_PREDICATE); return ret;
+Result ret = allResultsMatch(n, MAY_BE_STRING_PREDICATE); return ret;
+return allResultsMatch(n, MAY_BE_STRING_PREDICATE);
+int indexOfDot = namespace.indexOf('.');
+int indexOfDot = namespace.indexOf('.');
+Insert indexOfDot = namespace.indexOf('.');
+Output Files generated for review
+   bugid  ...                      patch
+0      1  ...  patch  n = (n & (n - 1));
+
+[1 rows x 3 columns]
+Validating on test dataset *********: 0
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+if ((long) x == x || Math.abs(x) >= 100) {
+if ((long) x == x || prev == '-') {
+if ((long)x == x ||prev == '-') {
+null = false;
+null sum = 0;
+nullSum = 0;
+NeonNaN = NaN;
+return NaN;
+if (isNaN) return NaN;
+for (int i = 0; i < weights.length-1; i++) {
+for (int i = 0; i < weights.length+1; i++) {
+for (int i=0; i < weights.length-1; i++) {
+nextFormatField= patternMatcher.group();
+nextFormatField= null;
+nextFormatField= new StringBuffer();
+return (Double.isNaN(x) && Double.isNaN(y)) || x == y;
+Double d = (Double.isNaN(x) && Double.isNaN(y)) || x == d;
+) { return (Double.isNaN(x) && Double.isNaN(y)) || x == y; }
+} else if (offsetLocal >= 0) {
+if (offsetLocal >= 0) {
+else if (offsetLocal < = 0 ||offsetLocal >= 0) {
+final int n1n2prod = n1 * n2;
+int n1n2prod = n1 * n2;
+danst n1n2prod = n1 * n2;
+if (MathUtils.compareTo(entry, 0, MathUtils.maxRows) >= 0) {
+if (MathUtils.compareTo(entry, 0, rhs) >= 0) {
+if (MathUtils.compareTo(entry, 0, epsilon-1) >= 0) {
+return NodeUtil.isFunctionExpression(null);
+Node n = NodeUtil.isFunctionExpression(n); return n!= null;
+Node parent; if (n instanceof Node) { parent = (Node)n; } return NodeUtil.isFunctionExpression(n);
+null;
+null = val;
+((NumberFormatException)val).length() > 0);
+if (endIndex < 0 || endIndex==0) {
+if (endIndex < 0 || endIndex >= data.size()) {
+if (endIndex < 0 || endIndex == 1) {
+null = null;
+double[] prodHigh = new double[len];
+((Double[]) a).doubleValue();
+NodeUtil.functionCallHasSideEffects(n)
+NodeUtil.functionCallHasSideEffects(n));
+n.setPriority(Thread.MAX_PRIORITY);
+static float toJavaVersionInt(String version) {
+static float toJavaVersionInt(String version) throws IOException {
+static float toJavaVersionInt(String version, String versionIndex) {
+null = false;
+null = null;
+null = true;
+return (a < = b)? b : (Float.isNaN(a + b)? Float.NaN : b);
+(a < = b)? b : (Float.isNaN(b + a)? Float.NaN : b);
+(a < = b)? b : (Double.isNaN(a + b)? Float.NaN : b);
+!mayEffectMutableState(lhs, elseOp.getType())) {
+!mayEffectMutableState(lhs, elseOp.getFirstChild())) {
+!mayEffectMutableState(lhs, elseOp.getType())) {
+null = false;
+f0 *= 0.5; break;
+null = f0;
+if (value!= null && value.equals("")) {
+if (value!= null && value.length() > 0) {
+if (value!= null) {
+if (name.globalSets == 1 || name.localSets == 0 &&
+if (name.globalSets == 1 && name.localSets >= 0 &&
+if (name.globalSets == 1 && name.aliasingGets > 0) {
+null = false;
+if (ref == null) { return false; }
+Reference ref = getOneAndOnlyAssignment();
+return chromosomes.iterator();
+synchronized (chromosomes) { return chromosomes.iterator(); }
+iterator = chromosomes.iterator(); return iterator;
+boolean isOverride = t.inGlobalScope() &&
+boolean isOverride = t.inGlobalScope() ||
+boolean isOverride = t.inLocalScope() &&
+null = false;
+null = Math.abs(yMax);
+FunktionValueAccuracy = functionValueAccuracy;
+null = null;
+null = false;
+if (str.length() > 1) { return StringUtils.EMPTY; }
+(len == 2)? new Locale(str, " ") : new Locale(str);
+if (len == 2) { return new Locale(str, " "); }
+(len == 1)? new Locale(str, " " + str) : new Locale(str);
+static final double DEFAULT_EPSILON = 10e-9;
+private static final double DEFAULT_EPSILON = 10e-9;
+static final double DEFAULT_EPSILON = 10e-5;
+null len = thisBuf.length - strLen;
+int len = thisBuf.length - strLen;
+int len = thisBuf.length - end;
+RegisterTypeParametersOn(typeParameters);
+private void readTypeParameters() { registerTypeParametersOn(typeParameters); }
+null = typeVariable.getBounds();
+return solve(min, max);
+solve(min, max) throws MaxIterationsExceededException, FunctionEvaluationException { return solve(min, max);
+solve(min, max) throws MaxIterationsExceededException, FunctionEvaluationException { return solve(max, min);
+Preconditions.checkState(parent.getFirstChild() == name);
+Preconditions.checkState(parent.getFirstChild() == parent);
+Conditions.checkState(parent.getFirstChild() == parent);
+null = flags.process_closure_primitives; options.closurePass = true;
+null = flags.process_closure_primitives; options.closurePass = false;
+null = flags.process_closure_primitives; options.closurePass = 0;
+n.putBooleanProp(Node.FREE_CALL, false);
+n.putBooleanProp(Node.FREE_CALL, true);
+Preconditions.checkState(n.isCall());
+Complex complex = createComplex(real + rhs.getReal(), imaginary + rhs.getImaginary());
+Complex real = new Complex(rhs.getReal(), imaginary + rhs.getImaginary()); real.add(real);
+Complex newComplex = createComplex(real + rhs.getReal(), imaginary + rhs.getImaginary());
+return StringDescription.toString(m).equals(arg.toString());
+Result result = StringDescription.toString(m); return result.equals(arg.toString());
+return StringDescription.toString(m).equals(arg) || arg.toString();
+Properties props = properties.values(); props.setProperty(props);
+prop.setType(safeResolve(prop.getType(), t, scope));
+if (property == null) { return; }
+return fit(new Gaussian.Parametric(), guess);
+return fit(new Gaussian.Parametric(), guess).guess();
+Double[] result = fit(new Gaussian.Parametric(), guess); return result;
+this.dataset = dataset;
+null = dataset;
+this.datasetValue = dataset;
+cal1.get(Calendar.HOUR_LENGTH) == cal2.get(Calendar.HOUR_LENGTH) &&
+cal1.get(Calendar.HOUR_SECOND) == cal2.get(Calendar.HOUR_SECOND) &&
+cal1.get(Calendar.HOUR_LEVEL) == cal2.get(Calendar.HOUR_LEVEL) &&
+) {
+t.inGlobalScope() ) {
+) throws InvalidParentException {
+return foundDigit &&!hasExp;
+return foundDigit;
+return!= foundDigit &&!hasExp;
+mockCandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+CandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+TubercusFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+str.getChars(0, strLen, buffer[size]);
+str.getChars(0, strLen, buffer, size);
+str.getChars(0, strLen, bufferAddr, size);
+((tmp1[0] < = 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2[0];
+((tmp1[0] < = 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2[0]);
+((tmp1[0] < = 0)?-FastMath.PI : FastMath.PI) - 2 * tmp2[0];
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear));
+instantLocal, chrono, iLocale + 1, iPivotYear, iDefaultYear);
+if (c >= 0x1f && c < = 0x7f) {
+if (c >= 0x1f && c < = 0x7f) {
+if (c!= 0x1f && c < = 0x7f) {
+if (numIterations * fb >= 0.0) {
+if (numIterations * fb >= 0.0) {
+if (fa * fb >= 0.0 || abstract) {
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode, false);
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode, true);
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode, null);
+&& 0 < = charno && charno < sourceExcerpt.length()) {
+&& 0 < = charno && charno > sourceExcerpt.length()) {
+&& 0 < = charno && charno < error.length()) {
+null = null;
+((TimeSeries) copy).data = new java.util.ArrayList();
+((TimeSeries) this.data.get(index)).size() > 0);
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+null g = (int) ((value - this.lowerBound) / (this.upperBound
+node.getPreconditions().checkNotNull(qualifiedName);
+Node.GETPROP_NAME = node.getQualifiedName(); Preconditions.checkNotNull(qualifiedName);
+Node node = node.getParent(); if (node == null) { return null; }
+return locals.apply(value);
+return locals.apply(value).apply(value);
+ReturnType: return locals.apply(value);
+jsDocParameter.getJSType(), true);
+jsDocParameter.getNext(), true);
+jsDocParameter.getType(), true);
+if (options.checkGlobalThisLevel.isOn() || options.getLanguageIn() == LanguageMode.ECMASCRIPT5_STRICT) {
+if (options.getGlobalThisLevel().isOn()) {
+if (options.checkGlobalThisLevel.isOn() || options.getLanguageIn() == LanguageMode.ECMASCRIPT5) {
+null = false;
+iMillis = iMillis;
+FieldType.year(), iDefaultYear);
+if (provided!= null || arg.length() > 0) {
+if (provided!= null) {
+if (provided!= null || parent.isInParent()) {
+new Range(0.0, constraint.getWidth() - w[2]),
+new Range(0.0, constraint.getWidth() + w[2]),
+new Range(0.0, getWidth() - w[2]),
+this(time, Locale.getDefault());
+this(time, FORMATSPEC_TIME_ZONE, Locale.getDefault());
+this(time, PeriodTimePeriod.DEFAULT_TIME_ZONE);
+if (str.startsWith("0x") || str.startsWith("-0x")) {
+if (str.startsWith("0x") || str.startsWith("-0x")) {
+if (str.startsWith("0x ") || str.startsWith("-0x")) {
+if (options.dependencyOptions.needsManagement() || options.closurePass) {
+if (options.dependencyOptions.needsManagement()) {
+if (options.dependencyOptions.needsManagement() && options.closurePass) {
+null = false;
+null = true;
+node.write(entityValue);
+if (result!= null && that.isSubtype(this)) {
+if (result!= null || that.isSubtype(this)) {
+if (result!= null &&that.isSubtype(this)) {
+} else {
+} else if (actualTypeArgument instanceof WildcardType) {
+} else if (actualTypeArgument.length==0) {
+Object clone = createCopy(0, getItemCount());
+Object clone = createCopy(0, getItemCount() - 1);
+Object clone = createCopy(getItemCount() - 1);
+PathIterator iterator2 = p1.getPathIterator(null);
+PathIterator iterator2 = p1.getPathIterator();
+PathIterator iterator2 = p1.getPathIterator(null, true);
+return multiply(100).doubleValue();
+double result = multiply(100).doubleValue(); return result;
+return multiply(1000).doubleValue();
+if (
+pos.setIndex(initialIndex); if (
+pos.setIndex(initialIndex); if (
+return FastMath.pow(2 * FastMath.PI, -dim / 2) *
+return FastMath.pow(3 * FastMath.PI, -dim / 2) *
+return FastMath.pow(4 * FastMath.PI, -dim / 2) *
+pos += Character.charCount(Character.codePointAt(input, pos));
+pos += Character.charCount(Character.codePointAt(input, pos-1));
+pos += Character.charCount(Character.codePointAt(input, pos++));
+null = false;
+null = null;
+needsProcessing = false;
+if (ch == 'y') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(3) == 'S'); }
+if (ch == 'y') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(2) == 'S'); }
+if (ch == 'h') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(2) == 'S'); }
+null,
+sb.append("n ");
+nextChar(s, doublequoteEscape));
+if (target!= null && callee.getType() == Token.TARGET) {
+if (target!= null && node.getType() == Token.GETPROP) {
+if (target!= null && target.getType() == Token.KEYWORD) {
+return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
+return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) this.getPopulationSize();
+return (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
+!options.skipAllPasses &&
+!options.skipAllPasses ||
+!options.skipAllPasses||
+null); break;
+null = false;
+NativeArray.add(sb); break;
+Partial newPartial = new Partial(iChronology, newTypes, newValues, true);
+Partial newPartial = new Partial(iChronology, newTypes, newValues, false);
+Partial newPartial = new Partial(iChronology, newTypes, newValues);
+if (m instanceof CapturesArguments) {
+if (m instanceof CapturesArguments) {
+if (m instanceof CapturesArguments ||m instanceof CharArray) {
+if (fnType!= null || fnType.isInstanceType()) {
+if (fnType!= null || fnType.isEmptyType()) {
+if (fnType!= null || fnType.isEmptyType()) {
+Calendar c = new GregorianCalendar(mTimeZone.getTime());
+Calendar c = new GregorianCalendar(mTimeZone);
+c = new GregorianCalendar(mTimeZone, Calendar.YEAR);
+null = null;
+null = false;
+null = true;
+parent.getFirstChild().getNext()!= n) {
+parent.getFirstChild().getNext(); } else {
+parent.getLastChild().getNext(); } else {
+classes[i] = array[i].getClass();
+classes[i] = array[i].getClass().getName();
+classes[i] = array[i].getName();
+description.appendText(wanted.toString(), "");
+description.appendText(wanted.toString(), false);
+descriptive.appendText(wanted.toString());
+primitiveValues.put(double.class, 0, null);
+primitiveValues.put(double.class, 0L);
+previousValues.put(double.class, 0);
+null = child.getNext();
+null = null;
+((NodeTraversal)child).scheduleRenaming(child, false);
+if (Precision.compareToIgnoreCase(entry, 0d, maxUlps) > 0) {
+if (Precision.compareToIgnoreCase(entry, 0d, maxUlps) > 0) {
+if (Precision.compareTo(entry, 0d, maxUlps+1) > 0) {
+null = observations[i].getY();
+null = true;
+((double)observes[i]).getY();
+null = null;
+null,
+null = new StringBuffer();
+return getCumPct(v);
+Double d = (Double)v; return getCumPct(d);
+return getCumPct((Comparable < T>) v);
+return sumYY - sumXY * sumXY / sumXX;
+return sumYY - sumXY * (short) sumXY / sumXX;
+return sumYY - sumXY * totalSumXY / totalSumXX;
+if (u * v == 0 || U >= 0) {
+if (u * v < = 0) {
+if (u * v < = 0) {
+return 1;
+return name.toString();
+return MockName.EMPTY_STRING;
+return len >= 0;
+return len > 0;
+return len > 0 || (index == -1);
+null = false;
+null = null;
+firm(val1);firm(val2);
+null = invocation.getMethod().getReturnType();
+returnValueFor(invocation.getMethod().getReturnType());
+ReturnType returnType = invocation.getMethod().getReturnType();
+Line reverted = new Line(zero, zero.subtract(direction), false);
+Line reverted = new Line(zero, zero.subtract(direction));
+Line reverted = new Line(zero, zero.subtract(direction),true);
+int j = 4 * n - 1;
+int j = 4 * n - 1;
+int j = 6 * n - 1;
+catch (MockitoAssertionError e) {
+catch (org.mockito.exceptions.verification.junit.ArgumentsAreDifferent error) {
+catch (org.mockito.exceptions.verification.junit.ArgumentsAreDifferent e)
+pos.setIndex(i + ESCAPED_QUOTE.length());
+null,
+if (escapingOn) { int start = pattern.length(); char[] c = pattern.toCharArray();
+if (tree.getAttribute()!= null) {
+if (false && (Boolean) tree.getAttribute()) {
+if (tree.getAttribute() instanceof Boolean) {
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+out[i][j] = (2 * (1 - tDistribution.cumulativeProbability(t)));
+null = null;
+NodeUtil.addObjectLitKey(n, n.getParent()); break;
+NodeUtil.addObjectLitKey(n, n.getParent());
+if (x < 0 || prev == '-') {
+if (x < 0 ||prev == '-') {
+/*if (x < 0 && prev == '-') {
+nan
+while (n.getJSType()!= null && parent.isAssign()) {
+if (n.getJSType()!= null && parent.isAssign()) return;
+next();
+nextDocLine();
+NonPublicKeywordsDocLine(result);
+if (dataset!= null && dataset.getRowCount() > 1) {
+if (dataset!= null || dataset.getRowCount() == 1) {
+if (dataset!= null || dataset.getRowCount() == 0) {
+super(paint, stroke, paint, stroke, alpha, false);
+Super(paint, stroke, paint, stroke, alpha);
+null, stroke, paint, stroke, alpha);
+null = false;
+Preconditions.checkState(function.isFunction());
+null = true;
+boolean isAvailable = cAvailableLocaleSet.contains(locale); return isAvailable;
+boolean result = cAvailableLocaleSet.contains(locale); return result;
+locale = Locale.getDefault(); return cAvailableLocaleSet.contains(locale);
+Context rhsContext = Context.OTHER;
+Context rhsContext = Context.OTHER;
+Context rhsContext = Context.OTHERV);
+null = false;
+null = parent.getFirstChild();
+NestedTypeSpecifier.isSet = true;
+if (x == x1) { x0 = 0.5 * (x0 + x1 - FastMath.max(rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0); }
+if (x == x1) { x0 = 0.5 * (x0 + x1 - FastMath.max(rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0);
+if (x == x1) { x0 = 0.5 * (x0 + x1 - FastMath.max(Rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0); }
+&& isDigits(numeric.substring(1))) {
+&& (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) {
+&& numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) {
+null = new Compiler(getErrorPrintStream());
+null = new EmptyMessageBundle();
+null = null;
+null = node.getLastChild(); tryMinimizeExits(null, exitType, labelName);
+null = NodeUtil.hasFinally(n); tryMinimizeExits(null, exitType, labelName);
+null = NodeUtil.getFinally(n); tryMinimizeExits(null, exitType, labelName);
+return allResultsMatch(n, MAY_BE_STRING_PREDICATE) || mayBeStringHelper(n);
+return allResultsMatch(n, MAY_BE_STRING_PREDICATE || mayBeStringHelper(n));
+recurse) { return allResultsMatch(n, MAY_BE_STRING_PREDICATE);
+int indexOfDot = namespace.indexOf('.');
+int indexOfDot = namespace.indexOf('.');
+int indexOfDot = namespace.indexOf('.', 0);
+Output Files generated for review
+   bugid  ...                      patch
+0      1  ...  patch  n = (n & (n - 1));
+
+[1 rows x 3 columns]
+Validating on test dataset *********: 0
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Traceback (most recent call last):
+  File "adversial_training.py", line 301, in <module>
+    run_adv_training()
+  File "adversial_training.py", line 283, in run_adv_training
+    test(gen_tokenizer, gen, device, test_loader, epoch)       
+  File "adversial_training.py", line 192, in test
+    num_return_sequences=return_sequences
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/autograd/grad_mode.py", line 26, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/heye/.local/lib/python3.6/site-packages/transformers/generation_utils.py", line 538, in generate
+    raise ValueError("`num_return_sequences` has to be smaller or equal to `num_beams`.")
+ValueError: `num_return_sequences` has to be smaller or equal to `num_beams`.
+   bugid  ...                      patch
+0      1  ...  patch  n = (n & (n - 1));
+
+[1 rows x 3 columns]
+Validating on test dataset *********: 0
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Traceback (most recent call last):
+  File "adversial_training.py", line 301, in <module>
+    run_adv_training()
+  File "adversial_training.py", line 283, in run_adv_training
+    test(gen_tokenizer, gen, device, test_loader, epoch)       
+  File "adversial_training.py", line 192, in test
+    num_return_sequences=return_sequences
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/autograd/grad_mode.py", line 26, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/heye/.local/lib/python3.6/site-packages/transformers/generation_utils.py", line 560, in generate
+    **model_kwargs,
+  File "/home/heye/.local/lib/python3.6/site-packages/transformers/generation_utils.py", line 957, in beam_search
+    outputs = self(**model_inputs, return_dict=True)
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/heye/.local/lib/python3.6/site-packages/transformers/modeling_t5.py", line 1222, in forward
+    return_dict=return_dict,
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/heye/.local/lib/python3.6/site-packages/transformers/modeling_t5.py", line 772, in forward
+    output_attentions=output_attentions,
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/heye/.local/lib/python3.6/site-packages/transformers/modeling_t5.py", line 560, in forward
+    output_attentions=output_attentions,
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/heye/.local/lib/python3.6/site-packages/transformers/modeling_t5.py", line 480, in forward
+    output_attentions=output_attentions,
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/heye/.local/lib/python3.6/site-packages/transformers/modeling_t5.py", line 359, in forward
+    v = shape(self.v(v))  # (bs, n_heads, qlen, dim_per_head)
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 727, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/nn/modules/linear.py", line 93, in forward
+    return F.linear(input, self.weight, self.bias)
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/nn/functional.py", line 1692, in linear
+    output = input.matmul(weight.t())
+RuntimeError: CUDA out of memory. Tried to allocate 1000.00 MiB (GPU 0; 10.76 GiB total capacity; 8.09 GiB already allocated; 702.25 MiB free; 9.07 GiB reserved in total by PyTorch)
+   bugid  ...                      patch
+0      1  ...  patch  n = (n & (n - 1));
+
+[1 rows x 3 columns]
+Validating on test dataset *********: 0
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+if ((long) x == x || Math.abs(x) >= 100) {
+if ((long) x == x || prev == '-') {
+if ((long)x == x ||prev == '-') {
+null = false;
+null sum = 0;
+nullSum = 0;
+NeonNaN = NaN;
+return NaN;
+if (isNaN) return NaN;
+for (int i = 0; i < weights.length-1; i++) {
+for (int i = 0; i < weights.length+1; i++) {
+for (int i=0; i < weights.length-1; i++) {
+nextFormatField= patternMatcher.group();
+nextFormatField= null;
+nextFormatField= new StringBuffer();
+return (Double.isNaN(x) && Double.isNaN(y)) || x == y;
+Double d = (Double.isNaN(x) && Double.isNaN(y)) || x == d;
+return (Double.isNaN(x) && Double.isNaN(y)) || x==y;
+} else if (offsetLocal >= 0) {
+if (offsetLocal >= 0) {
+else if (offsetLocal < = 0 ||offsetLocal >= 0) {
+final int n1n2prod = n1 * n2;
+int n1n2prod = n1 * n2;
+final int n1n2prod = n1 * n2+1;
+if (MathUtils.compareTo(entry, 0, MathUtils.maxRows) >= 0) {
+if (MathUtils.compareTo(entry, 0, rhs) >= 0) {
+if (MathUtils.compareTo(entry, 0, epsilon-1) >= 0) {
+return NodeUtil.isFunctionExpression(null);
+Node n = NodeUtil.isFunctionExpression(n); return n!= null;
+Node parent; if (n instanceof Node) { parent = (Node)n; } return NodeUtil.isFunctionExpression(n);
+null;
+null = val;
+If (val.startsWith("--")) { return null; }
+if (endIndex < 0 || endIndex==0) {
+if (endIndex < 0 || endIndex >= data.size()) {
+if (endIndex < 0 || endIndex==-1) {
+null = null;
+double[] prodHigh = new double[len];
+((Double)len).doubleValue();
+if (n.isCall()) { return true; }
+if (n.isNew()) { return true; }
+n.setChildren(n.getChildren());
+static float toJavaVersionInt(String version) {
+static float toJavaVersionInt(String version) throws IOException {
+static float toJavaVersionInt(String version, String versionIndex) {
+null = false;
+null = null;
+Integer.MAX_VALUE;
+return (a < = b)? b : (Float.isNaN(a + b)? Float.NaN : b);
+(a < = b)? b : (Float.isNaN(b + a)? Float.NaN : b);
+(a < = b)? b : (Double.isNaN(a + b)? Float.NaN : b);
+!mayEffectMutableState(lhs, elseOp.getType())) {
+!mayEffectMutableState(lhs, elseOp.getFirstChild())) {
+!mayEffectMutableState(lhs, elseOp.getFirstChild())) {
+null = false;
+null = new Integer(fx);
+null = new StringBuffer();
+if (value!= null && value.equals("")) {
+if (value!= null && value.length() > 0) {
+if (value!= null || value.equals("")) {
+if (name.globalSets == 1 || name.localSets == 0 &&
+if (name.globalSets == 1 && name.localSets >= 0 &&
+if (name.globalSets == 1 && name.aliasingGets > 0) {
+null = false;
+if (ref == null) { return false; }
+Reference ref = getOneAndOnlyAssignment();
+return chromosomes.iterator();
+synchronized (chromosomes) { return chromosomes.iterator(); }
+if (chromosomes!=null) return chromosomes.iterator(); return this.chromosomes.iterator();
+boolean isOverride = t.inGlobalScope() &&
+boolean isOverride = t.inGlobalScope() ||
+boolean isOverride = t.inLocalScope() &&
+null = false;
+null = Math.abs(yMax);
+nativeWebService.setResult(yMax, 0);
+null = null;
+null = false;
+(str.length() == 0)? null : str.length();
+(len == 2)? new Locale(str, " ") : new Locale(str);
+if (len == 2) { return new Locale(str, " "); }
+(len == 1)? new Locale(str, " " + str) : new Locale(str);
+static final double DEFAULT_EPSILON = 10e-9;
+private static final double DEFAULT_EPSILON = 10e-9;
+static final double DEFAULT_EPSILON = 10e-5;
+null len = thisBuf.length - strLen;
+int len = thisBuf.length - strLen;
+int len = thisBuf.length - end;
+RegisterTypeParametersOn(typeParameters);
+registerTypeParametersOn(typeParameters);
+null = registerTypeParametersOn(typeParameters);
+return solve(min, max);
+double solve(min, max) throws MaxIterationsExceededException, FunctionEvaluationException { return solve(min, max);
+solve(min, max) throws MaxIterationsExceededException, FunctionEvaluationException { return resolve(min, max);
+Preconditions.checkState(parent.getFirstChild() == name);
+Preconditions.checkState(parent.getFirstChild() == parent);
+Preconditions.checkState( parent.getFirstChild() == name );
+null = flags.process_closure_primitives; options.closurePass = true;
+null = flags.process_closure_primitives; options.closurePass = false;
+null = flags.process_closure_primitives; options.closurePass = 0;
+n.putBooleanProp(Node.FREE_CALL, false);
+n.putBooleanProp(Node.FREE_CALL, true);
+n.addBooleanProp(Node.FREE_CALL, true);
+Complex complex = createComplex(real + rhs.getReal(), imaginary + rhs.getImaginary());
+Complex real = new Complex(rhs.getReal(), imaginary + rhs.getImaginary()); real.add(real);
+Complex real = createComplex(rhs.getReal(), imaginary + rhs.getImaginary()); real.add(real);
+return StringDescription.toString(m).equals(arg.toString());
+return StringDescription.toString(m).equalsIgnoreCase(arg.toString());
+return StringDescription.toString(m).equals(arg.toString()) || false;
+property.setType(safeResolve(prop.getType(), t, scope));
+Properties props = properties.values(); props.setProperty(props);
+Hotels prop = properties.values(); prop.setType(prop.getType(), t, scope);
+return fit(new Gaussian.Parametric(), guess);
+return fit(new Gaussian.Parametric(), guess).guess();
+double[] result = fit(new Gaussian.Parametric(), guess); return result;
+this.dataset = dataset;
+null = dataset;
+This.dataset = dataset;
+cal1.get(Calendar.HOUR_DATE) == cal2.get(Calendar.HOUR_DATE) &&
+cal1.get(Calendar.HOUR_DATE) == cal2.get(Calendar.HOUR_DATE) &&
+cal1.get(Calendar.HOUR_CALL) == cal2.get(Calendar.HOUR_CALL) &&
+) {
+t.inGlobalScope() ) {
+) throws TokenException {
+return foundDigit &&!hasExp;
+return foundDigit;
+return foundDigit &&!getExp();
+mockCandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+CandidateFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+TubercusFilter.filterCandidate(mocks, field, fieldInstance).thenInject();
+str.getChars(0, strLen, buffer[size]);
+str.getChars(0, strLen, buffer, size);
+str.getChars(0, strLen, bufferAddr, size);
+((tmp2.length < = 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2.length);
+((tmp1.length < = 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2.length);
+((tmp2.length*0) < = 0)? -FastMath.PI : FastMath.PI) - 2 * tmp2.length;
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear);
+instantLocal, chrono, iLocale, iPivotYear, iDefaultYear));
+instantLocal, chrono, iLocale + 1, iPivotYear, iDefaultYear);
+if (c >= 0x1f && c < = 0x7f) {
+if (c >= 0x1f && c < = 0x7f) {
+if (c!= 0x1f && c < = 0x7f) {
+if (numIterations * fb >= 0.0) {
+if (numIterations * fb >= 0.0) {
+if (fa * fb >= 0.0 || abstract) {
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode, false);
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode, true);
+cfa.createEdge(fromNode, Branch.UNCOND, finallyNode, null);
+&& 0 < = charno && charno < sourceExcerpt.length()) {
+&& 0 < = charno && charno > sourceExcerpt.length()) {
+&& 0 < = charno && charno < error.length()) {
+null = null;
+((TimeSeries) copy).data = new java.util.ArrayList();
+((TimeSeries) this.data.get(index)).size() > 0);
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+int g = (int) ((value - this.lowerBound) / (this.upperBound
+null g = (int) ((value - this.lowerBound) / (this.upperBound
+node.getPreconditions().checkNotNull(qualifiedName);
+node.getPreconditions().checkNotNull(qualifiedName);
+node.getJavaLanguage();
+return locals.apply(value);
+return locals.apply(value).apply(value);
+illegalArgumentException: return locals.apply(value);
+jsDocParameter.getJSType(), true);
+jsDocParameter.getNext(), true);
+jsDocParameter.getType(), true);
+if (options.checkGlobalThisLevel.isOn() || options.getLanguageIn() == LanguageMode.ECMASCRIPT5_STRICT) {
+if (options.getGlobalThisLevel().isOn()) {
+if (options.checkGlobalThisLevel.isOn() || options.getLanguageIn() == LanguageMode.ECMASCRIPT5) {
+null = false;
+iMillis = iMillis;
+null, millis = iMillis;
+if (provided!= null || arg.length() > 0) {
+if (provided!= null) {
+if (provided!= null || parent.isInParent()) {
+new Range(0.0, constraint.getWidth() - w[2]),
+new Range(0.0, constraint.getWidth() + w[2]),
+new Range(0.0, getWidth() - w[2]),
+this(time, Locale.getDefault());
+this(time, FORMATSPEC_TIME_ZONE, Locale.getDefault());
+this(time, TimeZone.getDefault());
+if (str.startsWith("0x") || str.startsWith("-0x")) {
+if (str.startsWith("0x") || str.startsWith("-0x")) {
+if (str.startsWith("0x ") || str.startsWith("-0x")) {
+if (options.dependencyOptions.needsManagement() || options.closurePass) {
+if (options.dependencyOptions.needsManagement()) {
+if (Options.dependencyOptions.needsManagement() && Options.closurePass) {
+null = false;
+null = true;
+NumberFormatException nfe2 = null;
+if (result!= null || that.isSubtype(this)) {
+if (result == null || that.isSubtype(this)) {
+if (result!= null && that.isSubtype(this))
+} else {
+} else if (actualTypeArgument instanceof WildcardType) {
+} else if (actualTypeArguments.length>0) {
+Object clone = createCopy(0, getItemCount() - 1);
+Object clone = createCopy(0, getItemCount());
+Object clone = createCopy(0, items.size() - 1);
+PathIterator iterator2 = p1.getPathIterator(null);
+PathIterator iterator2 = p1.getPathIterator();
+PathIterator iterator2 = p1.getPathIterator(null, true);
+return multiply(100).doubleValue();
+double result = multiply(100).doubleValue(); return result;
+return multiply(1000).doubleValue();
+if (
+pos.setIndex(initialIndex); if (
+if (startIndex == endIndex) return null; else if (
+return FastMath.pow(2 * FastMath.PI, -dim / 2) *
+return FastMath.pow(3 * FastMath.PI, -dim / 2) *
+return FastMath.pow(4 * FastMath.PI, -dim / 2) *
+pos += Character.charCount(Character.codePointAt(input, pos));
+pos += Character.charCount(Character.codePointAt(input, pos-1));
+pos += Character.charCount(Character.codePointAt(input, pos++));
+null = false;
+null = null;
+needsReplacement = false;
+if (ch == 'y') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(3) == 'S'); }
+if (ch == 'y') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(2) == 'S'); }
+if (ch == 'h') { return (str.charAt(1) == 'e' || str.charAt(1) == 'E') && (str.charAt(2) =='s' || str.charAt(2) == 'S'); }
+null,
+sb.append("n ");
+sb.append("r ");
+if (target!= null && callee.getType() == Token.TARGET) {
+if (target!= null && node.getType() == Token.GETPROP) {
+if (target!= null && target.getType() == Token.KEYWORD) {
+return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
+return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) this.getPopulationSize();
+return (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
+!options.skipAllPasses &&
+!options.skipAllPasses ||
+!options.skipAllPasses||
+null); break;
+null = false;
+NumberFormat.format(c, sb);
+Partial newPartial = new Partial(iChronology, newTypes, newValues, true);
+Partial newPartial = new Partial(iChronology, newTypes, newValues, false);
+Partial newPartial = new Partial(iChronology, newTypes, newValues, null);
+if (m instanceof CapturesArguments) {
+if (m instanceof CapturesArguments) {
+if (m == null ||m instanceof CapturesArguments) {
+if (fnType!= null || fnType.isInstanceType()) {
+if (fnType == null || fnType.isEmptyType()) {
+if (fnType == null) {
+Calendar c = new GregorianCalendar(mTimeZone.getTime());
+Calendar c = new GregorianCalendar(mTimeZone);
+c = new GregorianCalendar(mTimeZone, Calendar.YEAR);
+null = null;
+null = false;
+null = Integer.MAX_VALUE;
+parent.getFirstChild().getNext()!= n) {
+parent.getFirstChild().getNext(); } else {
+parent.getLastChild().getNext(); } else {
+classes[i] = array[i].getClass();
+classes[i] = array[i].getClass().getName();
+classes[i] = array[i].getName();
+description.appendText(wanted.toString(), "");
+description.appendText(wanted.toString(), false);
+descriptive.appendText(wanted.toString());
+primitiveValues.put(double.class, 0, null);
+primitiveValues.put(double.class, 0L);
+previousValues.put(double.class, 0);
+null = child.getNext();
+null = null;
+((NodeTraversal) child).scheduleRenaming(child, n);
+if (Precision.compareToIgnoreCase(entry, 0d, maxUlps) > 0) {
+if (Precision.compareToIgnoreCase(entry, 0d, maxUlps) > 0) {
+if (Precision.compareTo(entry, 0d, maxUlps+1) > 0) {
+null = observations[i].getY();
+null = true;
+noEquals = observations[i].getY();
+null = null;
+null,
+null = new StringBuffer();
+return getCumPct(v);
+Double d = (Double)v; return getCumPct(d);
+return getCumPct((Comparable < T>) v);
+return sumYY - sumXY * sumXY / sumXX;
+return sumYY - sumXY * (short) sumXY / sumXX;
+return sumYY - sumXY * totalSumXY / totalSumXX;
+if (u * v == 0 || U >= 0) {
+if (u * v < = 0) {
+if (u * v < = 0) {
+return 1;
+return name.toString();
+return method.getClass().getReturnType();
+return len >= 0;
+return len > 0;
+len = Math.max(0, len);
+null = false;
+null = null;
+firm(val1);firm(val2);
+null = invocation.getMethod().getReturnType();
+returnValueFor(invocation.getMethod().getReturnType());
+if (invocation.getMethod() == null) { return new TreeSet < Object>(); }
+Line reverted = new Line(zero, zero.subtract(direction), false);
+Line reverted = new Line(zero, zero.subtract(direction));
+Line reverted = new Line(zero, zero.subtract(direction),true);
+int j = 4 * n - 1;
+int j = 4 * n - 1;
+Integer j = 4 * n - 1;
+catch (MockitoAssertionError e) {
+catch (MockitoAssertionError e) { error = handleVerifyException(e);
+catch (org.mockito.exceptions.verification.junit.RuntimeException e) {
+pos.setIndex(i + ESCAPED_QUOTE.length());
+null,
+if (escapingOn) { return appendTo.append(c, pattern.toCharArray()); }
+if (tree.getAttribute()!= null) {
+if (false && (Boolean) tree.getAttribute()) {
+if (tree.getAttribute().equals("")) {
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+out[i][j] = 2 * (1 - tDistribution.cumulativeProbability(t));
+out[i][j] = 0d * (1 - tDistribution.cumulativeProbability(t));
+null = null;
+NodeUtil.setTyped(n, n.getParent()); break;
+NodeUtil.returnType(n, n.getParent()); break;
+if (x < 0 || prev == '-') {
+if (x < 0 ||prev == '-') {
+if (x < 0 && prev == '-') {
+nan
+while (n.getJSType()!= null && parent.isAssign()) {
+While (n.getJSType()!= null && parent.isAssign()) { return;
+next();
+nextDocLine();
+NonPublicKeywordsDocLine(result);
+if (dataset!= null && dataset.getRowCount() > 1) {
+if (dataset!= null || dataset.getRowCount() == 1) {
+if (dataset!= null && dataset.getRowCount() > 1) {
+super(paint, stroke, paint, stroke, alpha, false);
+Super(paint, stroke, paint, stroke, alpha);
+super(paint, stroke, paint, stroke, alpha, false);
+null = false;
+Preconditions.checkState(function.isFunction());
+null = true;
+boolean isAvailable = cAvailableLocaleSet.contains(locale); return isAvailable;
+boolean result = cAvailableLocaleSet.contains(locale); return result;
+locale = Locale.getDefault(); return cAvailableLocaleSet.contains(locale);
+Context rhsContext = Context.OTHER;
+Context rhsContext = Context.OTHER;
+Context rhsContext = Context.OTHERV);
+null = false;
+parent.getFirstChild() == n ||
+Node gramps = parent.getParent();
+if (x == x1) { x0 = 0.5 * (x0 + x1 - FastMath.max(rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0); }
+if (x == x1) { x0 = 0.5 * (x0 + x1 - FastMath.max(rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0);
+if (x == x1) { x0 = 0.5 * (x0 + x1 - FastMath.max(Rtol * FastMath.abs(x1), atol)); f0 = computeObjectiveValue(x0); }
+&& isDigits(numeric.substring(1))) {
+&& (numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) {
+&& numeric.charAt(0) == '-' || Character.isDigit(numeric.charAt(0)))) {
+null = new Compiler(getErrorPrintStream());
+null = new EmptyMessageBundle();
+null = null;
+Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+Node finallyBlock = n.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+null = node.getLastChild(); tryMinimizeExits(finallyBlock, exitType, labelName);
+return allResultsMatch(n, MAY_BE_STRING_PREDICATE);
+return allResultsMatch(n, MAY_BE_STRING_PREDICATE, false);
+return allResultsMatch(n, MAY_BE_STRING_PREDICATE ||recurse);
+int indexOfDot = namespace.indexOf('.');
+int indexOfDot = namespace.indexOf('.');
+int indexOfDot = namespace.indexOf('.', 0);
+Output Files generated for review
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+         bugid  ...   action
+0  Closure_132  ...  replace
+
+[1 rows x 5 columns]
+
+Adversarial Training Generator : Traceback (most recent call last):
+  File "adversial_training.py", line 304, in <module>
+    run_adv_training()
+  File "adversial_training.py", line 276, in run_adv_training
+    train_generator_PG(gen, gen_optimizer, gen_tokenizer, adv_loader, device, epoch)         
+  File "adversial_training.py", line 22, in train_generator_PG
+    for _,data in enumerate(adv_loader, 0):
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 435, in __next__
+    data = self._next_data()
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 475, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/utils/data/_utils/fetch.py", line 44, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/heye/.local/lib/python3.6/site-packages/torch/utils/data/_utils/fetch.py", line 44, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/heye/ganrepair/loader.py", line 34, in __getitem__
+    'bugid': torch.tensor(self.bugid[index], dtype=torch.long),
+TypeError: new(): invalid data type 'str'
+   cabd54f8a63ab63948bd7b39b44137c4fc7ff990  ...                                Unnamed: 2
+0  7149fdf39503f8a276c375fdd93326db5e530296  ...                                          
+1  9b2c4ad19ce10aa565463b45c381064477a26d48  ...  if  (getActivity()  ==  null)  return;  
+2  f0f70c0050e1a66f163ef35c1db55c8f2c3e11ab  ...                                       NaN
+3  a8dec73d5691dd285415234be0f3e3bf5cbab1b0  ...                                       NaN
+4  ddc34f22ad3fba906eda9703d96d8d42fcebe22d  ...                                       NaN
+
+[5 rows x 3 columns]
+Traceback (most recent call last):
+  File "run_pretrain.py", line 254, in <module>
+    main()
+  File "run_pretrain.py", line 164, in main
+    df = df[['bugid','buggy','patch']]
+  File "/home/heye/.local/lib/python3.6/site-packages/pandas/core/frame.py", line 2912, in __getitem__
+    indexer = self.loc._get_listlike_indexer(key, axis=1, raise_missing=True)[1]
+  File "/home/heye/.local/lib/python3.6/site-packages/pandas/core/indexing.py", line 1254, in _get_listlike_indexer
+    self._validate_read_indexer(keyarr, indexer, axis, raise_missing=raise_missing)
+  File "/home/heye/.local/lib/python3.6/site-packages/pandas/core/indexing.py", line 1298, in _validate_read_indexer
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['bugid', 'buggy', 'patch'], dtype='object')] are in the [columns]"
+                                      bugid  ...                                     patch
+0  cabd54f8a63ab63948bd7b39b44137c4fc7ff990  ...                                       NaN
+1  7149fdf39503f8a276c375fdd93326db5e530296  ...                                          
+2  9b2c4ad19ce10aa565463b45c381064477a26d48  ...  if  (getActivity()  ==  null)  return;  
+3  f0f70c0050e1a66f163ef35c1db55c8f2c3e11ab  ...                                       NaN
+4  a8dec73d5691dd285415234be0f3e3bf5cbab1b0  ...                                       NaN
+
+[5 rows x 3 columns]
+                                      bugid  ...                                     patch
+0  cabd54f8a63ab63948bd7b39b44137c4fc7ff990  ...                                       NaN
+1  7149fdf39503f8a276c375fdd93326db5e530296  ...                                          
+2  9b2c4ad19ce10aa565463b45c381064477a26d48  ...  if  (getActivity()  ==  null)  return;  
+3  f0f70c0050e1a66f163ef35c1db55c8f2c3e11ab  ...                                       NaN
+4  a8dec73d5691dd285415234be0f3e3bf5cbab1b0  ...                                       NaN
+
+[5 rows x 3 columns]
+                                               bugid  ...                                              patch
+0  elasticsearch_96a2950ab5136d3e39d33eb510de438e...  ...  if  (tuple.v1().getAsBoolean( "bootstrap.mlock...
+1  elasticsearch_5f538b1ba39f939e6b596defd333d556...  ...  assertThat( "10b ",  is(new  ByteSizeValue(10,...
+2  elasticsearch_2880cd01720455bcd8fffea23034ec6e...  ...      public  int  freq()  throws  IOException  {  
+3  elasticsearch_1952df982b69873544c00470293ee851...  ...  List<Field>  versionFields  =  new  ArrayList<...
+4    libgdx_dde6ef4fcc094ae67666338a889eace1ec057a92  ...                 vertices[i]  =  din.readFloat();  
+
+[5 rows x 3 columns]
+                                               buggy                                              patch
+0  buggy:  if  (tuple.v1().getAsBoolean( "bootstr...  if  (tuple.v1().getAsBoolean( "bootstrap.mlock...
+1  buggy:  assertThat( "10 ",  is(new  ByteSizeVa...  assertThat( "10b ",  is(new  ByteSizeValue(10,...
+2  buggy:  public  float  freq()  throws  IOExcep...      public  int  freq()  throws  IOException  {  
+3  buggy:  List<Field>  versionFields  =  new  Ar...  List<Field>  versionFields  =  new  ArrayList<...
+4  buggy:  vertices[i]  =  din.readInt();  contex...                 vertices[i]  =  din.readFloat();  
+         bugid  ...   action
+0  Closure_132  ...  replace
+1      Math_80  ...  replace
+2      Math_32  ...  replace
+3     Math_101  ...  replace
+4       Math_5  ...  replace
+
+[5 rows x 5 columns]
+                                               buggy                                              patch
+0  buggy:  !mayEffectMutableState(lhs))  {  conte...  !mayEffectMutableState(lhs)  &&  (!mayHaveSide...
+1  buggy:  int  j  =  4  *  n  -  1;  context:  p...                      int  j  =  4  *  (n  -  1);  
+2  buggy:  if  ((Boolean)  tree.getAttribute())  ...  if  (tree.getCut()  ==  null  &&  (Boolean)  t...
+3  buggy:  if  (  context:  pos.setIndex(initialI...  if  ((startIndex  >=  source.length())  ||  (e...
+4  buggy:  return  NaN;  context:  imaginary  /  ...                                     return  INF;  
+FULL Dataset: (227089, 3)
+TRAIN Dataset: (227089, 3)
+VALID Dataset: (4094, 2)
+TEST Dataset: (120, 2)
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Epoch: 8, Loss:  1.4499374628067017
+Epoch: 8, Loss:  0.7964876890182495
+Epoch: 8, Loss:  0.8942093849182129
+Epoch: 8, Loss:  0.39062267541885376
+Epoch: 8, Loss:  0.7561713457107544
+Epoch: 8, Loss:  0.8591012358665466
+Epoch: 8, Loss:  0.906849205493927
+Epoch: 8, Loss:  0.6047865152359009
+Epoch: 8, Loss:  0.7692463994026184
+Epoch: 8, Loss:  0.4860890507698059
+Epoch: 8, Loss:  1.1354265213012695
+Epoch: 8, Loss:  0.28812116384506226
+Epoch: 8, Loss:  1.121910810470581
+Epoch: 8, Loss:  0.8131815195083618
+Epoch: 8, Loss:  0.36601418256759644
+Epoch: 8, Loss:  0.37709856033325195
+Epoch: 8, Loss:  0.690423846244812
+Epoch: 8, Loss:  0.5987615585327148
+Epoch: 8, Loss:  1.0519545078277588
+Epoch: 8, Loss:  0.9770836234092712
+Epoch: 8, Loss:  0.8617408275604248
+Epoch: 8, Loss:  0.33180177211761475
+Epoch: 8, Loss:  0.2966378927230835
+Validating on valid dataset *********: 8
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Truncation was not explicitly activated but `max_length` is provided a specific value, please use `truncation=True` to explicitly truncate examples to max length. Defaulting to 'longest_first' truncation strategy. If you encode pairs of sequences (GLUE-style) with the tokenizer you can select this strategy more precisely by providing a specific strategy to `truncation`.
+Total Loss:  34.75991624593735/205
+Output Files generated for review
