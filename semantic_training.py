@@ -10,12 +10,12 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration
 import loader
 import torch.autograd as autograd
 import csv
-import Discriminator
+import BearDiscriminator
 
 
-def train_generator_reward(generator, gen_opt, gen_tokenizer, adv_loader, device,epoch):
+def semantic_training(generator, gen_opt, gen_tokenizer, adv_loader, device,epoch):
     """
-    The generator is trained using the reward from the discriminator.
+    The generator is trained using policy gradients, using the reward from the discriminator.
     Training is done for num_batches batches.
     """
     generator.train()
@@ -30,48 +30,78 @@ def train_generator_reward(generator, gen_opt, gen_tokenizer, adv_loader, device
         bugid = data['bugid'].to(device, dtype = torch.long)
         print(f'bugid: {bugid}')
         
-        adv_train_count = 0        
-        continueAdvTraining = True         
+        adv_train_count = 0
+        
+        continueAdvTraining = True
+        
+        bugcode = ids[0]
+        end_index=getEndIndex(bugcode,2625)         #2625 is the index for 'context'          
+        bugcode = bugcode[3:end_index-1]
+        buggy = [gen_tokenizer.decode(bugcode, skip_special_tokens=True, clean_up_tokenization_spaces=True)]
+
+            
             
         while(continueAdvTraining):
-            outputs = generator(input_ids = ids, attention_mask = mask, decoder_input_ids=y_ids, lm_labels=lm_labels)
+            outputs = generator(input_ids = ids, attention_mask = mask, decoder_input_ids=y_ids, labels=lm_labels)
             loss = outputs[0]
             print(f'loss: {loss}')
             lm_logits = outputs[1]
-            output = F.log_softmax(lm_logits, -1)   
+            output = F.log_softmax(lm_logits, -1)
+            preds_seq = output.max(2)[1]
+                
+            g = preds_seq[0]
+            print(f'g: {g}')
+            end_index=getEndIndex(g,1)            
+            g = g[:end_index]      
+
+
+           
+            preds = [gen_tokenizer.decode(g, skip_special_tokens=True, clean_up_tokenization_spaces=True)]
+            predstr = preds[0] 
+            print(f'predstr: {predstr}')
                 
             # identity discriminator
-            identity_reward = identity_discriminator(buggy[0], output)
+            identity_reward = identity_discriminator(buggy[0], predstr)
+            
+            reward = autograd.Variable(torch.FloatTensor([1.0]))
             
             if 'same' in identity_reward:
-                reward = autograd.Variable(torch.FloatTensor([2.0]))
-            else:
-            
-                # combine cross entropy loss and compiler reward loss
+                reward = autograd.Variable(torch.FloatTensor([1.4]))
+            else:            
                 reward = validate_by_compiler(bugid, predstr)
                 print(f'reward: {reward}')
             
+#             combine cross entropy loss and compiler reward loss
             reward = reward.to(device)   
-            loss = outputs[0]*(1-reward)
+            loss = outputs[0]*reward
+#             loss = outputs[0]
             print(f'loss: {loss}')
 
-            if adv_train_count % 100 ==0:
-                gen_opt.zero_grad()
-                loss.backward()
-                gen_opt.step()
+            gen_opt.zero_grad()
+            loss.backward()
+            gen_opt.step()
             
             adv_train_count +=1
-            print(f'adv_train_count: {adv_train_count}')
-            
-            
+            print(f'adv_train_count: {adv_train_count}')         
+
             recordData(epoch, bugid.item(), adv_train_count, outputs[0].item(), reward.item(), predstr )         
             
-            traincount=5
-
+            traincount=4
             if adv_train_count > traincount:
                 continueAdvTraining = False
    
 
+    
+
+                
+def getEndIndex(g,index):
+    end_index=0
+    for i in g:
+        end_index+=1
+        # 1 for </s>
+        if i == index:
+            break
+    return end_index
                 
                 
 def identity_discriminator(buggy, predstr):
@@ -81,28 +111,33 @@ def identity_discriminator(buggy, predstr):
         return 'same'
     else:
         return 'different'
-     
     
     
+    
+       
     
 def validate_by_compiler(bugid, preds):
-    
-    result = Discriminator.getResults(bugid, preds)
-#     result = 'failcompile' 
+    R = 0.2
+    result = BearDiscriminator.getResults(bugid, preds)
     print(f'result: {result}')
     if 'failcompile' in result:
-        return autograd.Variable(torch.FloatTensor([0.2]))
+        rewardValue=1+R
     elif 'successcompile' in result:
-        return autograd.Variable(torch.FloatTensor([0.4]))
+        rewardValue=1-R
     elif 'passHumanTest' in result:
-        return autograd.Variable(torch.FloatTensor([0.6]))
+        rewardValue=1-R*2
     elif 'passAllTest' in result:
-        return autograd.Variable(torch.FloatTensor([0.8]))
+        rewardValue=1-R*3
+    else:
+        rewardValue=1
+        
+    
+    return autograd.Variable(torch.FloatTensor([rewardValue]))
 
 
 
-def recordData(epoch,bugid, adv_train_count, crossEntropLoss, reward, preds):
-    with open('./logs.csv', 'a') as csvfile:
+def recordData(epoch, bugid, adv_train_count, crossEntropLoss, reward, preds):
+    with open('./motivating_training_quixbugs_logs.csv', 'a') as csvfile:
         filewriter = csv.writer(csvfile, delimiter='\t',quotechar='"',quoting=csv.QUOTE_MINIMAL)
         filewriter.writerow([epoch, bugid, adv_train_count, crossEntropLoss, reward, preds])
         
@@ -119,7 +154,7 @@ def valid( tokenizer, model, device, loader,epoch):
             ids = data['source_ids'].to(device, dtype = torch.long)
             mask = data['source_mask'].to(device, dtype = torch.long)
 
-            outputs = model(input_ids = ids, attention_mask = mask, decoder_input_ids=y_ids, lm_labels=lm_labels)
+            outputs = model(input_ids = ids, attention_mask = mask, decoder_input_ids=y_ids, labels=lm_labels)
             loss = outputs[0]
             total_nb += 1  
             total_loss += loss.item()    
@@ -131,7 +166,7 @@ def valid( tokenizer, model, device, loader,epoch):
         
         
 def test(tokenizer, model, device, loader,epoch):
-    return_sequences = 50
+    return_sequences = 100
     model.eval()
     predictions = []
     actuals = []
@@ -160,7 +195,7 @@ def test(tokenizer, model, device, loader,epoch):
             target = target[0]
             
             
-            with open('./data/D4J'+'.csv', 'a') as csvfile:
+            with open('./results/Result'+'.csv', 'a') as csvfile:
                 filewriter = csv.writer(csvfile, delimiter='\t',quotechar='"',quoting=csv.QUOTE_MINIMAL)
                 for i in range(0,return_sequences):
                     filewriter.writerow([preds[i],target])
@@ -205,18 +240,11 @@ def getValidTestDataLoader(path,tokenizer,batchsize):
 
 
 
-
-
-
 def run_adv_training():
-
-    ADV_TRAIN_PATH= './data/adversial_training_Quixbugs.csv'
-    VALID_PATH='./data/CodRep4.csv'
-    TEST_PATH='./data/D4JPairs.csv'
     
-    gen = T5ForConditionalGeneration.from_pretrained('./model/T5Coconut_adv3', output_hidden_states=True)    
+    gen = T5ForConditionalGeneration.from_pretrained('/home/heye/ganrepair/model/SyntacticModel', output_hidden_states=True)    
     gen = gen.to(device)   
-    gen_tokenizer = T5Tokenizer.from_pretrained('./model/T5Coconut_adv3',truncation=True)
+    gen_tokenizer = T5Tokenizer.from_pretrained('/home/heye/ganrepair/model/SyntacticModel',truncation=True)
     gen_optimizer = torch.optim.Adam(params = gen.parameters(), lr=LEARNING_RATE)
 
 
@@ -225,30 +253,32 @@ def run_adv_training():
     test_loader=getValidTestDataLoader(TEST_PATH,gen_tokenizer,1) 
 
 
+    valid(gen_tokenizer, gen, device, valid_loader,'before adversial training')
 
-    for epoch in range(ADV_TRAIN_EPOCHS):
-#         print('\n--------\nEPOCH %d\n--------' % (epoch+1))
+    for epoch in range(0,10):
+        print('\n--------\nEPOCH %d\n--------' % (epoch+1))
         print('\nAdversarial Training Generator : ', end='')
-        train_generator_reward(gen, gen_optimizer, gen_tokenizer, adv_loader, device, epoch)         
+        semantic_training(gen, gen_optimizer, gen_tokenizer, adv_loader, device, epoch)         
         
     
-        gen.save_pretrained('./model/T5Coconut_adv'+str(epoch))
-        gen_tokenizer.save_pretrained('./model/T5Coconut_adv'+str(epoch))
+        gen.save_pretrained('./model/SemanticTrain'+str(epoch))
+        gen_tokenizer.save_pretrained('./model/SemanticTrain'+str(epoch))
 
-   
-
-        
-        
+               
         
         
         
 if __name__ == '__main__':
     warnings.filterwarnings('ignore')
     SEED=42
-    ADV_TRAIN_EPOCHS = 1   
+    ADV_TRAIN_EPOCHS = 10   
     LEARNING_RATE = 1e-4
     VALID_BATCH_SIZE = 20
     MAX_LEN = 512
     PATCH_LEN = 100 
     device = 'cuda' if cuda.is_available() else 'cpu'
+#     ADV_TRAIN_PATH= './data/motivating.csv'
+    ADV_TRAIN_PATH= './Bears_Training/BearsTraining.csv'
+    VALID_PATH='./data/CodRep4.csv'
+    TEST_PATH='./data/Defects4JV2Training.csv'
     run_adv_training()

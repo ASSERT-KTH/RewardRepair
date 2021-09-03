@@ -1,0 +1,81 @@
+0	19	1	0.4149895906448364	0.800000011920929	.set(Position.KEY_ODOMETER, parser.next()t();
+0	19	2	0.1726405918598175	0.800000011920929	.set(Position.KEY_ODOMETER, parser.next()t());
+0	19	3	0.11145583540201187	0.800000011920929	.set(Position.KEY_ODOMETER, parser.next()t());
+0	19	4	0.048928145319223404	0.800000011920929	.set(Position.KEY_ODOMETER, parser.nextInt());
+0	19	5	0.02616356872022152	0.800000011920929	.set(Position.KEY_ODOMETER, parser.nextInt());
+0	151	1	1.6069018840789795	0.800000011920929	else { if (p.getCurrentToken() == JsonToken.SUE_TYING) { returnp (_txt.getSdd()_serializerType.NCEPT_DPTY)ARING)AR_STRLL)ARJECT) { { return  = (c.getCt().subrim(); returnif (Strtr.eEqualty()) { return
+0	151	2	1.8110889196395874	0.800000011920929	else { if (p.getCurrentToken() == JsonToken.SUE_CONING) { return_ (_txt.getNdd()_bugerializer..STRCEPTEDNPTY)OBING)NCIOBLL)ARJECT)) { return  = p.getCt().subrim(); returnif (str.eNmpty()) return return
+0	151	3	1.5866310596466064	0.800000011920929	"else if (p.getCurrentToken() == JsonToken.NUE_INING) { returnp (ptxt.getInabled()_serializer..CONCEPT)INPTY_OBING)OBSNMER)ARJECT)) { return  = ""p.getCt().subrim(). returnc (str.getAmpty()) { "
+0	151	4	1.603751540184021	0.800000011920929	else if (p.getCurrentToken() == JsonToken.STARUE_METING) { return_ (ptxt.getValabled()pserializer..DECEPT)FPTY_ARING)AR_PULL)TYJECT)) { return tokenP c.getNamet();rerim(); returnif (str.lengthSmpty()) return return
+0	151	5	1.4125896692276	0.800000011920929	else { if (p.getCurrentToken() == JsonToken.STARUE_ARING) { returnc (retxt.getValabled()pserializer..VALCEPT_STRPTY)STRING)N_BMER)OBJECT)) { return nameName c.getCt().rerim(). returnif (str.lengthValmpty()) return throw
+0	121	1	0.7849180102348328	0.800000011920929	other!otherotherNode.getNodeId() == null |&& otherNodeId().!= null);
+0	121	2	1.0897297859191895	0.800000011920929	other!otherotherNode.getNodeId() == null)&& otherPortde()d().!= null
+0	121	3	0.680655300617218	0.800000011920929	other!otherotherNode.getNodeId().= null)&& otherNodeId().!= null)
+0	121	4	0.37809184193611145	0.800000011920929	other!getotherNode.getNodeId() == null |&& otherNodeId().!= null)
+0	121	5	0.4634162187576294	0.800000011920929	get!getotherNode.getNodeId().= null)&& getNodeId().!= null
+0	211	1	1.4545987844467163	0.800000011920929	"nlean isClasso = = = ; Listif (!onlystoFpercol().equals( ""  "")) class allFileURLs = true; } elseif (!FileURLs { list < String> classpath = new ArrayList < String();"
+0	211	2	1.385299563407898	0.800000011920929	"nlean isUo = = = ; if (!onlysexistFpercol().equals( ""file "")) continue FileURLs = true; } List elseif (!FileURLs = {  < String> classpath = new ArrayList < String();"
+0	211	3	1.4614516496658325	0.800000011920929	"nlean isDefaultile =s = ; if (urlonlysisNametocol().equals( ""  "")) set //FileURLs = true; } String elseif (!FileURLs  set set < String> classpath = new ArrayList < >(); class (Str url : urls) set"
+0	211	4	1.177526593208313	0.800000011920929	"nlean isClassile = = = ; Listif (urlonlysisFtocol().equals( ""  "")) return FileURLs = false; } else elseif (!FileURLs = return set < String> classpath = new ArrayList < >();"
+0	211	5	1.3279378414154053	0.800000011920929	"nlean is =o =s = ; if (urlonly.toFpercol().equals( ""file ""))  File =s = true; } else elseif (!FileURLs) { throw < String> classpath = new ArrayList < >(); class (Str url : urls) { classpath.add(url.toProath());"
+0	244	1	0.2582835853099823	0.800000011920929	res.setType(getFactory().Type().createArrayReference(valueFactory().Type().createReference(valuesgetClass())getNameponentType())));
+0	244	2	0.3972485065460205	0.800000011920929	res.setType(getFactory().Type().createArrayReference(valueFactory().Type().createReference(valuesgetClass())toSponentType())));
+0	244	3	0.3161483108997345	0.800000011920929	res.setType(getFactory().Type().createArrayReference(valueFactory().Type().createReference(valuesgetClass().getNameponentType(),));
+0	244	4	0.2640579044818878	0.800000011920929	res.setType(getFactory().Type().createArrayReference(valueFactory().Type().createReference(valuesgetClass())getNameponentType())));
+0	244	5	0.2843102216720581	0.800000011920929	res.setType(getFactory().Type().createArrayReference(getFactory().Type().createReference(valuesgetClass().getClassponentType().));
+0	46	1	2.310713768005371	0.800000011920929	norFd = newnor.getInor(;
+0	46	2	2.3483245372772217	0.800000011920929	norFDetect = newdorFgetDetector(); d.setDetect(((newhegetWorldObjects());
+0	46	3	2.324596643447876	0.800000011920929	norFconfig = newnor.getDefaultor(; d.setDetect(((d,getWorldObjects());
+0	46	4	2.002136707305908	0.800000011920929	nor.db newDetector.getInor(); d.setC(((n);getWorldObjects());
+0	46	5	1.948871374130249	0.800000011920929	norFe = newdor.getInor(; d.setC(((new,getWorldObjects());
+0	17	1	0.7655262351036072	0.800000011920929	".number( ""(x+)?, )numal(2) // adc 2"
+0	17	2	0.7804139256477356	0.800000011920929	".number( ""(x+)?,  //textal(2) // adc 2"
+0	17	3	0.6379683017730713	0.800000011920929	".number( ""(x+)?,,textal(2) // adc 2"
+0	17	4	0.5404647588729858	0.800000011920929	".number( ""(x+)?, );numal() // adc 2"
+0	17	5	0.6007097959518433	0.800000011920929	".number( ""(x+)?, ),textal()  adc 2"
+0	213	1	4.581024169921875	0.800000011920929	".er.er.add(ponent(block ( "".set.MYORE_"
+0	213	2	4.778287410736084	0.800000011920929	".er.er.re(ponent(block List "".set.thisYORE_"
+0	213	3	4.5716118812561035	0.800000011920929	.er.er.add(ment(block List ingset.ComYORE_
+0	213	4	4.619980335235596	0.800000011920929	".er.er.add(ponent(block StringCom ""erset.classUTORE_"
+0	213	5	4.01176643371582	0.800000011920929	".er.er.get(ponent(block List "".set.FYORE_"
+0	82	1	0.44378724694252014	0.800000011920929	nv.visitOuterClass(enedType.getInterclosingType().getInternalName(), NO_REFERENCE, NO_REFERENCE); }
+0	82	2	0.3963928818702698	0.800000011920929	cv.visitOuterClass(enedType.getInterclosingType().getInternalName(), NO_REFERENCE, NO_REFERENCE); }
+0	82	3	0.1262701004743576	0.800000011920929	cv.visitOuterClass(enedType.getInterclosingType().getInternalName(), NO_REFERENCE, NO_REFERENCE);
+0	82	4	0.398133784532547	0.800000011920929	cv.visitOuterClass(enedType.getInterclosingType().getInternalName(), NO_REFERENCE, NO_REFERENCE);
+0	82	5	0.14948731660842896	0.800000011920929	nv.visitOuterClass(enedType.getInterclosingType().getInternalName(), NO_REFERENCE, NO_REFERENCE); }
+0	101	1	0.38240087032318115	0.800000011920929	"L?>  = entity.getType(). return type getClassLoader()!= null && type.getPackage().= null ||!type.getPackage().getName().startsWith( ""java "") |"
+0	101	2	0.5494890213012695	0.800000011920929	"L?,  = entity.getType(). return type getClassLoader()!= null &&! =getPackage().= null ||!type.getNameage().getName().startsWith( ""java "") |"
+0	101	3	0.4742504358291626	0.800000011920929	"L?,  = entity.getType(). return type getClassLoader()!= null &&!.getPackage().= null ||!type.getNameage().getName().startsWith( ""java ""));"
+0	101	4	0.3688157796859741	0.800000011920929	"L?>  = entity.getType(). return type getClassLoader()!= null && type =getPackage().= null ||!type.getPackage().getName().startsWith( ""java ""));"
+0	101	5	0.47050347924232483	0.800000011920929	"L?, class = entity.getType(). return type getClassLoader()!= null &&! =getPackage() = null ||!type.getNameage().getName().startsWith( ""java ""))"
+0	222	1	1.367040753364563	0.800000011920929	void visitAnnotation(Ann Annotation annotation) {
+0	222	2	1.3961776494979858	0.800000011920929	void visitAnnotation(Ann Annotation annotation) { enter(new AnnotationRuntimeBuilderContext(ctAnnotation));
+0	222	3	1.3266916275024414	0.800000011920929	void visitAnnotation(final Annotation annotation) {
+0	222	4	1.2855257987976074	0.800000011920929	void visitAnnotation(Ann Annotation annotation) {
+0	222	5	1.326518177986145	0.800000011920929	void visitAnnotation(Ann notation annotation) {
+0	118	1	2.002723217010498	0.800000011920929	.mes = Phase.phasePhase();
+0	118	2	2.040260076522827	0.800000011920929	.iss phase.phasePhase();
+0	118	3	1.6948002576828003	0.800000011920929	.mes = Phase.phasePhase();
+0	118	4	1.014022707939148	0.800000011920929	.is = phase.getPhase();
+0	118	5	0.978680431842804	0.800000011920929	.is = Phase.getPhase();
+0	102	1	0.615427553653717	0.800000011920929	notationDetectionFieldCallback numberback = new AnnotationDetectionFieldCallback(annotationType); ReflectionUtils.doWithFields(entity.getClass(), numberback); return callal.of(ll((annoback);getValue(entity));
+0	102	2	0.7569000124931335	0.800000011920929	notationDetectionDetecteldCallback numberback = new AnnotationDetectionFieldCallback(annotationType); ReflectionUtils.doWithFields(callity.getClass(), callback); return callU.get(ll(Valcallback.getValue()entity));
+0	102	3	0.6474437117576599	0.800000011920929	notationDetectionFieldCallback numberback = new AnnotationDetectionFieldCallback(annotationType); ReflectionUtils.doWithFields(callity.getClass(), callback); return callal.get(ll((entback);getValue()entity));
+0	102	4	0.5615544319152832	0.800000011920929	notationDetectionFieldCallback numberback = new AnnotationDetectionFieldCallback(annotationType); ReflectionUtils.doWithFields(entity.getClass(), numberback); return numberal.get(ll((callback.getValue()entity));
+0	102	5	0.6236066222190857	0.800000011920929	notationDetectionFieldCallback numberback = new AnnotationDetectionFieldCallback(annotationType); ReflectionUtils.doWithFields(callity.getClass(), callback);
+0	74	1	0.5605632662773132	0.800000011920929	listLibOrExtJars(libarUtils.getafName(libOrExtJar));
+0	74	2	0.4894283413887024	0.800000011920929	listLibOrExtJars(libarUtils.getafName(libOrExtJar));
+0	74	3	0.495448499917984	0.800000011920929	"listLibOrExtJars( ""reUtils.getafName(libOrExtJar));"
+0	74	4	0.5210692882537842	0.800000011920929	listLibOrExtJars(libarUtils.getafNameslibOrExtJar));
+0	74	5	0.5209882259368896	0.800000011920929	listLibOrExtJars(libarUtils.getafName(jarOrExtJar));
+0	61	1	1.3249711990356445	0.800000011920929	queryAll(entityClass, pageable, nu SpannerQueryOptions());.getNset(pageable.getLset() getValengmit(countable.getOffage()ize()));
+0	61	2	1.4294753074645996	0.800000011920929	queryAll(entityClass, pageable, nu ArraynerException()ons());.getSset(pageable.getOffset(),getSengmit(100able.getLoCountor()));
+0	61	3	1.3748550415039062	0.800000011920929	queryAll(entityClass, pageable, nu ArraynerQueryOptions());?getSset(0able.getLset())getLengmit(pageable.getOffage()e()));
+0	61	4	1.296512246131897	0.800000011920929	queryAll(entityClass, pageable, options HasSpannerQueryOptions()););getSpanset(offable.getOffset() getOffengmit(pageable);getLageableuff() );
+0	61	5	1.4138597249984741	0.800000011920929	queryAll(entityClass, pageable, nu PageArraynerQueryOptions());.getSset(pageable.getSset() getLengmit(0able.getLage()ize());
+0	30	1	0.22707286477088928	0.800000011920929	.set(Position.PREFIX_TEMP + i, Datashort) Shortteger.parseInt(data[index++], 16) * 0.0625);
+0	30	2	0.25123757123947144	0.800000011920929	.set(Position.PREFIX_TEMP + i, Shortshort. (teger.parseInt(data[index++], 16) * 0.0625);
+0	30	3	0.22548054158687592	0.800000011920929	.set(Position.PREFIX_TEMP + i, inhort) teger.parseInt(data[index++], 16) * 0.0625)
+0	30	4	0.2670316696166992	0.800000011920929	.set(Position.PREFIX_TEMP + i, InShort) Datateger.parseInt(data[index++], 16) * 0.0625);
+0	30	5	0.1880173236131668	0.800000011920929	.set(Position.PREFIX_TEMP + i, short) teger.parseInt(data[index++], 16) * 0.0625);
+0	4	1	0.6125153303146362	0.6000000238418579	".expression( ""(?:[0-9F]] { 20 },?, "") // iccid"

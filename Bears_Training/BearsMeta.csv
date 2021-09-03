@@ -35,7 +35,7 @@
 35	Bears-136	src/org/traccar/protocol/EelinkProtocolEncoder.java	68	replace-1
 36	Bears-109	src/org/traccar/protocol/SuntechProtocolDecoder.java	70	replace-1
 37	Bears-100	src/org/traccar/events/IgnitionEventHandler.java	42	
-38	Bears-107	src/org/traccar/protocol/StarLinkProtocolDecoder.java	154	replace-2
+38	Bears-107	src/org/traccar/protocol/StarLinkProtocolDecoder.java	154	add
 39	Bears-138	src/org/traccar/protocol/Gt06ProtocolDecoder.java	557	replace-2
 40	Bears-106	src/org/traccar/protocol/TelicProtocolDecoder.java	56	
 41	Bears-139	src/org/traccar/protocol/MeitrackProtocolDecoder.java	262	replace-1
@@ -246,6 +246,6 @@
 246	Bears-47	src/main/java/spoon/support/compiler/jdt/ReferenceBuilder.java	644	add
 247	Bears-78	src/main/java/spoon/reflect/visitor/DefaultJavaPrettyPrinter.java	783	replace-1
 248	Bears-156	integration/hibernate-base/src/main/java/com/blazebit/persistence/integration/hibernate/base/HibernateJpaProvider.java	509	replace-1
-249	Bears-250	src/main/java/org/la4j/vector/sparse/CompressedVector.java	210	replace-2
+249	Bears-250	src/main/java/org/la4j/vector/sparse/CompressedVector.java	210	replace-1
 250	Bears-165	dhis-2/dhis-api/src/main/java/org/hisp/dhis/dataelement/DataElementOperand.java	320	add
 251	Bears-248	vertx-web-client/src/main/java/io/vertx/ext/web/client/impl/HttpContext.java	198	replace-3
