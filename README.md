@@ -23,6 +23,30 @@ Neural Program Repair with Execution-based Backpropagation(Paper under review)
  
 ```
 
+## Prerequisites
+
+* JDK 1.8
+* OS: Linux and Mac
+* Add submodule Bears and copy the folder myscript to Bears
+
+
+```
+git submodule add https://github.com/bears-bugs/bears-benchmark.git
+cp -rf myscript ./bears-benchmar/
+pip install transformers
+```
+Extract the training data
+```
+tar -xzvf MegaDiff-CodRep.tar.gz
+tar -xzvf pretrain.csv.tgz
+```
+To run our script
+```
+python3 syntactic_training.py
+python3 semantic_training.py
+```
+
+
 ## RQ2: Details reults are available in RewardRepair/ResultForRQ2/
 | Benchmarks | Top30 | Top100 | Top200 |
 | :---: | :---: | :---: |:---: |
