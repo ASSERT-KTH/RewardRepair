@@ -7,8 +7,6 @@ Neural Program Repair with Execution-based Backpropagation(Paper under review)
  │ 
  ├── model: the trained model of RewardRepair
  │
- ├── results: the generated patches from semantic training
- │
  ├──syntactic_training.py: script to syntactically train RewardRepair
  │
  ├──semantic_training.py: script to semantically train RewardRepair
@@ -19,13 +17,15 @@ Neural Program Repair with Execution-based Backpropagation(Paper under review)
  │
  ├──ResultForRQ3: raw experiment data for RQ3
  │
- ├──ComparisonData.csv: the file to compare with the sate-of-the-art
+ ├──ComparisonData.csv: the file to compare with the state-of-the-art
  
 ```
 
 ## Prerequisites
 
 * JDK 1.8
+* Pytorch==1.7.1
+* transformers>=4.10.0
 * OS: Linux and Mac
 * Add submodule Bears and copy the folder myscript to Bears
 
