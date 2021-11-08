@@ -1,6 +1,14 @@
 # RewardRepair
 Neural Program Repair using Execution-based Backpropagation (Paper under review)
 
+# Trained Model
+We share our trained semantic model and syntactic model in Zenodo:
+```
+RewardRepair trained model: https://doi.org/10.5281/zenodo.5652317
+```
+ 
+
+
 ## Folder Structure
  ```bash
  ├── data: csv data used for training
