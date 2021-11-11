@@ -1,0 +1,7 @@
+org.apache.flink.streaming.api.operators.AbstractStreamOperator,307,0.513
+org.apache.flink.streaming.api.windowing.time.Time,70,0.447
+org.apache.flink.streaming.api.windowing.time.Time,88,0.447
+org.apache.flink.streaming.api.windowing.assigners.GlobalWindows,67,0.405
+org.apache.flink.streaming.runtime.operators.windowing.NonKeyedWindowOperator,171,0.405
+org.apache.flink.streaming.runtime.operators.windowing.WindowOperator,189,0.381
+org.apache.flink.streaming.api.windowing.triggers.EventTimeTrigger,70,0.381
