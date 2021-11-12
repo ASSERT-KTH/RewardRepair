@@ -1,0 +1,140 @@
+
+sample-61
+
+
+
+
+
+Bugs.jar: 91
+'wicket_813d8bee', 'wicket_ad849602', 'wicket_c250db9c', 'camel_2e985f9b', 'wicket_3feb0e3a', 'jackrabbit-oak_17032c50', 'camel_c408c3ed', 'wicket_afc7034d', 'flink_d90672fd', 'camel_06a8489a', 'commons-math_6d6649ef', 'wicket_2293764f', 'wicket_2b1ce91d', 'logging-log4j2_3f1e0fdc', 'jackrabbit-oak_24f7f60a', 'flink_a5b05566', 'wicket_a4caaa57', 'jackrabbit-oak_459bd065', 'camel_e7ac45b6', 'camel_57ba1bde', 'logging-log4j2_17296089', 'flink_dc78a747', 'wicket_917dd2b5', 'wicket_e62ded51', 'wicket_e93fdd5a', 'maven_bef7fac6', 'jackrabbit-oak_6d82cb64', 'wicket_7da4ad17', 'logging-log4j2_0bea17d7', 'commons-math_83f18d52', 'wicket_ffdd0864', 'commons-math_6dd3724b', 'camel_3f70d612', 'commons-math_1352a70f', 'wicket_fd910746', 'wicket_a382917f', 'wicket_e1953357', 'wicket_f1c0f263', 'logging-log4j2_7bb1ad47', 'wicket_2624d2db', 'commons-math_a7363a2a', 'accumulo_15e83709', 'logging-log4j2_411dad65', 'wicket_3d8c9d75', 'accumulo_813109d7', 'logging-log4j2_d8af1c93', 'wicket_89184b79', 'maven_ce6f0bfd', 'jackrabbit-oak_9772f5b2', 'commons-math_faf99727', 'camel_cc192f87', 'flink_3e233a38', 'accumulo_0cf2ff72', 'jackrabbit-oak_36e70bd7', 'jackrabbit-oak_d0f6715d', 'jackrabbit-oak_daf9a4ef', 'wicket_d450acb0', 'flink_a402002d', 'commons-math_cedf0d27', 'jackrabbit-oak_8159fc21', 'jackrabbit-oak_f2740ce1', 'wicket_beb9086d', 'flink_a56aad74', 'wicket_1858bc18', 'commons-math_09fe956a', 'commons-math_3f645310', 'jackrabbit-oak_57bd2dc5', 'jackrabbit-oak_557eec4f', 'commons-math_0596e314', 'camel_dd0f74c0', 'camel_7c9326f4', 'jackrabbit-oak_5138a1e2', 'flink_8e3e2f8f', 'commons-math_f4a4464b', 'commons-math_ebc61de9', 'commons-math_ce126bdb', 'jackrabbit-oak_8ed779dc', 'jackrabbit-oak_94c6c575', 'wicket_2d9ebf9a', 'wicket_4f08e6f2', 'wicket_8f7805f8', 'accumulo_db4a291f', 'commons-math_fb007815', 'jackrabbit-oak_74f22886', 'wicket_1485a856', 'accumulo_b007b22e', 'commons-math_b6bf8f41', 'jackrabbit-oak_86edbffb', 'commons-math_19c1c3bb', 'jackrabbit-oak_c2f5ca6c', 'jackrabbit-oak_5286861d'
+
+
+
+
+
+
+
+
+
+
+
+
+LONGEST_COMMON_SUBSEQUENCE
+NEXT_PERMUTATION
+HANOI
+RPN_EVAL
+WRAP
+BITCOUNT
+FIND_FIRST_IN_SORTED
+MERGESORT
+FIND_IN_SORTED
+LEVENSHTEIN
+KNAPSACK
+TOPOLOGICAL_ORDERING
+QUICKSORT
+NEXT_PALINDROME
+GCD
+PASCAL
+SIEVE
+POSSIBLE_CHANGE
+
+
+
+
+
+
+
+
+
+
+
+
+with 80 samples in semantic training.
+
+
+Defects4J(V1): 42 patches
+
+fix xx patches for, including 38 identical patches, 4 semantically equivalent patches. They are:
+Identical:
+'Math_57', 'Math_5', 'Math_41', 'Time_19', 'Math_30', 'Math_82', 'Lang_29', 'Math_59', 'Math_34', 'Math_70', 'Closure_101', 'Lang_21', 'Lang_59', 'Closure_73', 'Math_85', 'Closure_62', 'Chart_24', 'Closure_86', 'Closure_70', 'Closure_18', 'Chart_11', 'Math_11', 'Lang_6', 'Lang_51', 'Closure_31', 'Closure_125', 'Lang_33', 'Mockito_26', 'Math_33', 'Math_75', 'Math_94', 'Math_80', 'Mockito_5', 'Closure_11', 'Chart_1', 'Closure_1', 'Closure_126', 'Closure_92',
+Semantical:
+'Lang_57','Math_2','Closure_38','Math_104'
+
+
+
+
+Defects4J(V2): 40 patches
+
+'JacksonDatabind_17', 'Codec_8', 'Cli_19', 'JacksonCore_25', 'JxPath_16', 'JacksonDatabind_99', 'Compress_31', 'Jsoup_52', 'JacksonDatabind_102', 'Csv_5', 'JacksonDatabind_57', 'Csv_9', 'JxPath_10', 'Cli_8', 'JacksonDatabind_27', 'Compress_14', 'Codec_17', 'Cli_28', 'Jsoup_24', 'Cli_25', 'JacksonCore_5', 'Cli_5', 'Jsoup_43', 'Codec_7', 'JxPath_5', 'Jsoup_55', 'Codec_2', 'Jsoup_57', 'Cli_32', 'Compress_27', 'Cli_27', 'JxPath_1', 'Codec_3', 'Jsoup_49', 'JacksonDatabind_13', 'Cli_17', 'Gson_6', 'JacksonDatabind_24', 'JacksonDatabind_83', 'Jsoup_64'
+
+
+
+Bugs.jar: 90
+'85', '31', '221', '431', '266', '127', '12', '230', '194', '19', '149', '339', '263', '105', '132', '311', '291', '430', '16', '210', '377', '138', '456', '469', '47', '193', '177', '385', '117', '477', '109', '145', '204', '142', '369', '235', '146', '153', '249', '239', '223', '407', '282', '7', '354', '151', '387', '374', '355', '256', '148', '240', '375', '126', '298', '220', '285', '370', '180', '234', '165', '116', '225', '332', '286', '96', '381', '257', '328', '261', '289', '139', '327', '202', '162', '390', '2', '81', '242', '167', '483', '135', '364', '190', '277', '131', '152', '373', '349', '436'
+
+
+
+
+QuixBugs.jar: 17
+
+'LONGEST_COMMON_SUBSEQUENCE', 'NEXT_PERMUTATION', 'HANOI', 'RPN_EVAL', 'WRAP', 'BITCOUNT', 'FIND_FIRST_IN_SORTED', 'MERGESORT', 'LEVENSHTEIN', 'KNAPSACK', 'REVERSE_LINKED_LIST', 'TOPOLOGICAL_ORDERING', 'QUICKSORT', 'NEXT_PALINDROME', 'PASCAL', 'SIEVE','GCD',POSSIBLE_CHANGE
+
+
+
+SemanticPatches:
+
+
+Lang_57 if  (cAvailableLocaleSet  ==  null)  return  false;  return  cAvailableLocaleSet.contains(locale); 
+
+is semantically equivalent to the CURE patch witch is considered as correct.
+https://github.com/lin-tan/CURE/blob/master/Bugs_CURE_fixed/Defects4J/Lang_57.txt
+
+
+There is one more patch for Math_2:
+
+Math_2 return  (double)  getSampleSize()  *  getNumberOfSuccesses()  /  (double)  getPopulationSize(); 
+is the same patch to CURE's patch which is considered as correct.
+https://github.com/lin-tan/CURE/blob/master/Bugs_CURE_fixed/Defects4J/Math_2.txt
+
+
+
+There is one more patch for Closure_38 is the same patch to CURE'S patch which is considered as correct:
+Closure_38	if    (x    <=    0    &&    prev    ==    '-')  
+https://github.com/lin-tan/CURE/blob/master/Bugs_CURE_fixed/Defects4J/Closure_38.txt 
+
+Another five semantic patches are:
+
+Math_104: the private identifier is removed in RewardRepair, but still correct
+
+RewardRepair: 
+static  final  double  DEFAULT_EPSILON  =  10e-15;
+Developer:
+private  static  final  double  DEFAULT_EPSILON  =  10e-15;
+Math_105
+RewardRepair: 
+return Math.max(0d, sumYY - sumXY * sumXY / sumXX);  
+Developer:
+ public double getSumSquaredErrors() {            
+ -                    return sumYY - sumXY * sumXY / sumXX;            
++                    return Math.max(0d, sumYY - sumXY * sumXY / sumXX);            
+ }
+
+The difference between 0 and 0d, it's correct because the return type is double.
+
+Chart_9 per the analysis of SequenceR 
+RewardRepair: 
+Chart_9	if    (endIndex    <    startIndex)    {
+Developer:
+if    ((endIndex    <    0)    ||    (endIndex    <    startIndex))    {
+
+Mockito_38 
+RewardRepair:  per the analysis of Cure: https://github.com/lin-tan/CURE/blob/master/Bugs_CURE_fixed/Defects4J/Mockito_38.txt
+if    (arg!=    null)    return    StringDescription.toString(m).equals(arg.toString());    return    true;
+Developer:
+return StringDescription.toString(m).equals(arg == null? "null" : arg.toString());
+
+
+
+
+
+
