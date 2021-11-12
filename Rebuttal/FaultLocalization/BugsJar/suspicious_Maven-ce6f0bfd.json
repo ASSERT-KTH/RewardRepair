@@ -1,0 +1,12 @@
+org.apache.maven.toolchain.merge.MavenToolchainMerger,45,0.162
+org.apache.maven.toolchain.merge.MavenToolchainMerger,40,0.15
+org.apache.maven.toolchain.building.DefaultToolchainsBuildingRequest,46,0.132
+org.apache.maven.toolchain.building.DefaultToolchainsBuildingRequest,47,0.132
+org.apache.maven.toolchain.building.DefaultToolchainsBuilder,60,0.114
+org.apache.maven.toolchain.building.DefaultToolchainsBuilder,62,0.114
+org.apache.maven.toolchain.building.DefaultToolchainsBuilder,64,0.114
+org.apache.maven.toolchain.building.DefaultToolchainsBuilder,66,0.114
+org.apache.maven.toolchain.building.DefaultToolchainsBuilder,82,0.114
+org.apache.maven.toolchain.building.DefaultToolchainsBuilder,84,0.114
+org.apache.maven.toolchain.building.DefaultToolchainsBuildingRequest,40,0.114
+org.apache.maven.toolchain.building.DefaultToolchainsBuildingRequest,53,0.114

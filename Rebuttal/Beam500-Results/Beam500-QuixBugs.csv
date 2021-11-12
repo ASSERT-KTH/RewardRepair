@@ -3678,7 +3678,7 @@
 15	KTH	if (num_lessoreq < num_lessoreq) { return kth(above, k); } else { return pivot; }	return kth(above, k-num_lessoreq);
 15	KTH	if (num_lessoreq >= num_lessoreq) { return kth(above, k); }	return kth(above, k-num_lessoreq);
 15	KTH	num_lessoreq = kth(above, k); return num_lessoreq > num_lessoreq? k : k;	return kth(above, k-num_lessoreq);
-15	KTH	num_lessoreq -= num_lessoreq; return kth(above, k - num_lessoreq);	return kth(above, k-num_lessoreq);
+15	KTH	num_lessoreq = num_lessoreq; return kth(above, k - num_lessoreq);	return kth(above, k-num_lessoreq);
 15	KTH	if (num_lessoreq >= above.size()) { return kth(above, k); } return num_lessoreq;	return kth(above, k-num_lessoreq);
 15	KTH	while (k < num_lessoreq && k >= num_lessoreq) { return kth(above, k); }	return kth(above, k-num_lessoreq);
 15	KTH	if (k > num_lessoreq) { return kth(above, k); } else { return num_lessoreq; }	return kth(above, k-num_lessoreq);
