@@ -1,0 +1,1800 @@
+119	Closure_51	if (x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (double) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (int) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (double) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (int) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value > 0 && (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < = 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((int) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Double.isNaN(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x > 0 && (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Double.isNaN(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0 && (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x!= x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x!= x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((int) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && value > 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((double) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 100) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value < 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == x || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == ((long) x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value < 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == Math.abs(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == Math.abs(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < = 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == prev) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && value < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == ((long) x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (Long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && (x < 1)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == null || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0 || prev == '-') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x || x < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 100) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == y) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x >= 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((double) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value < = 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (Integer) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == prev) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x >= 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x > 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (Long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0 || prev == '-') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == Long.valueOf(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x > 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (Integer) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == Long.valueOf(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (float) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x || value == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == null || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (TextUtils.isEmpty(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && length > 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x.equals(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 2) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x.equals(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (TextUtils.isEmpty(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((Integer) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 8) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == y) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x >= 2) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 3) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 4) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x || prev < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (float) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 2) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev < 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x &&!prev) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == String.valueOf(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && (x < 2)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x >= 1 && (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == String.valueOf(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Double.isInfinite(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x.longValue()) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	nextChar(); if ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((Long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x == 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '-') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((Integer) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 1 && (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x >= 0 && (long)x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (((long) x == (long) x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	null if ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < = 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == -x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x < 0 || x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 5) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == -1 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x.equals(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x>0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && prev < 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (char) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value > 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0 || x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	while (x < 0 && (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 6) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && value < 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ((long) x == x || x == "") {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x.longValue()) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && (x > 1)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 100) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 1000) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	If ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((Long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value < 0 && (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x < 0 || x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Double.isInfinite(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (((long) x == (long) x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (count > 0 && (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == -x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!TextUtils.isEmpty(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 1000) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == x || prev == '-') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value > 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) == 100) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == Double.valueOf(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < = 2) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((String) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0 || x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 1 && (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (char) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && value < = 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && value < 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 7) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == Double.valueOf(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ((long) x == x || prev == "") {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 100) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < = 0 || prev == '-') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Long.valueOf(x) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (X.equals(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && x < 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && value < 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x || prev == 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && value > 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (byte) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < = 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && prev == 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!((long) x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) == 100) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (byte) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	while (x < 0 || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) > 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) > 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!((long) x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == Long.MAX_VALUE) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && value < 2) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0 || (double) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( (long) x == x ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == value) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x || x == 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((Boolean) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( (long) x == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == '-') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (mapping && (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 100) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x + 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < = 100) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == value) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < = 100) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (int)x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x < 0 || x < 0)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (.longValue() == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	b = false; if ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (((long) x == (double) x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < = 0 || prev == '-') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && value < 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x.equals(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((String) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) == 1000) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x < 0 || x < 0)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && prev < 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x || x < 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (Number) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Integer.valueOf(x) == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == -1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x && value > 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) == 1000) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '-') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (int)x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == Long.MAX_VALUE) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x || x < 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == Integer.MAX_VALUE) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (long)x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	else if ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (.longValue() == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (X.equals(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x < 0 || x > 0)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((Boolean) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	b = true; if ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (long)x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x + 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == '-') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	If ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((Number) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Long.valueOf(x) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (((long) x) == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (long) x ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (true || (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	//if ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( (long) x == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( (long) x == x ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (short) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (/*(long)*/ x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (double)x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == this.x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (String) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (! ((long) x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (((long) x) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (((long) x) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((Number) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == null) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ( "" "".equals(x)) {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x >= x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (long) x ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) y == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (double)x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (! ((long) x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == this.x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(long) x.equals(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (! (x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) == prev) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Boolean.valueOf(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Boolean.valueOf(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == X) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) y == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x >= x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!Double.isNaN(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!Double.isNaN(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (((long) x) < = x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) value == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == null) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Long.valueOf(x) == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == Integer.MAX_VALUE) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ((long) x == ""x "" + x) {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (double x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x.compareTo(x) == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == X) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((float) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (new Long(x) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == (Object) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (((long) x)!= x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ( "" "".equals(x)) {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x.equals(x))) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == new Long(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == getX()) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == getX()) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(int) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 500) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (((long) x) < = x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 500) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ((long) x == "" "" + x) {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < = 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(int) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) value == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == Double.NaN) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Integer.isInt(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == -1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 1000) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (isNullOrEmpty(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) == prev) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < = 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) == 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(double) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	/*if ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x.longValue() == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((float) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x.compareTo(x) == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0 || prev < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x) { return;	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(double) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == '0') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	If ((long) x == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 50) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (y == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x!= x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Integer.isInt(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((boolean) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (new Long(x) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 1000) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((short) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) prev == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (getLastChar() == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( (int) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0 || prev < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == 'x') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) prev == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == '/') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((short) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) (x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == x) { return;	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) (x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (! (x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) (x + 1) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < = 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (isNullOrEmpty(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x - 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < = 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == getLong()) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	while ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == '') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 200) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((null) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == () x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (getLong(x) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( (int) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) >= 20) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) y == y) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x < 0)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ( ""0 "".equals(x)) {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) y == y) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x.longValue() == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == prev ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x.equals(x))) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == '$') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == c) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 50) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (get(x) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (this.x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '0') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!Long.isLong(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((char) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev =='') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((.long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x < 0)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == length) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x!= -1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Character.isLong(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (getLong() == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (int) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (getLastChar() == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x < = x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x!= (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ((long) x == ""x "") {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == c) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < = 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((Object) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (double x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (-x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == ++x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((char) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ((long) x == ""x "") {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == d) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == -1 ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (( long) x == x ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (getLong(x) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (getLong() == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == prev ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == ':') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (isEmpty(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == a) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == _x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( (double) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == i) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == length) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '/') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x!= -1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 10) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 20) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x < = x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((Object) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == x-1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x!= 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == long.value) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x instanceof Long)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 16) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == z) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == a) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ( ""0 "".equals(x)) {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (int) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	If (x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ((long) x == "") {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == -1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == t) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (this.x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x!= y) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < = 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (y == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( x == x ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == o) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == val) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( (double) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '$') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (Math.abs(x) < 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == -1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x == -1)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == x) { return;	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (get(x) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (null == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == +1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if ((long) x == "") {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == y) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x instanceof Long)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (result == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == lastChar) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x = x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	when ((long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (1, x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '0') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '=') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	|| (long) x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (exp == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (isEmpty(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev =='') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x == 0)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (XML.equals(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == l) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == -1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == b) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (o == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (null!= x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '_') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == len) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == 1L) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long)x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (_x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	null if (x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x!= (long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (X == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x instanceof long)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == '-') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (isNumber(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '/') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == y) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x!= 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == ':') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (y == y) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x == y)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long)x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (if (x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if (!(x == "")) {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x!= x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (n == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (-x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (isLong(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (null == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	If (!(x == x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == X) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x = x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == 3) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == end) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x + 1 == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x >= 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (exp == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if (!(x == "")) {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (y == y) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == '-') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == '$') {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (++x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == size) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(x instanceof long)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (obj == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (isNotNull(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (c == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long)!= x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (--x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (1, x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( x == x ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (exp == 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (isNull(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (len == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == prev) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	If (x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (ex == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value < = 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (v == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (++x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (isNumber(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (0 == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (isLong(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == X) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (equals(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x + 1 == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((long) x == 2) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	while (x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (o == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if (prev == "") {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (! (x < 0)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (_x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x >= 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (X == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if (x == "") {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < = x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (q == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == d) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (exp == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (0 < = x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (val == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (len == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == null) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (isNull(x)) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == -1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == d) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (t == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if (x == "") {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (z == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (i == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (!(double) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (-1 == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (X == X) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (false) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if(x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (a == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (c == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == null) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value < = 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (prev < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (this == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (d == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (point == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ((!long) x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (j == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (0 == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x >= x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if (prev == "") {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (ex == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if ( == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (true) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value < 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == -1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == prev) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (q == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (v == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (false) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (X == X) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == null) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (this == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (() == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == null) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if(x == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (0 < = x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x >= 1) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (true) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value > 0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x == ) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (val == x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (value == 0.0) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x < = x) {	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	"if (value == "") {"	if ((long) x == x &&!isNegativeZero(x)) {
+119	Closure_51	if (x==x) {	if ((long) x == x &&!isNegativeZero(x)) {
+722	Math_57	int sum = 0;	double sum = 0;
+722	Math_57	nearest = null; int sum = 0;	double sum = 0;
+722	Math_57	Integer sum = 0;	double sum = 0;
+722	Math_57	nearest.getCenter(); int sum = 0;	double sum = 0;
+722	Math_57	nearest.clear(); int sum = 0;	double sum = 0;
+722	Math_57	nearest.reset(); int sum = 0;	double sum = 0;
+722	Math_57	nearest.setCenter(nearest.getCenter());	double sum = 0;
+722	Math_57	Integer sum = 0;	double sum = 0;
+722	Math_57	nearest.setCenter(k); int sum = 1;	double sum = 0;
+722	Math_57	nearest.setCluster(resultSet);	double sum = 0;
+722	Math_57	int sum = 1;	double sum = 0;
+722	Math_57	nearest.setCenter(); int sum = 0;	double sum = 0;
+722	Math_57	final int sum = 0;	double sum = 0;
+722	Math_57	int sum = Integer.MAX_VALUE;	double sum = 0;
+722	Math_57	nearest.clearCluster(resultSet);	double sum = 0;
+722	Math_57	nearest.close(); int sum = 0;	double sum = 0;
+722	Math_57	nearest.getCenter()!= null;	double sum = 0;
+722	Math_57	if (k == 0) { return null; }	double sum = 0;
+722	Math_57	nearest.setCenter(0); int sum = 0;	double sum = 0;
+722	Math_57	nearest.getCenter().remove(k);	double sum = 0;
+722	Math_57	nearest = null;	double sum = 0;
+722	Math_57	nearest.cancel(); int sum = 0;	double sum = 0;
+722	Math_57	nearest.getCenter().clear();	double sum = 0;
+722	Math_57	nearest = null; final int sum = 0;	double sum = 0;
+722	Math_57	if (k == 0) { return resultSet; }	double sum = 0;
+722	Math_57	nearest.setCenter(k); int sum = 2;	double sum = 0;
+722	Math_57	nearest.remove(resultSet);	double sum = 0;
+722	Math_57	java.util.Integer sum = 0;	double sum = 0;
+722	Math_57	int sum = -1;	double sum = 0;
+722	Math_57	/*int sum = 0*/;	double sum = 0;
+722	Math_57	/*Integer sum = 0*/;	double sum = 0;
+722	Math_57	nearest.getCenter(); int sum = 1;	double sum = 0;
+722	Math_57	int sum = dx2[i];	double sum = 0;
+722	Math_57	if (k > 0) { return resultSet; }	double sum = 0;
+722	Math_57	if (k > 0) { return null; }	double sum = 0;
+722	Math_57	Integer sum = (Integer) k;	double sum = 0;
+722	Math_57	while (resultSet.size() < k) {	double sum = 0;
+722	Math_57	/* int sum = 0*/;	double sum = 0;
+722	Math_57	int sum = k;	double sum = 0;
+722	Math_57	/* int sum = 0*/;	double sum = 0;
+722	Math_57	nearest.getCenter().size() = 0;	double sum = 0;
+722	Math_57	dx2[i] = 0;	double sum = 0;
+722	Math_57	nearest=nearest; int sum = 0;	double sum = 0;
+722	Math_57	/*int sum = 0*/;	double sum = 0;
+722	Math_57	int sum = 0, sum = 0;	double sum = 0;
+722	Math_57	nearest.getCenter(); int sum = -1;	double sum = 0;
+722	Math_57	nearest.setWorld(nearest.getWorld());	double sum = 0;
+722	Math_57	nearest.getCenter() = null;	double sum = 0;
+722	Math_57	nearest = 0; int sum = 0;	double sum = 0;
+722	Math_57	nearest.reset(); int sum = 1;	double sum = 0;
+722	Math_57	float sum = 0;	double sum = 0;
+722	Math_57	resultSet = new ArrayList < >();	double sum = 0;
+722	Math_57	int sum = k * dx2[i];	double sum = 0;
+722	Math_57	nearest.getCenter().size() == 0;	double sum = 0;
+722	Math_57	nearest.getCluster(resultSet);	double sum = 0;
+722	Math_57	ResultSet.remove(resultSet);	double sum = 0;
+722	Math_57	Integer sum = new Integer(k);	double sum = 0;
+722	Math_57	nearest = k; int sum = 0;	double sum = 0;
+722	Math_57	if (k >= 0) { return resultSet; }	double sum = 0;
+722	Math_57	nearest.hidden(); int sum = 0;	double sum = 0;
+722	Math_57	nearest.clear(); int sum = 1;	double sum = 0;
+722	Math_57	nearest = new HashSet < T>();	double sum = 0;
+722	Math_57	byte[] dx2 = new double[k];	double sum = 0;
+722	Math_57	/*Integer sum = 0*/;	double sum = 0;
+722	Math_57	nearest.setClusters(resultSet);	double sum = 0;
+722	Math_57	if (k == 0) { return; }	double sum = 0;
+722	Math_57	if (k >= 0) { return null; }	double sum = 0;
+722	Math_57	nearest.setCenter(nearest);	double sum = 0;
+722	Math_57	boolean sum = 0;	double sum = 0;
+722	Math_57	int sum = resultSet.size();	double sum = 0;
+722	Math_57	resultSet.add(new Cluster < T>());	double sum = 0;
+722	Math_57	nearest.stop(); int sum = 0;	double sum = 0;
+722	Math_57	while (resultSet.size() > k) {	double sum = 0;
+722	Math_57	Iterator <? extends T> sum = 0;	double sum = 0;
+722	Math_57	int sum = Double.MAX_VALUE;	double sum = 0;
+722	Math_57	nearest < T> sum = new double[k];	double sum = 0;
+722	Math_57	nearest.setNearest(resultSet);	double sum = 0;
+722	Math_57	nearest.setCaretPosition(k);	double sum = 0;
+722	Math_57	|| dx2[i] == null;	double sum = 0;
+722	Math_57	int sum = k * d;	double sum = 0;
+722	Math_57	//Integer sum = 0;	double sum = 0;
+722	Math_57	Integer sum = new Integer(0);	double sum = 0;
+722	Math_57	nearest.getCenter().size() = k;	double sum = 0;
+722	Math_57	Nearest < T> sum = 0;	double sum = 0;
+722	Math_57	nearest.show(); int sum = 0;	double sum = 0;
+722	Math_57	nearest.clear(); int sum = -1;	double sum = 0;
+722	Math_57	nearest.getCenter().add(nearest);	double sum = 0;
+722	Math_57	int sum = dx2[i] = 0;	double sum = 0;
+722	Math_57	resultSet.clear(); int sum = 0;	double sum = 0;
+722	Math_57	int sum = 0;	double sum = 0;
+722	Math_57	nearest.resultSet.size();	double sum = 0;
+722	Math_57	dx2[i] = new double[k];	double sum = 0;
+722	Math_57	nearest.getCenter().remove(pointSet);	double sum = 0;
+722	Math_57	nearest.put(resultSet, d);	double sum = 0;
+722	Math_57	nearest.reset(); int sum = -1;	double sum = 0;
+722	Math_57	Nearest < T> sum = new double[k];	double sum = 0;
+722	Math_57	nearest.getCenter().remove(i);	double sum = 0;
+722	Math_57	nearest.removeAll(resultSet);	double sum = 0;
+722	Math_57	nearest.getCenter().size() == k;	double sum = 0;
+722	Math_57	long sum = 0;	double sum = 0;
+722	Math_57	if (k == 0) { return 0; }	double sum = 0;
+722	Math_57	nearest.getCenter().put(i, d);	double sum = 0;
+722	Math_57	nearest.clearClusters();	double sum = 0;
+722	Math_57	if (k < = 0) { return null; }	double sum = 0;
+722	Math_57	while (resultSet.size() < = k);	double sum = 0;
+722	Math_57	if (resultSet == null) return;	double sum = 0;
+722	Math_57	ingStrategy < T> sum = 0;	double sum = 0;
+722	Math_57	nearest.setPosition(k);	double sum = 0;
+722	Math_57	resultSet.add(resultSet);	double sum = 0;
+722	Math_57	nearest.getCenter(); int sum = 2;	double sum = 0;
+722	Math_57	nearest.getCenter(); int sum = k;	double sum = 0;
+722	Math_57	if (k == 0) { return d; }	double sum = 0;
+722	Math_57	if (k!= 0) { return; }	double sum = 0;
+722	Math_57	nearest = null; int sum = -1;	double sum = 0;
+722	Math_57	if (d == null) { return null; }	double sum = 0;
+722	Math_57	nearest.setCenter(); int sum = 1;	double sum = 0;
+722	Math_57	nearest.setCenter(nearest); int sum;	double sum = 0;
+722	Math_57	nearest.getCenter().size() < = k;	double sum = 0;
+722	Math_57	resultSet.add(new double[0]);	double sum = 0;
+722	Math_57	while (resultSet.size() > 0) {	double sum = 0;
+722	Math_57	nearest = new Cluster < T>>();	double sum = 0;
+722	Math_57	nearest.addCluster(resultSet);	double sum = 0;
+722	Math_57	nearest.pushCluster(resultSet);	double sum = 0;
+722	Math_57	if (i == 0) { return null; }	double sum = 0;
+722	Math_57	nearest.getCenter() == null;	double sum = 0;
+722	Math_57	resultSet.addAll(resultSet);	double sum = 0;
+722	Math_57	if (k == 0) return null;	double sum = 0;
+722	Math_57	resultSet.add(new Double[0]);	double sum = 0;
+722	Math_57	nearest.getHeaders().clear();	double sum = 0;
+722	Math_57	nearest.setSum(0, k);	double sum = 0;
+722	Math_57	if (k == -1) { return null; }	double sum = 0;
+722	Math_57	if (i == 0) { return resultSet; }	double sum = 0;
+722	Math_57	nearest.getClusterSize() < = k;	double sum = 0;
+722	Math_57	nearest = null; int sum = 1;	double sum = 0;
+722	Math_57	nearest.setCenter(); int sum = -1;	double sum = 0;
+722	Math_57	if (nearest == null) { return; }	double sum = 0;
+722	Math_57	|| dx2[i] == 0;	double sum = 0;
+722	Math_57	int sum = double.MAX_VALUE;	double sum = 0;
+722	Math_57	while (k > 0) { sum = 0; }	double sum = 0;
+722	Math_57	nearest.setPosition(0, k);	double sum = 0;
+722	Math_57	nearest dx2 = new double[k];	double sum = 0;
+722	Math_57	nearest.getNearestCluster(nearest);	double sum = 0;
+722	Math_57	nearest = new ArrayList < >();	double sum = 0;
+722	Math_57	nearest.getCenter().setSum(k);	double sum = 0;
+722	Math_57	if (k < 0) { return null; }	double sum = 0;
+722	Math_57	NearestCluster < T> sum = 0;	double sum = 0;
+722	Math_57	nearest.clear(); int sum = k;	double sum = 0;
+722	Math_57	resultSet.size() < = k;	double sum = 0;
+722	Math_57	nearest.size() = 0;	double sum = 0;
+722	Math_57	nearest.getSum() = 0;	double sum = 0;
+722	Math_57	int sum = new double[k];	double sum = 0;
+722	Math_57	resultSet.add(new Cluster < T>(k));	double sum = 0;
+722	Math_57	nearest.setCenter(k);	double sum = 0;
+722	Math_57	int sum = (int) (k * d);	double sum = 0;
+722	Math_57	nearest.reset(); int sum = 2;	double sum = 0;
+722	Math_57	nearest.close(); int sum = 1;	double sum = 0;
+722	Math_57	nearest.clear(); int sum = 2;	double sum = 0;
+722	Math_57	if (k > 0) { return 0; }	double sum = 0;
+722	Math_57	nearest.add(resultSet);	double sum = 0;
+722	Math_57	nearest.resultSet.clear();	double sum = 0;
+722	Math_57	resultSet.clear();	double sum = 0;
+722	Math_57	nearest.clearCluster(nearest);	double sum = 0;
+722	Math_57	nearest.getCluster(nearest);	double sum = 0;
+722	Math_57	nearest = new Cluster < T>();	double sum = 0;
+722	Math_57	nearest.close(); int sum = -1;	double sum = 0;
+722	Math_57	/* Integer sum = 0*/;	double sum = 0;
+722	Math_57	nearest = new HashMap < T>();	double sum = 0;
+722	Math_57	dx2[i] = d;	double sum = 0;
+722	Math_57	resultSet.size() = k;	double sum = 0;
+722	Math_57	nearest.reset();	double sum = 0;
+722	Math_57	nearest.getCenter().remove(p);	double sum = 0;
+722	Math_57	nearest = new HashMap < >();	double sum = 0;
+722	Math_57	while (resultSet.size() < k);	double sum = 0;
+722	Math_57	nearest = new ArrayList < T>();	double sum = 0;
+722	Math_57	int sum = 0; i++;	double sum = 0;
+722	Math_57	nearest.getCenter().size() > 0;	double sum = 0;
+722	Math_57	if (k == 0) { continue; }	double sum = 0;
+722	Math_57	nearest.size() < = k;	double sum = 0;
+722	Math_57	if (k == 1) { return null; }	double sum = 0;
+722	Math_57	nearest.remove(pointSet.size());	double sum = 0;
+722	Math_57	nearest.success = 0;	double sum = 0;
+722	Math_57	if (k > 0) { return d; }	double sum = 0;
+722	Math_57	nearest.getCenter().size() == 2;	double sum = 0;
+722	Math_57	nearest.setSum(0, d);	double sum = 0;
+722	Math_57	nearest.hasCluster(resultSet);	double sum = 0;
+722	Math_57	nearest.setCenter(0); int sum = 1;	double sum = 0;
+722	Math_57	int sum = Double.NaN;	double sum = 0;
+722	Math_57	resultSet.size() = 0;	double sum = 0;
+722	Math_57	Integer sum = new Integer(1);	double sum = 0;
+722	Math_57	nearest.getCenter().size() == 1;	double sum = 0;
+722	Math_57	if (k >= 0) { return; }	double sum = 0;
+722	Math_57	int sum = pointSet.size() - 1;	double sum = 0;
+722	Math_57	nearest.getCenter().close();	double sum = 0;
+722	Math_57	if (k < 0) { return resultSet; }	double sum = 0;
+722	Math_57	int sum = Double.MIN_VALUE;	double sum = 0;
+722	Math_57	nearest = new HashSet < T>>();	double sum = 0;
+722	Math_57	for (int sum = 0; sum < k);	double sum = 0;
+722	Math_57	nearest.resultSet = null;	double sum = 0;
+722	Math_57	nearest.setMaxSize(maxSize);	double sum = 0;
+722	Math_57	if (d == null) { continue; }	double sum = 0;
+722	Math_57	if (k > 0) { return; }	double sum = 0;
+722	Math_57	, dx2[i] = 0;	double sum = 0;
+722	Math_57	nearest.getClusterSize() = 0;	double sum = 0;
+722	Math_57	nearest.setEnabled(true);	double sum = 0;
+722	Math_57	nan	double sum = 0;
+722	Math_57	// Integer sum = 0;	double sum = 0;
+722	Math_57	boolean sum = 0, sum = 0;	double sum = 0;
+722	Math_57	nearest.setSum = 0;	double sum = 0;
+722	Math_57	Integer sum = (int) k;	double sum = 0;
+722	Math_57	final double sum = 0;	double sum = 0;
+722	Math_57	nearests.add(resultSet);	double sum = 0;
+722	Math_57	int sum = 2;	double sum = 0;
+722	Math_57	nearest.getCenter().remove(0);	double sum = 0;
+722	Math_57	NearestCluster sum = new Double[k];	double sum = 0;
+722	Math_57	nearest.getCenter().remove();	double sum = 0;
+722	Math_57	int sum = dx2[k];	double sum = 0;
+722	Math_57	&& resultSet.size() > 0;	double sum = 0;
+722	Math_57	if (k == 1) { return resultSet; }	double sum = 0;
+722	Math_57	double sum = 0;	double sum = 0;
+722	Math_57	nearest.getCenter().setSum();	double sum = 0;
+722	Math_57	// int sum = 0;	double sum = 0;
+722	Math_57	// Integer sum = 0;	double sum = 0;
+722	Math_57	if (k == 0) return resultSet;	double sum = 0;
+722	Math_57	&& i < pointSet.size();	double sum = 0;
+722	Math_57	int sum = pointSet.size();	double sum = 0;
+722	Math_57	nearest.setCenter(k); int sum;	double sum = 0;
+722	Math_57	nearest.getCenter().save();	double sum = 0;
+722	Math_57	nearest.getSize() = 0;	double sum = 0;
+722	Math_57	t sum = dx2[i];	double sum = 0;
+722	Math_57	resultSet.size() == 0;	double sum = 0;
+722	Math_57	nearest.setCluster(nearest);	double sum = 0;
+722	Math_57	nearest.getCenter().reset();	double sum = 0;
+722	Math_57	int sum = Math.min(0, k);	double sum = 0;
+722	Math_57	nearest.getCenter();	double sum = 0;
+722	Math_57	if (k < = 0) { return; }	double sum = 0;
+722	Math_57	nearest.size() = k;	double sum = 0;
+722	Math_57	nearest.setEnabled(false);	double sum = 0;
+722	Math_57	nearest = new HashSet < >();	double sum = 0;
+722	Math_57	int sum = Math.max(0, k);	double sum = 0;
+722	Math_57	nearest.clear();	double sum = 0;
+722	Math_57	T sum = dx2[i];	double sum = 0;
+722	Math_57	&& resultSet.size() > k;	double sum = 0;
+722	Math_57	Rect < T> sum = new Rect();	double sum = 0;
+722	Math_57	if (k == 0) return;	double sum = 0;
+722	Math_57	double sum = 0;	double sum = 0;
+722	Math_57	resultSet.size() > 0;	double sum = 0;
+722	Math_57	/*Integer sum =*/ 0;	double sum = 0;
+722	Math_57	int sum = -k;	double sum = 0;
+722	Math_57	Iterable < T> sum = 0;	double sum = 0;
+722	Math_57	//Integer sum = 0; */	double sum = 0;
+722	Math_57	nearest < T> sum = 0;	double sum = 0;
+722	Math_57	if (k == 0) continue;	double sum = 0;
+722	Math_57	nearest.setDistanceFrom(k);	double sum = 0;
+722	Math_57	nearest.setMaxWidth(1000);	double sum = 0;
+722	Math_57	nearest.success();	double sum = 0;
+722	Math_57	Continue < T> sum = 0;	double sum = 0;
+722	Math_57	boolean sum = false;	double sum = 0;
+722	Math_57	if (k == 2) { return null; }	double sum = 0;
+722	Math_57	nearest.getSize() < = k;	double sum = 0;
+722	Math_57	if (i == 0) { return; }	double sum = 0;
+722	Math_57	nearest.getPosition(k);	double sum = 0;
+722	Math_57	nearest.getClusterCount() = 0;	double sum = 0;
+722	Math_57	nearest.getMaxSize() = 0;	double sum = 0;
+722	Math_57	//int sum = 0;	double sum = 0;
+722	Math_57	int sum = k - 1;	double sum = 0;
+722	Math_57	short sum = 0;	double sum = 0;
+722	Math_57	Integer sum = 1;	double sum = 0;
+722	Math_57	nearest = new PointSet < T>();	double sum = 0;
+722	Math_57	nearest.setBottom(k);	double sum = 0;
+722	Math_57	int sum = 0; return resultSet;	double sum = 0;
+722	Math_57	&& resultSet.size() > k;	double sum = 0;
+722	Math_57	synchronized int sum = 0;	double sum = 0;
+722	Math_57	nearest.setBottom(true);	double sum = 0;
+722	Math_57	nearest.clearCluster();	double sum = 0;
+722	Math_57	t sum = 0;	double sum = 0;
+722	Math_57	resultSet.add(nearest);	double sum = 0;
+722	Math_57	Integer sum = -1;	double sum = 0;
+722	Math_57	nearest.setPosition(i);	double sum = 0;
+722	Math_57	&& resultSet.size() < k;	double sum = 0;
+722	Math_57	|| resultSet.size() == 0;	double sum = 0;
+722	Math_57	nearest.setSum(k);	double sum = 0;
+722	Math_57	nearest=nearest.getCenter();	double sum = 0;
+722	Math_57	nearest.remove(nearest);	double sum = 0;
+722	Math_57	Iterator < T> sum = 0;	double sum = 0;
+722	Math_57	nearest.getCenter().get(k);	double sum = 0;
+722	Math_57	float sum = 0;	double sum = 0;
+722	Math_57	resultSet.size() < k;	double sum = 0;
+722	Math_57	nearest = new Integer(k);	double sum = 0;
+722	Math_57	if (k > 0) { continue; }	double sum = 0;
+722	Math_57	/* int sum = 0 */;	double sum = 0;
+722	Math_57	int sum = 1, sum = 0;	double sum = 0;
+722	Math_57	nearest.maxSize = 0;	double sum = 0;
+722	Math_57	nearest = new TreeSet < T>();	double sum = 0;
+722	Math_57	nearest.setSize(k);	double sum = 0;
+722	Math_57	dx2[i] = k;	double sum = 0;
+722	Math_57	&& resultSet.size() < k;	double sum = 0;
+722	Math_57	resultSet.remove(k);	double sum = 0;
+722	Math_57	int sum = 1;	double sum = 0;
+722	Math_57	nearest.clearCluster(pointSet);	double sum = 0;
+722	Math_57	Collections.sort(resultSet);	double sum = 0;
+722	Math_57	/* int sum = 0;*/	double sum = 0;
+722	Math_57	dx2[i] = null;	double sum = 0;
+722	Math_57	nearest.clearClusterSize();	double sum = 0;
+722	Math_57	if (k > 0) return null;	double sum = 0;
+722	Math_57	int sum = 0, sum = k;	double sum = 0;
+722	Math_57	nearest.setSuccess();	double sum = 0;
+722	Math_57	Iterator < T> sum = k;	double sum = 0;
+722	Math_57	&& resultSet.size() > 0;	double sum = 0;
+722	Math_57	nearest = new int[k];	double sum = 0;
+722	Math_57	if (k!= 0) return;	double sum = 0;
+722	Math_57	nearest.setClusterSize(k);	double sum = 0;
+722	Math_57	if (k > 0) return resultSet;	double sum = 0;
+722	Math_57	nearest.getCenter() = k;	double sum = 0;
+722	Math_57	nearest.getCluster(pointSet);	double sum = 0;
+722	Math_57	nearest.remove(k);	double sum = 0;
+722	Math_57	nearest.remove(pointSet);	double sum = 0;
+722	Math_57	/*Integer sum = */;	double sum = 0;
+722	Math_57	Integer sum = k;	double sum = 0;
+722	Math_57	nearest.setMaxSize(k);	double sum = 0;
+722	Math_57	int sum = resultSet.size();	double sum = 0;
+722	Math_57	+= d * d;	double sum = 0;
+722	Math_57	nearest.getMemory();	double sum = 0;
+722	Math_57	nearest.size() == 0;	double sum = 0;
+722	Math_57	e.printStackTrace();	double sum = 0;
+722	Math_57	nearest.size() < k;	double sum = 0;
+722	Math_57	nearest.setSum();	double sum = 0;
+722	Math_57	int sum = 0 - k;	double sum = 0;
+722	Math_57	int sum = (double) k;	double sum = 0;
+722	Math_57	Nearest sum = 0;	double sum = 0;
+722	Math_57	nearest.setMaxSize(1000);	double sum = 0;
+722	Math_57	int sum = k * d;	double sum = 0;
+722	Math_57	//$NON-NLS-1$	double sum = 0;
+722	Math_57	distanceFrom(nearest.getCenter());	double sum = 0;
+722	Math_57	dx2[i] = -1;	double sum = 0;
+722	Math_57	int sum = k & 0;	double sum = 0;
+722	Math_57	nearest.getCenter() > 0;	double sum = 0;
+722	Math_57	nearest.distanceFrom(k);	double sum = 0;
+722	Math_57	int sum = atLeast(k);	double sum = 0;
+722	Math_57	nearest.resetClusters();	double sum = 0;
+722	Math_57	int sum = 0, sum = 0;	double sum = 0;
+722	Math_57	nearest.setSum(0);	double sum = 0;
+722	Math_57	nearest.setPosition(0);	double sum = 0;
+722	Math_57	new double[] { k } ;	double sum = 0;
+722	Math_57	int sum = k;	double sum = 0;
+722	Math_57	nearest.getCenter() > k;	double sum = 0;
+722	Math_57	nearest.getCenter().set(0);	double sum = 0;
+722	Math_57	nearest.sum = 0;	double sum = 0;
+722	Math_57	Integer sum = 1;	double sum = 0;
+722	Math_57	(int) (k * d);	double sum = 0;
+722	Math_57	int sum = 0, sum = 1;	double sum = 0;
+722	Math_57	dx2[i] = 1;	double sum = 0;
+722	Math_57	&& d == null;	double sum = 0;
+722	Math_57	IntBuffer sum = 0;	double sum = 0;
+722	Math_57	: int sum = 0;	double sum = 0;
+722	Math_57	int sum = Math.abs(k);	double sum = 0;
+722	Math_57	nearest.remove();	double sum = 0;
+722	Math_57	nearest.setMajor(k);	double sum = 0;
+722	Math_57	nearest.dispose();	double sum = 0;
+722	Math_57	nearest = new Integer(0);	double sum = 0;
+722	Math_57	int sum = double[k];	double sum = 0;
+722	Math_57	if (k >= 0) continue;	double sum = 0;
+722	Math_57	nearest.getCenter().stop();	double sum = 0;
+722	Math_57	if (k == 0) break;	double sum = 0;
+722	Math_57	IllegalStateException sum = 0;	double sum = 0;
+722	Math_57	nearest.getAllClusters();	double sum = 0;
+722	Math_57	nearest.initialize();	double sum = 0;
+722	Math_57	T sum = new double[k];	double sum = 0;
+722	Math_57	ent < T> sum = 0;	double sum = 0;
+722	Math_57	int sum = 1; i++;	double sum = 0;
+722	Math_57	/* FIXME*/	double sum = 0;
+722	Math_57	Double sum = 0;	double sum = 0;
+722	Math_57	if (k > 0) continue;	double sum = 0;
+722	Math_57	// int sum = 0;	double sum = 0;
+722	Math_57	int sum = -1;	double sum = 0;
+722	Math_57	nearest.close();	double sum = 0;
+722	Math_57	static int sum = 0;	double sum = 0;
+722	Math_57	nearestSize = 0;	double sum = 0;
+722	Math_57	Rect < T> sum = 0;	double sum = 0;
+722	Math_57	nearest.firstPoint = null;	double sum = 0;
+722	Math_57	final int sum = k;	double sum = 0;
+722	Math_57	resultSet.size();	double sum = 0;
+722	Math_57	nearest = new Double[k];	double sum = 0;
+722	Math_57	nearest.success;	double sum = 0;
+722	Math_57	int sum = points.size();	double sum = 0;
+722	Math_57	nearest.cancel();	double sum = 0;
+722	Math_57	nearest.height = 0;	double sum = 0;
+722	Math_57	NullPointer sum = null;	double sum = 0;
+722	Math_57	Offset sum = 0;	double sum = 0;
+722	Math_57	/* FIXME*/	double sum = 0;
+722	Math_57	nearest.size() > 0;	double sum = 0;
+722	Math_57	bucket sum = 0;	double sum = 0;
+722	Math_57	nearest.getCluster(k);	double sum = 0;
+722	Math_57	Integer sum = -1;	double sum = 0;
+722	Math_57	if (k > 0) break;	double sum = 0;
+722	Math_57	nearest.setZoom(k);	double sum = 0;
+722	Math_57	nearest = 0;	double sum = 0;
+722	Math_57	&& resultSet.size()>0;	double sum = 0;
+722	Math_57	t sum = new double[k];	double sum = 0;
+722	Math_57	nearest.remove(i);	double sum = 0;
+722	Math_57	Integer sum = null;	double sum = 0;
+722	Math_57	int sum = 100;	double sum = 0;
+722	Math_57	nearest.getBottom();	double sum = 0;
+722	Math_57	nearest!= null;	double sum = 0;
+722	Math_57	int sum = k > 0;	double sum = 0;
+722	Math_57	int sum; sum = 0;	double sum = 0;
+722	Math_57	null = new double[k];	double sum = 0;
+722	Math_57	d = new double[k];	double sum = 0;
+722	Math_57	nearest.setZIndex(0);	double sum = 0;
+722	Math_57	|| d == null;	double sum = 0;
+722	Math_57	nearest.setBottom(0);	double sum = 0;
+722	Math_57	resultSet.get(i);	double sum = 0;
+722	Math_57	nearest.consume();	double sum = 0;
+722	Math_57	if (k > 0) return;	double sum = 0;
+722	Math_57	nearest.setCenter();	double sum = 0;
+722	Math_57	int sum = i;	double sum = 0;
+722	Math_57	nearest.isNearest();	double sum = 0;
+722	Math_57	int sum = 0; return;	double sum = 0;
+722	Math_57	IntSum = 0;	double sum = 0;
+722	Math_57	ong sum = 0;	double sum = 0;
+722	Math_57	Float sum = 0;	double sum = 0;
+722	Math_57	t = new double[k];	double sum = 0;
+722	Math_57	nearest.save();	double sum = 0;
+722	Math_57	boolean sum = 0;	double sum = 0;
+722	Math_57	nearest.detach();	double sum = 0;
+722	Math_57	boolean sum = k;	double sum = 0;
+722	Math_57	Long sum = 0;	double sum = 0;
+722	Math_57	int sum = 0; break;	double sum = 0;
+722	Math_57	blenSum = 0;	double sum = 0;
+722	Math_57	nearest.getSum();	double sum = 0;
+722	Math_57	/*int sum = */;	double sum = 0;
+722	Math_57	int sum = 3;	double sum = 0;
+722	Math_57	int sum = k + 1;	double sum = 0;
+722	Math_57	nearestIndex = 0;	double sum = 0;
+722	Math_57	nearest.prepare();	double sum = 0;
+722	Math_57	.nextInt(k);	double sum = 0;
+722	Math_57	Double sum = 0;	double sum = 0;
+722	Math_57	int sum = = 0;	double sum = 0;
+722	Math_57	, int sum = 0;	double sum = 0;
+722	Math_57	nearest.destroy();	double sum = 0;
+722	Math_57	boolean sum = false;	double sum = 0;
+722	Math_57	nearest.nearest();	double sum = 0;
+722	Math_57	Integer sum = k;	double sum = 0;
+722	Math_57	final int sum = 0;	double sum = 0;
+722	Math_57	nearest.setCenter(0);	double sum = 0;
+722	Math_57	int sum = -2;	double sum = 0;
+722	Math_57	long sum = 0;	double sum = 0;
+722	Math_57	int sum = 1000;	double sum = 0;
+722	Math_57	/* FIXME */	double sum = 0;
+722	Math_57	boolean sum = true;	double sum = 0;
+722	Math_57	nearest = new Rect();	double sum = 0;
+722	Math_57	void sum = 0;	double sum = 0;
+722	Math_57	nearest.getCenter(k);	double sum = 0;
+722	Math_57	nearest.size() = 1;	double sum = 0;
+722	Math_57	et sum = 0;	double sum = 0;
+722	Math_57	Integer sum = 2;	double sum = 0;
+722	Math_57	Bucket sum = 0;	double sum = 0;
+722	Math_57	nearestSize = k;	double sum = 0;
+722	Math_57	int sum = 1000000;	double sum = 0;
+722	Math_57	int sum = -k;	double sum = 0;
+722	Math_57	nearest.requery();	double sum = 0;
+722	Math_57	nearest.i = 0;	double sum = 0;
+722	Math_57	nearest = k;	double sum = 0;
+722	Math_57	sum = 0;	double sum = 0;
+722	Math_57	Offset sum = 0;	double sum = 0;
+722	Math_57	nearest.size();	double sum = 0;
+722	Math_57	d = new double[k];	double sum = 0;
+722	Math_57	short sum = 0;	double sum = 0;
+722	Math_57	int sum = ++k;	double sum = 0;
+722	Math_57	setSum = 0;	double sum = 0;
+722	Math_57	final int sum = -1;	double sum = 0;
+722	Math_57	int sum = 1) { }	double sum = 0;
+722	Math_57	int sum = null;	double sum = 0;
+722	Math_57	float sum = -1;	double sum = 0;
+722	Math_57	int sum = 10;	double sum = 0;
+722	Math_57	final double sum = 0;	double sum = 0;
+722	Math_57	final int sum = 1;	double sum = 0;
+722	Math_57	total = 0;	double sum = 0;
+722	Math_57	this.sum = 0;	double sum = 0;
+722	Math_57	T sum = 0;	double sum = 0;
+722	Math_57	int sum = 0.01;	double sum = 0;
+722	Math_57	int sum = 0.0;	double sum = 0;
+722	Math_57	nearest=nearest;	double sum = 0;
+722	Math_57	nearest.waitFor();	double sum = 0;
+722	Math_57	nearest.stop();	double sum = 0;
+722	Math_57	Nearest sum = k;	double sum = 0;
+722	Math_57	necessary = false;	double sum = 0;
+722	Math_57	int sum = 2;	double sum = 0;
+722	Math_57	t sum = 1;	double sum = 0;
+722	Math_57	int sum = -1000;	double sum = 0;
+722	Math_57	int sum = 0 ;	double sum = 0;
+722	Math_57	float sum = 0.0;	double sum = 0;
+722	Math_57	nearest.setMax();	double sum = 0;
+722	Math_57	int sum = a;	double sum = 0;
+722	Math_57	int sum = 100000;	double sum = 0;
+722	Math_57	int sum = 4;	double sum = 0;
+722	Math_57	Short sum = 0;	double sum = 0;
+722	Math_57	t sum = k;	double sum = 0;
+722	Math_57	Int sum = 0;	double sum = 0;
+722	Math_57	nearest.init();	double sum = 0;
+722	Math_57	int sum = d;	double sum = 0;
+722	Math_57	nearest.hidden();	double sum = 0;
+722	Math_57	nearest.setUp();	double sum = 0;
+722	Math_57	T sum = 0;	double sum = 0;
+722	Math_57	, double sum = 0;	double sum = 0;
+722	Math_57	nearest.show();	double sum = 0;
+722	Math_57	int sum = 1.0;	double sum = 0;
+722	Math_57	0, sum = 0;	double sum = 0;
+722	Math_57	) { return resultSet; }	double sum = 0;
+722	Math_57	i = 0;	double sum = 0;
+722	Math_57	(int) k;	double sum = 0;
+722	Math_57	max = 0;	double sum = 0;
+722	Math_57	t sum = -1;	double sum = 0;
+722	Math_57	int sum = j;	double sum = 0;
+722	Math_57	int sum = 200;	double sum = 0;
+722	Math_57	final long sum = 0;	double sum = 0;
+722	Math_57	Object sum = null;	double sum = 0;
+722	Math_57	int sum = 255;	double sum = 0;
+722	Math_57	Long sum = 0;	double sum = 0;
+722	Math_57	nearest.getCenter()	double sum = 0;
+722	Math_57	float sum = 1.0;	double sum = 0;
+722	Math_57	int sum = 5;	double sum = 0;
+722	Math_57	) { return null; }	double sum = 0;
+722	Math_57	int Sum = 0;	double sum = 0;
+722	Math_57	/*nearest*/	double sum = 0;
+722	Math_57	resultSet.clear();	double sum = 0;
+722	Math_57	float sum = k;	double sum = 0;
+722	Math_57	Number sum = 0;	double sum = 0;
+722	Math_57	int sum = 0, sum;	double sum = 0;
+722	Math_57	Object sum = k;	double sum = 0;
+722	Math_57	int sum = int;	double sum = 0;
+722	Math_57	nearest.finish();	double sum = 0;
+722	Math_57	nearest.pop();	double sum = 0;
+722	Math_57	null = null;	double sum = 0;
+722	Math_57	.doubleValue();	double sum = 0;
+722	Math_57	nearest.size();	double sum = 0;
+722	Math_57	Sum = 0;	double sum = 0;
+722	Math_57	nearest = node;	double sum = 0;
+722	Math_57	nearest.complete();	double sum = 0;
+722	Math_57	nearest = false;	double sum = 0;
+722	Math_57	(double) k;	double sum = 0;
+722	Math_57	double sum = k;	double sum = 0;
+722	Math_57	float sum = 1;	double sum = 0;
+722	Math_57	ger sum = 0;	double sum = 0;
+722	Math_57	int sum = 8;	double sum = 0;
+722	Math_57	return dx2;	double sum = 0;
+722	Math_57	Size = 0;	double sum = 0;
+722	Math_57	int sum = 100;	double sum = 0;
+722	Math_57	offset = 0;	double sum = 0;
+722	Math_57	int sum = 20;	double sum = 0;
+722	Math_57	End = 0;	double sum = 0;
+722	Math_57	float sum = 0.0;	double sum = 0;
+722	Math_57	Index = 0;	double sum = 0;
+722	Math_57	nearest = this;	double sum = 0;
+722	Math_57	int sum = 3;	double sum = 0;
+722	Math_57	Sum < = 0;	double sum = 0;
+722	Math_57	T sum = k;	double sum = 0;
+722	Math_57	++k;	double sum = 0;
+722	Math_57	int sum = 1000;	double sum = 0;
+722	Math_57	sum = k;	double sum = 0;
+722	Math_57	t sum = 2;	double sum = 0;
+722	Math_57	float sum = -1;	double sum = 0;
+722	Math_57	int sum = 9;	double sum = 0;
+722	Math_57	int sum =0;	double sum = 0;
+722	Math_57	int sum = 6;	double sum = 0;
+722	Math_57	int sum = 12;	double sum = 0;
+722	Math_57	T sum = k;	double sum = 0;
+722	Math_57	null = k;	double sum = 0;
+722	Math_57	immutable = false;	double sum = 0;
+722	Math_57	nearest = true;	double sum = 0;
+722	Math_57	int sum;	double sum = 0;
+722	Math_57	sum = 1;	double sum = 0;
+722	Math_57	i++;	double sum = 0;
+722	Math_57	0 = 0;	double sum = 0;
+722	Math_57	sum = -1;	double sum = 0;
+722	Math_57	num = 0;	double sum = 0;
+722	Math_57	Sum = 0;	double sum = 0;
+722	Math_57	offset = 0;	double sum = 0;
+722	Math_57	Count = 0;	double sum = 0;
+722	Math_57	++sum;	double sum = 0;
+722	Math_57	= 0;	double sum = 0;
+722	Math_57	size = 0;	double sum = 0;
+722	Math_57	+= k;	double sum = 0;
+722	Math_57	+= d;	double sum = 0;
+722	Math_57	double sum = 1;	double sum = 0;
+722	Math_57	off = 0;	double sum = 0;
+722	Math_57	?0:0;	double sum = 0;
+722	Math_57	total = k;	double sum = 0;
+722	Math_57	k++;	double sum = 0;
+722	Math_57	out.close();	double sum = 0;
+722	Math_57	i--;	double sum = 0;
+722	Math_57	bottom = 0;	double sum = 0;
+722	Math_57	round = 0;	double sum = 0;
+722	Math_57	// FIXME	double sum = 0;
+722	Math_57	long sum = 1;	double sum = 0;
+722	Math_57	double sum = 1;	double sum = 0;
+722	Math_57	1 = 0;	double sum = 0;
+722	Math_57	.clear();	double sum = 0;
+722	Math_57	++i;	double sum = 0;
+722	Math_57	return 0;	double sum = 0;
+722	Math_57	++ sum;	double sum = 0;
+670	Math_5	if (isNaN) { return ONE; }	return INF;
+670	Math_5	if (isNaN) { return ZERO; }	return INF;
+670	Math_5	if (isNaN) { return NaN; }	return INF;
+670	Math_5	if (!isNaN) { return ONE; }	return INF;
+670	Math_5	if (isNaN) { return null; }	return INF;
+670	Math_5	// if (isNaN) { return NaN; }	return INF;
+670	Math_5	if (!isNaN) { return NaN; }	return INF;
+670	Math_5	if (real == 0.0) { return ONE; }	return INF;
+670	Math_5	if (!isInfinite) return ZERO;	return INF;
+670	Math_5	if (infinite) { return ZERO; }	return INF;
+670	Math_5	if (!isNaN) { return null; }	return INF;
+670	Math_5	real == 0.0 && imaginary == 0.0;	return INF;
+670	Math_5	!= null &&!isNaN;	return INF;
+670	Math_5	if (isInfinite) { return ONE; }	return INF;
+670	Math_5	naN = NaN;	return INF;
+670	Math_5	if (isNaN) { return N; }	return INF;
+670	Math_5	naN = NaN.naN;	return INF;
+670	Math_5	if (real == 0.0) { return NaN; }	return INF;
+670	Math_5	"@SuppressWarnings( ""unused "")"	return INF;
+670	Math_5	// if (isNaN) { return ONE; }	return INF;
+670	Math_5	return (infinite? NaN : NaN);	return INF;
+670	Math_5	if (isNaN) { return 0.0; }	return INF;
+670	Math_5	return isInfinite? NaN : NaN;	return INF;
+670	Math_5	if (hasNaN) { return NaN; }	return INF;
+670	Math_5	!= null? NaN : ONE;	return INF;
+670	Math_5	if (isNaN) { return 0; }	return INF;
+670	Math_5	if (isNaN) { return INF.ONE; }	return INF;
+670	Math_5	if (real == 0.0) { return 0.0; }	return INF;
+670	Math_5	if (isNaN) { return -1; }	return INF;
+670	Math_5	naN = INF.NaN;	return INF;
+670	Math_5	if ( isNaN ) { return ONE; }	return INF;
+670	Math_5	!= null? NaN : null;	return INF;
+670	Math_5	if (isInfinite) return ZERO;	return INF;
+670	Math_5	if (isNaN) { return INFN; }	return INF;
+670	Math_5	if (isNaN) { return ONE; }	return INF;
+670	Math_5	((INF)naN).infinite();	return INF;
+670	Math_5	naN = NaN.NaN;	return INF;
+670	Math_5	return (infinite? null : NaN);	return INF;
+670	Math_5	if (isNaN) { return this; }	return INF;
+670	Math_5	return isNaN? ONE : NaN;	return INF;
+670	Math_5	if (isNaN) { return INF; }	return INF;
+670	Math_5	if (isNaN) return ONE;	return INF;
+670	Math_5	= INF.ONE;	return INF;
+670	Math_5	return isNaN? NaN : NaN;	return INF;
+670	Math_5	if(isNaN) { return ONE; }	return INF;
+670	Math_5	if (isNaN) { return 1.0; }	return INF;
+670	Math_5	return isNaN || isInfinite;	return INF;
+670	Math_5	if (isNaN) { return NE; }	return INF;
+670	Math_5	if (!hasNaN) { return NaN; }	return INF;
+670	Math_5	if (real == 1.0) { return 1.0; }	return INF;
+670	Math_5	if (isNaN) { return ZERO; }	return INF;
+670	Math_5	if (isNaN) { return NT; }	return INF;
+670	Math_5	((INF)naN).setNaN(0);	return INF;
+670	Math_5	naN = INF.ONE;	return INF;
+670	Math_5	if (isNaN) { return NONE; }	return INF;
+670	Math_5	//$NON-NLS-1$ return NaN;	return INF;
+670	Math_5	if (isNaN) { return ZARO; }	return INF;
+670	Math_5	real == 0.0 && imaginary == 0.0 ;	return INF;
+670	Math_5	// if (isNaN) { return null; }	return INF;
+670	Math_5	RealMath.abs(real) { return NaN; }	return INF;
+670	Math_5	if(isNaN) { return ZERO; }	return INF;
+670	Math_5	if (! isNaN) { return ONE; }	return INF;
+670	Math_5	if (isNaN) { return XN; }	return INF;
+670	Math_5	return (infinite? 0.0 : 0.0);	return INF;
+670	Math_5	if (isNaT) { return ZERO; }	return INF;
+670	Math_5	if (isNaT) { return ONE; }	return INF;
+670	Math_5	if ( == 0.0) { return ZERO; }	return INF;
+670	Math_5	if (!isNaN) return ONE;	return INF;
+670	Math_5	if (isNaN) { return NaN; }	return INF;
+670	Math_5	!= null &&!naN;	return INF;
+670	Math_5	if (isNaN) { return 1; }	return INF;
+670	Math_5	@Deprecated @Deprecated @Deprecated	return INF;
+670	Math_5	if (isNaN + 1) { return ONE; }	return INF;
+670	Math_5	try { return ONE; } catch (Exception e) { }	return INF;
+670	Math_5	"if (isNaN) { return "" ""; }"	return INF;
+670	Math_5	if (real == 0.0) { return null; }	return INF;
+670	Math_5	//$NON-NLS-1$	return INF;
+670	Math_5	if (real == 0.0) { return 1.0; }	return INF;
+670	Math_5	return isInfinite? ONE : NaN;	return INF;
+670	Math_5	return isNaN? NaN : ONE;	return INF;
+670	Math_5	return isNaN? null : NaN;	return INF;
+670	Math_5	if (isNaN) { return -N; }	return INF;
+670	Math_5	if (isNaN) { return aN; }	return INF;
+670	Math_5	naN = NaN.infinite;	return INF;
+670	Math_5	= (INF)naN.clone();	return INF;
+670	Math_5	? NaN : NaN;	return INF;
+670	Math_5	if (isNaN()) { return ONE; }	return INF;
+670	Math_5	naN = INF.UNKNOWN;	return INF;
+670	Math_5	if (hasNaN) { return ONE; }	return INF;
+670	Math_5	if (!isNaN) { return 0.0; }	return INF;
+670	Math_5	if (isNaIN) { return ZERO; }	return INF;
+670	Math_5	"// @SuppressWarnings( ""unused "")"	return INF;
+670	Math_5	RealMath.abs(real) { return ONE; }	return INF;
+670	Math_5	if (!isNaN) { return N; }	return INF;
+670	Math_5	if (hasNaN) { return ZERO; }	return INF;
+670	Math_5	if(isNaN) { return NaN; }	return INF;
+670	Math_5	real == 0.0 && imaginary == 0.0);	return INF;
+670	Math_5	return (infinite? ONE : ONE);	return INF;
+670	Math_5	!= 0.0 &&!isNaN;	return INF;
+670	Math_5	if(!isNaN) { return ONE; }	return INF;
+670	Math_5	naN = NaN.getNaN();	return INF;
+670	Math_5	if (isNaN) return ZERO;	return INF;
+670	Math_5	naN = naN;	return INF;
+670	Math_5	if (infinite) { return ONE; }	return INF;
+670	Math_5	if (!hasNaN) { return ONE; }	return INF;
+670	Math_5	if (isNaN) { return ERROR; }	return INF;
+670	Math_5	naN = new INF.NaN();	return INF;
+670	Math_5	//$NON-NLS-1$ return null;	return INF;
+670	Math_5	NaN n = new NaN(); return n;	return INF;
+670	Math_5	if (isNaT) { return NaN; }	return INF;
+670	Math_5	if (naN == 1) { return ONE; }	return INF;
+670	Math_5	"@SuppressWarnings( ""unused "")"	return INF;
+670	Math_5	if (isNaN) { return NNF; }	return INF;
+670	Math_5	if (!isInfinite) return ONE;	return INF;
+670	Math_5	naN = null;	return INF;
+670	Math_5	if (isNaS) { return ONE; }	return INF;
+670	Math_5	if (!isNaN) { return this; }	return INF;
+670	Math_5	return (INF)naN.clone();	return INF;
+670	Math_5	= INF.UNKNOWN;	return INF;
+670	Math_5	if (isNaIN) { return ONE; }	return INF;
+670	Math_5	if (isNaN) { return 0.5; }	return INF;
+670	Math_5	naN = NaN.valueOf(real);	return INF;
+670	Math_5	NaN = INF.ONE;	return INF;
+670	Math_5	NaN = INF.NaN;	return INF;
+670	Math_5	if (isNaN) { return NS; }	return INF;
+670	Math_5	= INF.NaN;	return INF;
+670	Math_5	if (isNaN) { return NO; }	return INF;
+670	Math_5	naN = (INF)naN;	return INF;
+670	Math_5	if (!isInfinite) return NaN;	return INF;
+670	Math_5	real == 0.0 && imaginary == 0.0	return INF;
+670	Math_5	if (!naN) { return ONE; }	return INF;
+670	Math_5	naN = 0.0; return naN;	return INF;
+670	Math_5	!= null? 0.0 : NaN;	return INF;
+670	Math_5	if (isNaN) { return NP; }	return INF;
+670	Math_5	if (!isNaN) { return ONE; }	return INF;
+670	Math_5	if (isNaN) { return NR; }	return INF;
+670	Math_5	return isNaN? 0.0 : NaN;	return INF;
+670	Math_5	//$NON-NLS-1$ return ONE;	return INF;
+670	Math_5	if (isNaN) { return NON; }	return INF;
+670	Math_5	if (isNaN) { return Y; }	return INF;
+670	Math_5	!= 0.0 && imaginary == 0.0;	return INF;
+670	Math_5	if (isNaN) return INF.ONE;	return INF;
+670	Math_5	if (isNaN) { return NI; }	return INF;
+670	Math_5	if (!isNaN) return null;	return INF;
+670	Math_5	if (isNaM) { return ONE; }	return INF;
+670	Math_5	if (isNaN) { return NER; }	return INF;
+670	Math_5	// if (isNaN) { return N; }	return INF;
+670	Math_5	naN = INF.NO_INFINITE;	return INF;
+670	Math_5	naN = INF.naN;	return INF;
+670	Math_5	!= null && isNaN;	return INF;
+670	Math_5	isNaN = false; return isNaN;	return INF;
+670	Math_5	_NaN = _NaN;	return INF;
+670	Math_5	naN = INF.ONE;	return INF;
+670	Math_5	if (!isNaN) return NaN;	return INF;
+670	Math_5	NaN = INF.UNKNOWN;	return INF;
+670	Math_5	NaN = INF.ONE;	return INF;
+670	Math_5	NaN = new INF.NaN();	return INF;
+670	Math_5	naN = new NaN();	return INF;
+670	Math_5	if (isNaN) { return null; }	return INF;
+670	Math_5	naN = NaN.class.getName();	return INF;
+670	Math_5	naN = NaN; return naN;	return INF;
+670	Math_5	this.real = 0.0; this.real = imaginary;	return INF;
+670	Math_5	&&!isInfinite;	return INF;
+670	Math_5	if (infinite) return ZERO;	return INF;
+670	Math_5	if (isNaN) { return true; }	return INF;
+670	Math_5	ner.setNaN(naN);	return INF;
+670	Math_5	&& isNaN == 0.0;	return INF;
+670	Math_5	if (isNaN) { return T; }	return INF;
+670	Math_5	if (isNaN) return NaN;	return INF;
+670	Math_5	naN = INF.NaN;	return INF;
+670	Math_5	RealMath.abs(real);	return INF;
+670	Math_5	NaN = INF.UNKNOWN;	return INF;
+670	Math_5	naN = NaN.UNDEFINED;	return INF;
+670	Math_5	If (isNaN) { return ONE; }	return INF;
+670	Math_5	return INF.NaN;	return INF;
+670	Math_5	= INF.ONE; return INF.ONE;	return INF;
+670	Math_5	FastMath.abs(real);	return INF;
+670	Math_5	naN = INF.ONE_ZERO;	return INF;
+670	Math_5	naN = NaN.Empty;	return INF;
+670	Math_5	naN = NaN.UNKNOWN;	return INF;
+670	Math_5	naN = ONE;	return INF;
+670	Math_5	n = naN; return n;	return INF;
+670	Math_5	.setNaN(naN);	return INF;
+670	Math_5	naN = new ComplexNaN();	return INF;
+670	Math_5	if (isNaN) return null;	return INF;
+670	Math_5	e.printStackTrace();	return INF;
+670	Math_5	naN = NaN.NEGATIVE;	return INF;
+670	Math_5	nfN = nfN;	return INF;
+670	Math_5	n = naN;	return INF;
+670	Math_5	naN = NaN; return null;	return INF;
+670	Math_5	naN = naN;	return INF;
+670	Math_5	xNaN = xNaN;	return INF;
+670	Math_5	? NaN : ONE;	return INF;
+670	Math_5	N = INF.ONE;	return INF;
+670	Math_5	N = INF.NaN;	return INF;
+670	Math_5	naN = null; return null;	return INF;
+670	Math_5	return INF.ONE;	return INF;
+670	Math_5	n = new INF.NaN();	return INF;
+670	Math_5	ner.setNaN(NaN);	return INF;
+670	Math_5	N = INF.UNKNOWN;	return INF;
+670	Math_5	? NaN : INF.ONE;	return INF;
+670	Math_5	if (isNaN) { return; }	return INF;
+670	Math_5	naN = NaN.ERROR;	return INF;
+670	Math_5	= INF.valueOf(NaN);	return INF;
+670	Math_5	NaN = NaN.NaN;	return INF;
+670	Math_5	naN = new NaN();	return INF;
+670	Math_5	= INF.valueOf(naN);	return INF;
+670	Math_5	NaN = INF.ONE_ZERO;	return INF;
+670	Math_5	isNaN = isNaN;	return INF;
+670	Math_5	&&!isNaN;	return INF;
+670	Math_5	naN = this.naN;	return INF;
+670	Math_5	naN = INF.NEGATIVE;	return INF;
+670	Math_5	naN = NaN.NULL;	return INF;
+670	Math_5	naN = 0.0;	return INF;
+670	Math_5	NaN = INF.NaN;	return INF;
+670	Math_5	NaN = NaN;	return INF;
+670	Math_5	= INF.NO_INFINITE;	return INF;
+670	Math_5	n = (INF)naN;	return INF;
+670	Math_5	naN = NaN.INITIAL;	return INF;
+670	Math_5	NaN = new NaN();	return INF;
+670	Math_5	return (INF)NaN;	return INF;
+670	Math_5	naN = NaN.EMPTY;	return INF;
+670	Math_5	return isInfinite || NaN;	return INF;
+670	Math_5	this.naN = NaN;	return INF;
+670	Math_5	na = INF.NaN;	return INF;
+670	Math_5	= new INF.NaN();	return INF;
+670	Math_5	return (INF)naN;	return INF;
+670	Math_5	return isNaN;	return INF;
+670	Math_5	nbN = nbN;	return INF;
+670	Math_5	= INF.ONE_ZERO;	return INF;
+670	Math_5	return INF.UNKNOWN;	return INF;
+670	Math_5	naN = INF.ZERO;	return INF;
+670	Math_5	naN = NaN.N;	return INF;
+670	Math_5	naN = 0.0;	return INF;
+670	Math_5	naN = NaN.trim();	return INF;
+670	Math_5	NaN = INF.ONE_ZERO;	return INF;
+670	Math_5	naN = NaN.NONE;	return INF;
+670	Math_5	naN = INF.NO;	return INF;
+670	Math_5	n = new Complex(NaN);	return INF;
+670	Math_5	|| isNaN == 0.0;	return INF;
+670	Math_5	n = 0.0; return n;	return INF;
+670	Math_5	n = NaN;	return INF;
+670	Math_5	naN = null; return NaN;	return INF;
+670	Math_5	n = INF.NaN;	return INF;
+670	Math_5	naN = NaN; return NaN;	return INF;
+670	Math_5	naN =!NaN;	return INF;
+670	Math_5	return new INF.NaN(real);	return INF;
+670	Math_5	LengthMath.abs(real);	return INF;
+670	Math_5	.setNaN(NaN);	return INF;
+670	Math_5	naN =!NaN;	return INF;
+670	Math_5	NaN = NaN.naN;	return INF;
+670	Math_5	naN = ZERO;	return INF;
+670	Math_5	n = 0; return n;	return INF;
+670	Math_5	n = ONE; return n;	return INF;
+670	Math_5	nbN = INF.ONE;	return INF;
+670	Math_5	n = INF.ONE;	return INF;
+670	Math_5	naN = NaN; return ONE;	return INF;
+670	Math_5	nbN = naN;	return INF;
+670	Math_5	N = NaN;	return INF;
+670	Math_5	naN = NaN.null;	return INF;
+670	Math_5	result = INF.ONE;	return INF;
+670	Math_5	nt = INF.NaN;	return INF;
+670	Math_5	= INF.INITIALIZED;	return INF;
+670	Math_5	= INF.ZERO;	return INF;
+670	Math_5	nfN = INF.ONE;	return INF;
+670	Math_5	n = NaN.nextInt();	return INF;
+670	Math_5	naN = ONE;	return INF;
+670	Math_5	n = new Complex(naN);	return INF;
+670	Math_5	NaN = new INF();	return INF;
+670	Math_5	= INF.UNDEFINED;	return INF;
+670	Math_5	ne = INF.NaN;	return INF;
+670	Math_5	= INF.naN;	return INF;
+670	Math_5	// INF ONE ZERO	return INF;
+670	Math_5	naN = NaN;	return INF;
+670	Math_5	naN = INF.NULL;	return INF;
+670	Math_5	// INF ONE ONE ZERO	return INF;
+670	Math_5	|= NaN;	return INF;
+670	Math_5	naN = INF.NAN;	return INF;
+670	Math_5	@Deprecated @Deprecated	return INF;
+670	Math_5	NaN = new NaN();	return INF;
+670	Math_5	= INF.INITIALIZER;	return INF;
+670	Math_5	return (INF)naN;	return INF;
+670	Math_5	= INF.DEFAULT;	return INF;
+670	Math_5	naN = NaN.NETHER;	return INF;
+670	Math_5	n = this.naN;	return INF;
+670	Math_5	n = ONE;	return INF;
+670	Math_5	return (INF)NaN;	return INF;
+670	Math_5	RealMath.abs(real) {	return INF;
+670	Math_5	else { return INF.ONE; }	return INF;
+670	Math_5	return INF.ONE_ZERO;	return INF;
+670	Math_5	return isNaN == 0.0;	return INF;
+670	Math_5	n = INF.NaN;	return INF;
+670	Math_5	NaN n = new NaN();	return INF;
+670	Math_5	null = new Complex(NaN);	return INF;
+670	Math_5	return Infinite.NaN;	return INF;
+670	Math_5	naN = NaN.INF;	return INF;
+670	Math_5	naN = INF.NONE;	return INF;
+670	Math_5	if (isNaN) { return	return INF;
+670	Math_5	= INF.NEGATIVE;	return INF;
+670	Math_5	// FIXME	return INF;
+670	Math_5	null == NaN;	return INF;
+670	Math_5	NaN = INF.ZERO;	return INF;
+670	Math_5	naN = new INF();	return INF;
+670	Math_5	? NaN : null;	return INF;
+670	Math_5	return new INF.NaN();	return INF;
+670	Math_5	nf = INF.ONE;	return INF;
+670	Math_5	? NaN : ZERO;	return INF;
+670	Math_5	naN = 1.0;	return INF;
+670	Math_5	naN = NaN.ZERO;	return INF;
+670	Math_5	/* FIXME*/	return INF;
+670	Math_5	// (naN == 0.0)	return INF;
+670	Math_5	_NaN = _N;	return INF;
+670	Math_5	naN = NaN.class;	return INF;
+670	Math_5	naN = INF.NETHER;	return INF;
+670	Math_5	naN = NaN.ONE;	return INF;
+670	Math_5	= INF.INFINITE;	return INF;
+670	Math_5	// getNaN() return null;	return INF;
+670	Math_5	|| isInfinite;	return INF;
+670	Math_5	isNaN = false;	return INF;
+670	Math_5	/*naN*/	return INF;
+670	Math_5	naN = null;	return INF;
+670	Math_5	= INF.INfinite;	return INF;
+670	Math_5	// infinite return ZERO;	return INF;
+670	Math_5	n = 0.0;	return INF;
+670	Math_5	na = INF.ONE;	return INF;
+670	Math_5	naN = NaN.none;	return INF;
+670	Math_5	= new Complex(NaN);	return INF;
+670	Math_5	naN = ZERO;	return INF;
+670	Math_5	NaN = null;	return INF;
+670	Math_5	naN = 1.0;	return INF;
+670	Math_5	&& isNaN;	return INF;
+670	Math_5	|| isNaN;	return INF;
+670	Math_5	return INF.naN;	return INF;
+670	Math_5	= (INF)naN;	return INF;
+670	Math_5	Infinite = false;	return INF;
+670	Math_5	N = ONE;	return INF;
+670	Math_5	return INF.ZERO;	return INF;
+670	Math_5	n = new NaN();	return INF;
+670	Math_5	NaN = ONE;	return INF;
+670	Math_5	NaN = INF.ZERO;	return INF;
+670	Math_5	isNaN = 0.0;	return INF;
+670	Math_5	nf = naN;	return INF;
+670	Math_5	n = ZERO;	return INF;
+670	Math_5	return (INF) ONE;	return INF;
+670	Math_5	naN = NaN.NO;	return INF;
+670	Math_5	NaN = INF.NO;	return INF;
+670	Math_5	na = INF.ONE;	return INF;
+670	Math_5	NaN = null;	return INF;
+670	Math_5	result = null;	return INF;
+670	Math_5	= INF.EMPTY;	return INF;
+670	Math_5	return this.naN;	return INF;
+670	Math_5	naN = INF ONE;	return INF;
+670	Math_5	infinite = false;	return INF;
+670	Math_5	return (INF) NaN;	return INF;
+670	Math_5	NaN = ONE;	return INF;
+670	Math_5	? NaN : NaN;	return INF;
+670	Math_5	return Infinite.ZERO;	return INF;
+670	Math_5	isNaN = true;	return INF;
+670	Math_5	/* FIXME*/	return INF;
+670	Math_5	XN = XN;	return INF;
+670	Math_5	ret = ZERO;	return INF;
+670	Math_5	= INF.NO_ZERO;	return INF;
+670	Math_5	/* NaN*/	return INF;
+670	Math_5	@Override return ONE;	return INF;
+670	Math_5	naN = NNF;	return INF;
+670	Math_5	infinite = false;	return INF;
+670	Math_5	Infinite = true;	return INF;
+670	Math_5	= INF.INITIAL;	return INF;
+670	Math_5	/* FIXME */	return INF;
+670	Math_5	N = new NaN();	return INF;
+670	Math_5	nbN = INF.ONE;	return INF;
+670	Math_5	naN=NaN;	return INF;
+670	Math_5	return ONE;	return INF;
+670	Math_5	r = INF.ONE;	return INF;
+670	Math_5	naN = 0;	return INF;
+670	Math_5	= INF.CONTENT;	return INF;
+670	Math_5	NaN = 0.0;	return INF;
+670	Math_5	nt = INF.ONE;	return INF;
+670	Math_5	NeN = new NaN();	return INF;
+670	Math_5	infinite = true;	return INF;
+670	Math_5	// FIXME FIXME	return INF;
+670	Math_5	// INF ONE ZERO.	return INF;
+670	Math_5	return (INF) ONE;	return INF;
+670	Math_5	ne = INF.ONE;	return INF;
+670	Math_5	naN = INF.N;	return INF;
+670	Math_5	infinite = true;	return INF;
+670	Math_5	naN = 0;	return INF;
+670	Math_5	return Double.NaN;	return INF;
+670	Math_5	n = 0;	return INF;
+670	Math_5	xNaN = 0.0;	return INF;
+670	Math_5	return Infinite.ONE;	return INF;
+670	Math_5	N = INF.ZERO;	return INF;
+670	Math_5	n = 1.0;	return INF;
+670	Math_5	/* NaN */	return INF;
+670	Math_5	/*NaN*/	return INF;
+670	Math_5	naN=naN;	return INF;
+670	Math_5	NaN = new INF(this);	return INF;
+670	Math_5	return isInfinite;	return INF;
+670	Math_5	null = null;	return INF;
+670	Math_5	= INF.INSTANCE;	return INF;
+670	Math_5	nf = nf;	return INF;
+670	Math_5	return (NaN);	return INF;
+670	Math_5	n = INF.ONE;	return INF;
+670	Math_5	NNF = new INF();	return INF;
+670	Math_5	ret = ONE;	return INF;
+670	Math_5	result = ONE;	return INF;
+670	Math_5	result = NaN;	return INF;
+670	Math_5	= INF.NO;	return INF;
+670	Math_5	nan	return INF;
+670	Math_5	nbN = NaN;	return INF;
+670	Math_5	nbN = NaN;	return INF;
+670	Math_5	else { return ONE; }	return INF;
+670	Math_5	naN = 0.001;	return INF;
+670	Math_5	= INF.NULL;	return INF;
+670	Math_5	= INF.NONE;	return INF;
+670	Math_5	= ONE;	return INF;
+670	Math_5	NNF = INF.ONE;	return INF;
+670	Math_5	N = null;	return INF;
+670	Math_5	nbN = ONE;	return INF;
+670	Math_5	nbN = 0.0;	return INF;
+670	Math_5	return (INF) NaN;	return INF;
+670	Math_5	= INF.INF;	return INF;
+670	Math_5	xN = xN;	return INF;
+670	Math_5	infinite = 0.0;	return INF;
+670	Math_5	= isNaN;	return INF;
+670	Math_5	) { return ONE; }	return INF;
+670	Math_5	n = null;	return INF;
+670	Math_5	|= INF.ONE;	return INF;
+670	Math_5	N = new INF();	return INF;
+670	Math_5	nbN = 1.0;	return INF;
+670	Math_5	naN = 0.5;	return INF;
+670	Math_5	N = ZERO;	return INF;
+670	Math_5	r = INF.ONE;	return INF;
+670	Math_5	Math.abs(real);	return INF;
+670	Math_5	&nbsp;	return INF;
+670	Math_5	ret = NaN;	return INF;
+670	Math_5	(INF.NaN)	return INF;
+670	Math_5	NaN = INF.NO;	return INF;
+670	Math_5	naN = -1;	return INF;
+670	Math_5	n = NaN;	return INF;
+670	Math_5	= INF.NETHER;	return INF;
+670	Math_5	infinite = 0.0;	return INF;
+670	Math_5	naN = -1;	return INF;
+670	Math_5	= INF.NAN;	return INF;
+670	Math_5	N = INF.NO;	return INF;
+670	Math_5	return (naN);	return INF;
+670	Math_5	nf = ONE;	return INF;
+670	Math_5	// FIXME */	return INF;
+670	Math_5	//NOI18N	return INF;
+670	Math_5	int i = 0;	return INF;
+670	Math_5	// NaN */	return INF;
+670	Math_5	!= null;	return INF;
+670	Math_5	NaN = 1.0;	return INF;
+670	Math_5	= INF ONE;	return INF;
+670	Math_5	naN = 0.5;	return INF;
+670	Math_5	n = ZERO;	return INF;
+670	Math_5	NaN n = ONE;	return INF;
+670	Math_5	/* NaN*/	return INF;
+670	Math_5	return ZERO;	return INF;
+670	Math_5	= null;	return INF;
+670	Math_5	this.real = 0.0;	return INF;
+670	Math_5	n = ONE;	return INF;
+670	Math_5	mN = ONE;	return INF;
+670	Math_5	// NOI18N	return INF;
+670	Math_5	naN = false;	return INF;
+670	Math_5	= INF.NAME;	return INF;
+670	Math_5	n = null;	return INF;
+670	Math_5	= ZERO;	return INF;
+670	Math_5	+= INF.ONE;	return INF;
+670	Math_5	n = 0.001;	return INF;
+670	Math_5	n = 0.5f;	return INF;
+670	Math_5	= INF.ROUND;	return INF;
+670	Math_5	= INF.ANON;	return INF;
+670	Math_5	naN = true;	return INF;
+670	Math_5	NNF = ONE;	return INF;
+670	Math_5	= NaN;	return INF;
+670	Math_5	na = 0.0;	return INF;
+670	Math_5	// FIXME*/	return INF;
+670	Math_5	m = ONE;	return INF;
+670	Math_5	n = -1;	return INF;
+670	Math_5	-= 0.0;	return INF;
+670	Math_5	na = null;	return INF;
+670	Math_5	-= NaN;	return INF;
+670	Math_5	na = NaN;	return INF;
+670	Math_5	n = 0.5;	return INF;
+670	Math_5	= INF.INF;	return INF;
+670	Math_5	return INF ONE;	return INF;
+670	Math_5	= new INF();	return INF;
+670	Math_5	// XXX INF	return INF;
+670	Math_5	= INF.BOUND;	return INF;
+670	Math_5	NeN = ONE;	return INF;
+670	Math_5	null = null;	return INF;
+670	Math_5	/* NaN */	return INF;
+670	Math_5	= INF_ONE;	return INF;
+670	Math_5	N = NaN.N;	return INF;
+670	Math_5	ne = null;	return INF;
+670	Math_5	i = 0;	return INF;
+670	Math_5	i = 0.0;	return INF;
+670	Math_5	|| isInfinite	return INF;
+670	Math_5	return INF_N;	return INF;
+670	Math_5	return INF_ONE;	return INF;
+670	Math_5	N = 0.0;	return INF;
+670	Math_5	solver = solver;	return INF;
+670	Math_5	naN = NO;	return INF;
+670	Math_5	x = x;	return INF;
+670	Math_5	return INF.NO;	return INF;
+670	Math_5	!= 0.0;	return INF;
+670	Math_5	// Infinite	return INF;
+670	Math_5	= INF.ON;	return INF;
+670	Math_5	return Infinite;	return INF;
+670	Math_5	// XXX	return INF;
+670	Math_5	// infinite	return INF;
+670	Math_5	x = 0.0;	return INF;
+670	Math_5	return NaN;	return INF;
+670	Math_5	return null;	return INF;
+670	Math_5	r = ONE;	return INF;
+670	Math_5	: NaN;	return INF;
+670	Math_5	= INF.N;	return INF;
+670	Math_5	, NaN;	return INF;
+670	Math_5	Nen = ONE;	return INF;
+670	Math_5	z = 0.0;	return INF;
+670	Math_5	return ONE;	return INF;
+670	Math_5	na = ONE;	return INF;
+670	Math_5	= INF.one;	return INF;
+670	Math_5	// ONE ZERO	return INF;
+670	Math_5	n = n;	return INF;
+670	Math_5	naN = N;	return INF;
+670	Math_5	// isNaN	return INF;
+670	Math_5	result = ONE;	return INF;
+670	Math_5	= INF.NA;	return INF;
+670	Math_5	y = 0.0;	return INF;
+670	Math_5	= INF_N;	return INF;
+670	Math_5	= INF.IN;	return INF;
+670	Math_5	// non-naN	return INF;
+670	Math_5	r = 0.0;	return INF;
+670	Math_5	*= 0.0;	return INF;
+670	Math_5	= 0.0;	return INF;
+670	Math_5	// getNaN()	return INF;
+670	Math_5	x = 0;	return INF;
+670	Math_5	N = 1.0;	return INF;
+670	Math_5	// INF ONE	return INF;
+670	Math_5	//FIXME	return INF;
+670	Math_5	//NaN	return INF;
+670	Math_5	+= 0.0;	return INF;
+670	Math_5	return INF;	return INF;
+670	Math_5	//infinite	return INF;
+670	Math_5	N = 0;	return INF;
+670	Math_5	@Deprecated	return INF;
+670	Math_5	: return ONE;	return INF;
+670	Math_5	// NaN;	return INF;
+670	Math_5	|= 0.0;	return INF;
+670	Math_5	|= ONE;	return INF;
+670	Math_5	// cannot be null	return INF;
+670	Math_5	n = 0.0;	return INF;
+670	Math_5	n = 0;	return INF;
+670	Math_5	= 1.0;	return INF;
+670	Math_5	// nothing to do.	return INF;
+670	Math_5	(NaN)	return INF;
+670	Math_5	//$NaN	return INF;
+670	Math_5	// @NaN	return INF;
+670	Math_5	= 0;	return INF;
+670	Math_5	;	return INF;
+670	Math_5	// NaN	return INF;
+670	Math_5	//$N;	return INF;
+670	Math_5	= INF;	return INF;
+670	Math_5	rim();	return INF;
+670	Math_5	//naN	return INF;
+670	Math_5	return NaN;	return INF;
+670	Math_5	= true;	return INF;
+670	Math_5	@NotNull	return INF;
+670	Math_5	N = N;	return INF;
+670	Math_5	@Override	return INF;
+670	Math_5	n = N;	return INF;
+670	Math_5	= false;	return INF;
+670	Math_5	nan	return INF;
+670	Math_5	//NaN	return INF;
+670	Math_5	//$NONE	return INF;
+670	Math_5	@NaN	return INF;
+670	Math_5	// INF	return INF;
+670	Math_5	// nothing to do	return INF;
+670	Math_5	// No ONE	return INF;
+670	Math_5	// NORMAL	return INF;
+670	Math_5	= 1;	return INF;
+670	Math_5	// NNF	return INF;
+670	Math_5	//$N	return INF;
+670	Math_5	;	return INF;
+670	Math_5	--;	return INF;
+670	Math_5	return 1;	return INF;
+670	Math_5	// TODO	return INF;
+670	Math_5	this();	return INF;
+670	Math_5	//...	return INF;
+670	Math_5	return this;	return INF;
+670	Math_5	//	return INF;
+670	Math_5	N;	return INF;
+670	Math_5	// no value	return INF;
+670	Math_5	// NaN	return INF;
+670	Math_5	continue;	return INF;
+670	Math_5	//	return INF;
+670	Math_5	(0);	return INF;
+670	Math_5	();	return INF;
