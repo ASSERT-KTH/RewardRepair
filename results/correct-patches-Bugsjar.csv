@@ -1,0 +1,479 @@
+wicket_ad849602   173
+Identical to human-written patches  replace 4 line(s)
+-   if  (url.getPort()  !=  null  ||  !desired.usesStandardPort(config))  {  url.setPort(desired.getPort(config));  }  
++     url.setPort(desired.getPort(config));
+
+wicket_c250db9c   430
+Identical to human-written patches  replace 1 line(s)
+-   if  (topLevel.length()  <  2  ||  topLevel.length()  >  4)  
++     if (topLevel.length() < 2)
+
+camel_2e985f9b   445
+Identical to human-written patches  replace 3 line(s)
+-   if  (future  ==  null  &&  timedOut)  {  break;  }  else  if  (future  ==  null)  {  
++     if (future == null) {
+
+wicket_3feb0e3a   647
+Identical to human-written patches  replace 1 line(s)
+-   child.detachModel();  
++     child.detach();
+
+jackrabbit-oak_17032c50   209
+Identical to human-written patches  replace 1 line(s)
+-   IndexNode  indexNode  =  null;  
++     IndexNode indexNode = null;
+
+wicket_1b7afefc   258
+Identical to human-written patches  add line(s)
+-   
++     return;
+
+camel_c408c3ed   173
+Identical to human-written patches  replace 1 line(s)
+-   answer  =  new  BeanExpression(ref,  getMethod());  
++     answer = new BeanExpression(instance, getMethod());
+
+wicket_813d8bee   209
+Identical to human-written patches  remove 12 line(s)
+-   final  String  marker  =   "wicket- "  +  getGroup().getMarkupId();  String  clazz  =  tag.getAttribute( "class ");  if  (Strings.isEmpty(clazz))  {  clazz  =  marker;  }  else  {  clazz  =  clazz  +   "   "  +  marker;  }  tag.put( "class ",  clazz);    
++     
+
+wicket_afc7034d   102
+Identical to human-written patches  replace 1 line(s)
+-   value  =  Args.notEmpty(value,   "value ").trim();  
++     value = Args.notNull(value, "value ").trim();
+
+flink_d90672fd   739
+Identical to human-written patches  remove 2 line(s)
+-   hasher.putString(node.getOperatorName(),  Charset.forName( "UTF-8 "));    
++     
+
+jackrabbit-oak_73cc2442   377
+Identical to human-written patches  replace 3 line(s)
+-   if  (!builder.hasProperty(MoveDetector.SOURCE_PATH))  {  builder.setProperty(MoveDetector.SOURCE_PATH,  path);  }  
++     builder.setProperty(MoveDetector.SOURCE_PATH, path);
+
+accumulo_efef09b0   154
+Identical to human-written patches  replace 1 line(s)
+-   colq.set(currentDocID.getBytes(),  zeroIndex  +  1,  currentDocID.getLength()  -  zeroIndex  -  2);  
++     colq.set(currentDocID.getBytes(), zeroIndex + 1, currentDocID.getLength() - zeroIndex - 1);
+
+camel_06a8489a   53
+Identical to human-written patches  replace 6 line(s)
+-   boolean  isDirectory  =  file.isDirectory();  if  (!isDirectory  &&  file.getName().contains( ". "))  {  throw  new  IllegalArgumentException( "Only  directory  is  supported.  Endpoint  must  be  configured  with  a  valid  starting  directory:   "  +  file);  }  if  (!file.exists()  &&  !isDirectory)  {  
++     if (!file.exists() &&!file.isDirectory()) {
+
+commons-math_6d6649ef   3482
+Identical to human-written patches  replace 1 line(s)
+-   return  (a  <=   b)  ?  b  :  (Float.isNaN(a  +  b)  ?  Float.NaN  :  b);  
++     return (a <= b)? b : (Float.isNaN(a + b)? Float.NaN : a);
+
+wicket_2293764f   105
+Identical to human-written patches  replace 12 line(s)
+-   if  (forwardAttributes  !=  null  ||  errorAttributes  !=  null)  {  if  (LOG.isDebugEnabled())  {  LOG.debug( "Setting  filterPrefix('{}')  to  ''  because  there  is  either  an  error  or  a  forward.  {},  {} ",  new  Object[]  {filterPrefix,  forwardAttributes,  errorAttributes});  }  this.filterPrefix  =   " ";  }  else  {  this.filterPrefix  =  filterPrefix;  }  
++     this.filterPrefix = filterPrefix;
+
+wicket_2b1ce91d   219
+Identical to human-written patches  replace 1 line(s)
+-   return  true;  
++     return false;
+
+flink_a5b05566   342
+Identical to human-written patches  replace 1 line(s)
+-   CommandLine  line  =  parser.parse(INFO_OPTIONS,  args,  false);  
++     CommandLine line = parser.parse(INFO_OPTIONS, args, true);
+
+wicket_a4caaa57   57
+Identical to human-written patches  replace 1 line(s)
+-   return  super.put(key,  unescapeHtml(value));  
++     return super.put(key, value);
+
+jackrabbit-oak_459bd065   295
+Identical to human-written patches  replace 1 line(s)
+-   name,  value.getCalendar().getTimeInMillis(),  Type.DATE);  
++     name, value.getString(), Type.DATE);
+
+camel_e7ac45b6   200
+Identical to human-written patches  remove 5 line(s)
+-   if  (uri.contains( "& ")  &&  !uri.contains( "? "))  {  throw  new  ResolveEndpointFailedException(uri,   "Invalid  uri  syntax:  no  ?  marker  however  the  uri   "  +   "has  &  parameter  separators.  Check  the  uri  if  its  missing  a  ?  marker. ");  }    
++     
+
+camel_57ba1bde   158
+Identical to human-written patches  replace 1 line(s)
+-   if  (i  <  uri.length()  -  2)  {  
++     if (i <= uri.length() - 2) {
+
+wicket_ccb8fc9e   179
+Identical to human-written patches  replace 5 line(s)
+-   String  id  =  tag.getId();  if  (id.equals(INLINE_ENCLOSURE_ID_PREFIX))  {  id  =  id  +  container.getPage().getAutoIndex();  }  
++     String id = tag.getId() + container.getPage().getAutoIndex();
+
+logging-log4j2_17296089   99
+Identical to human-written patches  replace 1 line(s)
+-   match  =  key.equals(ThreadContext.get(key));  
++     match = value.equals(ThreadContext.get(key));
+
+flink_dc78a747   332
+Identical to human-written patches  replace 1 line(s)
+-   kryo.setReferences(false);  
++     kryo.setReferences(true);
+
+wicket_917dd2b5   176
+Identical to human-written patches  replace 1 line(s)
+-   if  (minifiedName  !=  null  &&  minifiedName  !=  NO_MINIFIED_NAME)  
++     if (minifiedName!= null)
+
+wicket_e93fdd5a   60
+Identical to human-written patches  remove 1 line(s)
+-   connection.setDoInput(false);  
++     
+
+maven_bef7fac6   270
+Identical to human-written patches  replace 2 line(s)
+-   session.setProjects(  projectDependencyGraph.getSortedProjects()  );    
++     session.setProjects( projectDependencyGraph.getSortedProjects() );
+
+jackrabbit-oak_6d82cb64   188
+Identical to human-written patches  add line(s)
+-   
++     if (path.isEmpty()) { return 0; }
+
+wicket_7da4ad17   97
+Identical to human-written patches  replace 1 line(s)
+-   return  object.getClass().getSimpleName()  +   ". "  +  object.name();  
++     return object.getDeclaringClass().getSimpleName() + ". " + object.name();
+
+logging-log4j2_0bea17d7   231
+Identical to human-written patches  replace 1 line(s)
+-   return  this.parents  ==  null;  
++     return this.parents!= null;
+
+commons-math_83f18d52   1135
+Identical to human-written patches  replace 1 line(s)
+-   int  j  =  4  *  n  -  1;  
++     int j = 4 * (n - 1);
+
+commons-math_6dd3724b   303
+Identical to human-written patches  replace 1 line(s)
+-   return  getCumPct((Comparable<?>)  v);  
++     return getPct((Comparable <?>) v);
+
+camel_3f70d612   447
+Identical to human-written patches  replace 1 line(s)
+-   done.set(false);  
++     done.set(true);
+
+commons-math_1352a70f   238
+Identical to human-written patches  add line(s)
+-   
++     clear();
+
+wicket_fd910746   173
+Identical to human-written patches  replace 2 line(s)
+-   if  (formComponent.isVisibleInHierarchy()  &&  formComponent.isValid()  &&  formComponent.isEnabledInHierarchy())  
++     if (formComponent.isVisibleInHierarchy() && formComponent.isEnabledInHierarchy())
+
+wicket_a382917f   352
+Identical to human-written patches  replace 1 line(s)
+-   return  get(calendar,  Calendar.HOUR);  
++     return get(calendar, Calendar.HOUR_OF_DAY);
+
+wicket_e1953357   388
+Identical to human-written patches  replace 1 line(s)
+-   handler.getPageParameters());  
++     page.getPageParameters());
+
+wicket_f1c0f263   487
+Identical to human-written patches  replace 1 line(s)
+-   int  dot2Count  =  countToken( ".. ",  path);  
++     int dot2Count = countToken( "/.. ", path);
+
+logging-log4j2_7bb1ad47   157
+Identical to human-written patches  replace 1 line(s)
+-   if  (throwable  ==  null  &&  params  !=  null  &&  params[params.length  -  1]  instanceof  Throwable)  {  
++     if (throwable == null && params!= null && params.length > 0 && params[params.length - 1] instanceof Throwable) {
+
+wicket_2624d2db   32
+Identical to human-written patches  replace 1 line(s)
+-   private  static  final  String  emailPattern  =   "[\\w\\.-\\\\+]+@[\\w\\.-]+ ";  
++     private static final String emailPattern = "[w.-+]+@[w.-]+ ";
+
+commons-math_a7363a2a   163
+Identical to human-written patches  replace 1 line(s)  
++     hull.add(point);
+
+accumulo_15e83709   165
+Identical to human-written patches  replace 1 line(s)
+-   log.warn( "Saw  (possibly)  transient  exception  communicating  with  ZooKeeper,  wil  retry ",  e);  
++     log.warn( "Saw (possibly) transient exception communicating with ZooKeeper, will retry ", e);
+
+logging-log4j2_411dad65   503
+Identical to human-written patches  replace 1 line(s)
+-   }  catch  (final  Exception  ignore)  {  
++     } catch (final Throwable ignore) {
+
+wicket_3d8c9d75   970
+Identical to human-written patches  replace 1 line(s)
+-   onInitialize();  
++     onInitialize();
+
+logging-log4j2_d8af1c93   110
+Identical to human-written patches  replace 1 line(s)
+-   var  =  var.substring(prefixPos);  
++     var = var.substring(prefixPos + 1);
+
+wicket_89184b79   262
+Identical to human-written patches  remove 5 line(s)
+-   if  (page  ==  null)  {  pageParameters  =  null;  }  
++     
+
+maven_ce6f0bfd   110
+Identical to human-written patches  add line(s)
+-   
++     if ( d.getVersion() == null ) { return null; }
+
+jackrabbit-oak_9772f5b2   130
+Identical to human-written patches  replace 1 line(s)
+-   nodeStore.backgroundRead(true);  
++     nodeStore.backgroundRead();
+
+commons-math_faf99727   21
+Identical to human-written patches  remove 1 line(s)
+-     
++     
+
+camel_cc192f87   455
+Identical to human-written patches  remove 3 line(s)
+-   if  (body  instanceof  InputStream)  {  return  new  StreamSource((InputStream)body);  }  
++     
+
+flink_3e233a38   107
+Identical to human-written patches  replace 1 line(s)
+-   state.setDefaultState(defaultState);  
++     state.setDefaultState(defaultState);
+
+accumulo_699b8bf0   61
+Identical to human-written patches  add line(s)
+-   
++     requestedShutdown = true;
+
+accumulo_0cf2ff72   340
+Identical to human-written patches  replace 1 line(s)
+-   Process  initProcess  =  exec(Initialize.class,   "--instance-name ",  config.getInstanceName(),   "--password ",  config.getRootPassword(),   "--username ",   "root ");  
++     Process initProcess = exec(Initialize.class, "--instance-name ", config.getInstanceName(), "--password ", config.getRootPassword());
+
+jackrabbit-oak_36e70bd7   268
+Identical to human-written patches  replace 1 line(s)
+-   revision++;  
++     revision = 0;
+
+wicket_6cefb9f8   66
+Identical to human-written patches  replace 1 line(s)
+-   if  (behavior.getStatelessHint(component))  
++     if (behavior.getStatelessHint(component) == false)
+
+jackrabbit-oak_d0f6715d   778
+Identical to human-written patches  replace 1 line(s)
+-   if  (!value.revision.equals(newest))  {  
++     if (isRevisionNewer(nodeStore, newest, value.revision)) {
+
+jackrabbit-oak_daf9a4ef   228
+Identical to human-written patches  replace 3 line(s)
+-   if  (hasPendingChanges())  {  branch.setRoot(rootTree.getNodeState());  }  
++     branch.setRoot(rootTree.getNodeState());
+
+jackrabbit-oak_b2ca8baa   167
+Identical to human-written patches  replace 1 line(s)
+-   count  =  count  /  size  /  i;  
++     count = count * size / i;
+
+flink_a402002d   749
+Identical to human-written patches  remove 6 line(s)
+-   if  (state  ==  JobStatus.FAILED)  {  if  (!transitionState(JobStatus.FAILED,  JobStatus.RESTARTING))  {  throw  new  IllegalStateException( "Execution  Graph  left  the  state  FAILED  while  trying  to  restart. ");  }  }    
++     
+
+commons-math_cedf0d27   183
+Identical to human-written patches  replace 1 line(s)
+-   return  FastMath.pow(2  *  FastMath.PI,  -dim  /  2)  *  
++     return FastMath.pow(2 * FastMath.PI, -0.5 * dim) *
+
+jackrabbit-oak_8159fc21   728
+Identical to human-written patches  replace 8 line(s)
+-   if  (x  instanceof  BooleanQuery)  {  BooleanQuery  bq  =  (BooleanQuery)  x;  for  (BooleanClause  c  :  bq.clauses())  {  q.add(c);  }  }  else  {  q.add(x,  MUST);  }  
++     q.add(x, MUST);
+
+jackrabbit-oak_f2740ce1   194
+Identical to human-written patches  replace 1 line(s)
+-   depth  =  PathUtils.getDepth(propertyName);  
++     depth = PathUtils.getDepth(pr.propertyName);
+
+wicket_beb9086d   244
+Identical to human-written patches  remove 1 line(s)
+-   url  =  getAbsoluteURL(url);  
++     
+
+jackrabbit-oak_06812d25   868
+Identical to human-written patches  remove 1 line(s)
+-   &&  pd.boost  !=  PropertyDefinition.DEFAULT_BOOST  
++     
+
+flink_a56aad74   62
+Identical to human-written patches  replace 1 line(s)
+-   private  boolean  isReleased;  
++     boolean isReleased;
+
+wicket_1858bc18   177
+Identical to human-written patches  remove 1 line(s)
+-   dontNeedEncoding.set('\'');  
++     
+
+commons-math_09fe956a   290
+Identical to human-written patches  replace 1 line(s)
+-   if  (data  !=  null  &&  data.length  >  1)  {  
++     if (data!= null && data.length > 0) {
+
+commons-math_3f645310   520
+Identical to human-written patches  replace 1 line(s)
+-   for  (int  i  =  0;  i  <  weights.length;  i++)  {  
++     for (int i = begin; i < begin + length; i++) {
+
+camel_1e54865c   1563
+Identical to human-written patches  remove 1 line(s)
+-   lifecycleStrategies.clear();  
++     
+
+jackrabbit-oak_57bd2dc5   1333
+Identical to human-written patches  remove 3 line(s)
+-   if  (revision.equalsIgnoreBranch(readRevision))  {  return  true;  }  
++     
+
+accumulo_2f0643a9   154
+Identical to human-written patches  replace 1 line(s)
+-   colq.set(currentDocID.getBytes(),  zeroIndex  +  1,  currentDocID.getLength()  -  zeroIndex  -  2);  
++     colq.set(currentDocID.getBytes(), zeroIndex + 1, currentDocID.getLength() - zeroIndex - 1);
+
+jackrabbit-oak_557eec4f   195
+Identical to human-written patches  replace 1 line(s)
+-   if  (filter.getPropertyRestrictions().isEmpty()  &&  filter.getSelector().getSelectorConstraints().isEmpty())  {  
++     if (filter.getPropertyRestrictions().isEmpty()) {
+
+commons-math_0596e314   466
+Identical to human-written patches  replace 1 line(s)
+-   if  (mean  <  0.0)  {  
++     if (mean <= 0.0) {
+
+camel_dd0f74c0   207
+Identical to human-written patches  remove 1 line(s)
+-   failures.set(0);  
++     
+
+camel_7c9326f4   82
+Identical to human-written patches  replace 1 line(s)
+-   private  boolean  allowStAX;  
++     private boolean allowStAX = true;
+
+jackrabbit-oak_5138a1e2   232
+Identical to human-written patches  replace 1 line(s)
+-   recent.clear();  
++     recent.clear();
+
+flink_8e3e2f8f   139
+Identical to human-written patches  replace 1 line(s)
+-   int  overallStateSize  =  0;  
++     long overallStateSize = 0;
+
+commons-math_f4a4464b   72
+Identical to human-written patches  replace 1 line(s)
+-   return  solve(min,  max);  
++     return solve(f, min, max);
+
+commons-math_ebc61de9   186
+Identical to human-written patches  remove 6 line(s)
+-   if  (x  ==  x1)  {  final  double  delta  =  FastMath.max(rtol  *  FastMath.abs(x1),  atol);  x0  =  0.5  *  (x0  +  x1  -  delta);  f0  =  computeObjectiveValue(x0);  }  
++     
+
+commons-math_ce126bdb   85
+Identical to human-written patches  replace 1 line(s)
+-   return  wrapped.nextInt();  
++     return wrapped.nextInt(n);
+
+jackrabbit-oak_8ed779dc   243
+Identical to human-written patches  replace 2 line(s)
+-   String  childName  =  getOakName(PathUtils.getName(relPath));  NodeDefinition  def  =  dp.getDefinition(parent.getTree(),  childName);  
++     NodeDefinition def = dp.getDefinition(parent.getTree(), oakName);
+
+jackrabbit-oak_94c6c575   338
+Identical to human-written patches  replace 1 line(s)
+-   return  nodeStore.reset(branch,  ancestor,  null).toString();  
++     return nodeStore.reset(branch, ancestor).toString();
+
+wicket_2d9ebf9a   325
+Identical to human-written patches  replace 1 line(s)
+-   int  firstDigits  =  Integer.parseInt(creditCardNumber.substring(0,  5));  
++     int firstDigits = Integer.parseInt(creditCardNumber.substring(0, 6));
+
+wicket_4f08e6f2   155
+Identical to human-written patches  replace 1 line(s)
+-   if  (encryptedUrl.getSegments().isEmpty()  &&  encryptedUrl.getQueryParameters().isEmpty())  
++     if (encryptedUrl.getSegments().isEmpty())
+
+wicket_8f7805f8   295
+Identical to human-written patches  remove 6 line(s)
+-   if  (pageParameters  !=  null)  {  storedPageInstance.getPageParameters().overwriteWith(pageParameters);  }    
++     
+
+commons-math_fb007815   204
+Identical to human-written patches  replace 1 line(s)
+-   int  swaps  =  0;  
++     long swaps = 0;
+
+jackrabbit-oak_74f22886   84
+Identical to human-written patches  replace 1 line(s)
+-   this(host,  port,  store,  false,  5000);  
++     this(host, port, store, false, 10000);
+
+commons-math_ebadb558   210
+Identical to human-written patches  replace 1 line(s)
+-   return  chromosomes.iterator();  
++     return getChromosomes().iterator();
+
+wicket_1485a856   800
+Identical to human-written patches  remove 3 line(s)
+-   final  Page  page  =  getPage();  String  hiddenFieldId  =  getHiddenFieldId();    
++     
+
+accumulo_b007b22e   166
+Identical to human-written patches  replace 1 line(s)
+-   if  (combiners.isEmpty()  ||  combiners.contains(workKey))  {  
++     if (combiners.contains(workKey)) {
+
+commons-math_b6bf8f41   175
+Identical to human-written patches  replace 1 line(s)
+-   int  sum  =  0;  
++     double sum = 0;
+
+commons-math_d270055e   114
+Identical to human-written patches  add line(s)
+-   
++     if (v1D == null) { return null; }
+
+jackrabbit-oak_86edbffb   28
+Identical to human-written patches  replace 1 line(s)
+-   Version  VERSION  =  Version.LUCENE_46;  
++     Version VERSION = Version.LUCENE_47;
+
+jackrabbit-oak_c2f5ca6c   217
+Identical to human-written patches  replace 1 line(s)
+-   String  name  =  PathUtils.getName(c.children.get((int)  i));  
++     String name = c.children.get((int) i);
+
+jackrabbit-oak_5286861d   414
+Identical to human-written patches  replace 1 line(s)
+-   return  getHeadRevision();  
++     return revisionId!= null? revisionId : getHeadRevision();
+
+logging-log4j2_3f1e0fdc   139
+Identical to human-written patches  replace 3 line(s)
+-   if  (priorEvents  ==  null  ||  priorEvents.length  ==  0)  {  return;   }  
++     
+

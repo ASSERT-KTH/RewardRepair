@@ -1,0 +1,252 @@
+Math_57   src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java:175
+Identical to human-written patches  replace line(s)
+-     int    sum    =    0;    
++     double sum = 0;
+
+Math_41   src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java:520
+Identical to human-written patches  replace line(s)
+-     for    (int    i    =    0;    i    <    weights.length;    i++)    {    
++     for (int i = begin; i < begin + length; i++) {
+
+Time_19   src/main/java/org/joda/time/DateTimeZone.java:900
+Identical to human-written patches  replace line(s)
+-     }    else    if    (offsetLocal    >    0)    {    
++     } else if (offsetLocal >= 0) {
+
+Math_30   src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java:173
+Identical to human-written patches  replace line(s)
+-     final    int    n1n2prod    =    n1    *    n2;    
++     final double n1n2prod = n1 * n2;
+
+Math_82   src/main/java/org/apache/commons/math/optimization/linear/SimplexSolver.java:82
+Identical to human-written patches  replace line(s)
+-     if    (MathUtils.compareTo(entry,    0,    epsilon)    >=    0)    {    
++     if (MathUtils.compareTo(entry, 0, epsilon) > 0) {
+
+Lang_29   src/main/java/org/apache/commons/lang3/SystemUtils.java:1672
+Identical to human-written patches  replace line(s)
+-     static    float    toJavaVersionInt(String    version)    {    
++     static int toJavaVersionInt(String version) {
+
+Math_59   src/main/java/org/apache/commons/math/util/FastMath.java:3482
+Identical to human-written patches  replace line(s)
+-     return    (a    <=    b)    ?    b    :    (Float.isNaN(a    +    b)    ?    Float.NaN    :    b);    
++     return (a < = b)? b : (Float.isNaN(a + b)? Float.NaN : a);
+
+Math_34   src/main/java/org/apache/commons/math3/genetics/ListPopulation.java:209
+Identical to human-written patches  replace line(s)
+-     return    chromosomes.iterator();    
++     return getChromosomes().iterator();
+
+Lang_45   src/java/org/apache/commons/lang/WordUtils.java:616
+Identical to human-written patches  add line(s)
+-        
++     if  (lower  >  str.length())  {  lower  =  str.length();  }
+
+Math_70   src/main/java/org/apache/commons/math/analysis/solvers/BisectionSolver.java:72
+Identical to human-written patches  replace line(s)
+-     return    solve(min,    max);    
++     return solve(f, min, max);
+
+Closure_101   src/com/google/javascript/jscomp/CommandLineRunner.java:433
+Identical to human-written patches  replace line(s)
+-     if    (flags.process_closure_primitives)    {    options.closurePass    =    true;    }    
++     options.closurePass = flags.process_closure_primitives;
+
+Chart_12   source/org/jfree/chart/plot/MultiplePiePlot.java:145
+Identical to human-written patches  replace line(s)
+-     this.dataset    =    dataset;    
++     setDataset(dataset);
+
+Lang_21   src/main/java/org/apache/commons/lang3/time/DateUtils.java:265
+Identical to human-written patches  replace line(s)
+-     cal1.get(Calendar.HOUR)    ==    cal2.get(Calendar.HOUR)    &&    
++     cal1.get(Calendar.HOUR_OF_DAY) == cal2.get(Calendar.HOUR_OF_DAY) &&
+
+Lang_59   src/java/org/apache/commons/lang/text/StrBuilder.java:884
+Identical to human-written patches  replace line(s)
+-     str.getChars(0,    strLen,    buffer,    size);    
++     str.getChars(0, width, buffer, size);
+
+Closure_73   src/com/google/javascript/jscomp/CodeGenerator.java:1045
+Identical to human-written patches  replace line(s)
+-     if    (c    >    0x1f    &&    c    <=    0x7f)    {    
++     if (c > 0x1f && c < 0x7f) {
+
+Math_85   src/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java:198
+Identical to human-written patches  replace line(s)
+-     if    (fa    *    fb    >=    0.0    )    {    
++     if (fa * fb > 0.0) {
+
+Closure_62   src/com/google/javascript/jscomp/LightweightMessageFormatter.java:98
+Identical to human-written patches  replace line(s)
+-     &&    0    <=    charno    &&    charno    <    sourceExcerpt.length())    {    
++     && 0 < = charno && charno < = sourceExcerpt.length()) {
+
+Chart_24   source/org/jfree/chart/renderer/GrayPaintScale.java:126
+Identical to human-written patches  replace line(s)
+-     int    g    =    (int)    ((value    -    this.lowerBound)    /    (this.upperBound    
++     int g = (int) ((v - this.lowerBound) / (this.upperBound
+
+Closure_86   src/com/google/javascript/jscomp/NodeUtil.java:2465
+Identical to human-written patches  replace line(s)
+-     return    true;    
++     return false;
+
+Closure_70   src/com/google/javascript/jscomp/TypedScopeCreator.java:1745
+Identical to human-written patches  replace line(s)
+-     jsDocParameter.getJSType(),    true);    
++     jsDocParameter.getJSType(), false);
+
+Closure_18   src/com/google/javascript/jscomp/Compiler.java:1288
+Identical to human-written patches  replace line(s)
+-     if    (options.dependencyOptions.needsManagement()    &&    options.closurePass)    {    
++     if (options.dependencyOptions.needsManagement()) {
+
+Chart_11   source/org/jfree/chart/util/ShapeUtilities.java:275
+Identical to human-written patches  replace line(s)
+-     PathIterator    iterator2    =    p1.getPathIterator(null);    
++     PathIterator iterator2 = p2.getPathIterator(null);
+
+Math_11   src/main/java/org/apache/commons/math3/distribution/MultivariateNormalDistribution.java:183
+Identical to human-written patches  replace line(s)
+-     return    FastMath.pow(2    *    FastMath.PI,    -dim    /    2)    *    
++     return FastMath.pow(2 * FastMath.PI, -0.5 * dim) *
+
+Lang_6   src/main/java/org/apache/commons/lang3/text/translate/CharSequenceTranslator.java:95
+Identical to human-written patches  replace line(s)
+-     pos    +=    Character.charCount(Character.codePointAt(input,    pos));    
++     pos += Character.charCount(Character.codePointAt(input, pt));
+
+Closure_31   src/com/google/javascript/jscomp/Compiler.java:1285
+Identical to human-written patches  replace line(s)
+-     !options.skipAllPasses    &&    
++     
+
+Lang_33   src/main/java/org/apache/commons/lang3/ClassUtils.java:910
+Identical to human-written patches  replace line(s)
+-     classes[i]    =    array[i].getClass();    
++     classes[i] = array[i] == null? null : array[i].getClass();
+
+Mockito_26   src/org/mockito/internal/util/Primitives.java:66
+Identical to human-written patches  replace line(s)
+-     primitiveValues.put(double.class,    0);    
++     primitiveValues.put(double.class, 0D);
+
+Math_33   src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java:338
+Identical to human-written patches  replace line(s)
+-     if    (Precision.compareTo(entry,    0d,    maxUlps)    >    0)    {    
++     if (Precision.compareTo(entry, 0d, epsilon) > 0) {
+
+Math_75   src/main/java/org/apache/commons/math/stat/Frequency.java:303
+Identical to human-written patches  replace line(s)
+-     return    getCumPct((Comparable<?>)    v);    
++     return getPct((Comparable <?>) v);
+
+Math_94   src/java/org/apache/commons/math/util/MathUtils.java:412
+Identical to human-written patches  replace line(s)
+-     if    (u    *    v    ==    0)    {    
++     if ((u == 0) || (v == 0)) {
+
+Math_80   src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java:1135
+Identical to human-written patches  replace line(s)
+-     int    j    =    4    *    n    -    1;    
++     int j = 4 * (n - 1);
+
+Mockito_5   src/org/mockito/internal/verification/VerificationOverTimeImpl.java:91
+Identical to human-written patches  replace line(s)
+-     catch    (org.mockito.exceptions.verification.junit.ArgumentsAreDifferent    e)    {    
++     catch (AssertionError e) {
+
+Closure_11   src/com/google/javascript/jscomp/TypeCheck.java:1314
+Identical to human-written patches  replace line(s)
+-     }    else    if    (n.getJSType()    !=    null    &&    parent.isAssign())    {    return;    
++     
+
+Chart_1   source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java:1797
+Identical to human-written patches  replace line(s)
+-     if    (dataset    !=    null)    {    
++     if (dataset == null) {
+
+Closure_1   src/com/google/javascript/jscomp/RemoveUnusedVars.java:379
+Identical to human-written patches  add line(s)
+-     
++     if (!removeGlobals) { return; }
+
+Math_50   src/main/java/org/apache/commons/math/analysis/solvers/BaseSecantSolver.java:187
+Identical to human-written patches  replace line(s)
+-     if    (x    ==    x1)    {    x0    =    0.5    *    (x0    +    x1    -    FastMath.max(rtol    *    FastMath.abs(x1),    atol));    f0    =    computeObjectiveValue(x0);    }    
++     
+
+Closure_126   src/com/google/javascript/jscomp/MinimizeExitPoints.java:141
+Identical to human-written patches  replace line(s)
+-     if    (NodeUtil.hasFinally(n))    {    Node    finallyBlock    =    n.getLastChild();    tryMinimizeExits(finallyBlock,    exitType,    labelName);    }    
++     
+
+Closure_92   src/com/google/javascript/jscomp/ProcessClosurePrimitives.java:789
+Identical to human-written patches  replace line(s)
+-     int    indexOfDot    =    namespace.indexOf('.');    
++     int indexOfDot = namespace.lastIndexOf('.');
+
+Mockito_38  src/org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool.java: 48
+Semantical equivalent to human-written patches  replace line(s)
+-     return  StringDescription.toString(m).equals(arg.toString());  
++     if  (arg  ==  null)  return  false;  return  StringDescription.toString(m).equals(arg.toString());
+
+developer patch: 
++ return  StringDescription.toString(m).equals(arg  ==  null?   "null   "  :  arg.toString()); 
+
+
+Chart_9 source/org/jfree/data/time/TimeSeries.java:944
+Semantical equivalent to human-written patches  replace line(s)
+-  if (endIndex < 0) {
++  if  (endIndex  -  startIndex  <  0)  {
+or
++  if  (endIndex  <  startIndex)  {
+
+developer patch:
++  if  ((endIndex  <  0)  ||  (endIndex  <  startIndex))  {
+
+Same correct patch as SequenceR: https://github.com/KTH/sequencer/tree/master/results/Defects4J_patches/Chart_9/15_correct 
+
+
+Closure_38 src/com/google/javascript/jscomp/CodeConsumer.java:245
+Semantical equivalent to human-written patches  replace line(s)
+-  if  (x  <   0  &&  prev  ==  '-')  {
++  if  (x  <=  0  &&  prev  ==  '-')  {
+developer patch:
++  if  ((x  <  0  ||  negativeZero)  &&  prev  ==  '-')  {
+Same correct patch as CURE: https://github.com/lin-tan/CURE/blob/master/Bugs_CURE_fixed/Defects4J/Closure_38.txt
+
+
+Math_104 src/java/org/apache/commons/math/special/Gamma.java:37
+Semantical equivalent to human-written patches  replace line(s)
+-   private static final double DEFAULT_EPSILON = 10e-9;
++   static  final  double  DEFAULT_EPSILON  =  10e-15;
+developer patch:
+-   private static final double DEFAULT_EPSILON = 10e-15;
+
+
+Lang_57 src/java/org/apache/commons/lang/LocaleUtils.java:223
+Semantical equivalent to human-written patches  replace line(s)
+- return cAvailableLocaleSet.contains(locale);
++ return  cAvailableLocaleList.contains(locale);
+developer patch:
++ return  availableLocaleList().contains(locale);
+Same correct patch as CURE:  https://github.com/lin-tan/CURE/blob/master/Bugs_CURE_fixed/Defects4J/Lang_57.txt
+
+
+Math_105 src/java/org/apache/commons/math/stat/regression/SimpleRegression.java:264
+Semantical equivalent to human-written patches  replace line(s)
+-  return sumYY - sumXY * sumXY / sumXX;
++  return  Math.max(0,  sumYY  -  sumXY  *  sumXY  /  sumXX);
+developer patch:
++  return  Math.max(0d,  sumYY  -  sumXY  *  sumXY  /  sumXX);
+
+Math_2 src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java:268
+Semantical equivalent to human-written patches  replace line(s)
+- return (double) (getSampleSize() * getNumberOfSuccesses()) / (double) getPopulationSize();
++ return  (double)  getSampleSize()  *  getNumberOfSuccesses()  /  (double)  getPopulationSize(); 
+developer patch:
++  return  (double)  getSampleSize()  *  (getNumberOfSuccesses()  /  (double)  getPopulationSize()); 
+Same correct patch as CURE:  https://github.com/lin-tan/CURE/blob/master/Bugs_CURE_fixed/Defects4J/Math_2.txt

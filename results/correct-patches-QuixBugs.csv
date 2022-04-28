@@ -1,0 +1,101 @@
+LONGEST_COMMON_SUBSEQUENCE   /src/main/java/java_programs/LONGEST_COMMON_SUBSEQUENCE.java : 18
+Identical to human-written patches  
+-  return a.charAt(0) + longest_common_subsequence(a.substring(1), b); 
++     return a.charAt(0) + longest_common_subsequence(a.substring(1), b.substring(1));
+
+NEXT_PERMUTATION   /src/main/java/java_programs/NEXT_PERMUTATION.java : 19
+Identical to human-written patches  
+-  if (perm.get(j) < perm.get(i)) { 
++     if (perm.get(j) > perm.get(i)) {
+
+HANOI   /src/main/java/java_programs/HANOI.java :  27
+Identical to human-written patches  
+-  steps.add(new Pair<Integer,Integer>(start, helper)); 
++     steps.add(new Pair < Integer,Integer>(start, end));
+
+RPN_EVAL   /src/main/java/java_programs/RPN_EVAL.java : 34
+Identical to human-written patches  
+-  c = bin_op.apply(a,b); 
++     c = bin_op.apply(b,a);
+
+WRAP   /src/main/java/java_programs/WRAP.java : 31
+Identical to human-written patches  
+-  
++     lines.add(text);
+
+BITCOUNT   /src/main/java/java_programs/BITCOUNT.java : 15
+Identical to human-written patches  
+-  n = (n ^ (n - 1)); 
++     n = (n & (n - 1));
+
+FIND_FIRST_IN_SORTED   /src/main/java/java_programs/FIND_FIRST_IN_SORTED.java : 19
+Identical to human-written patches  
+-  while (lo  <= hi) { 
++     while (lo < hi) {
+
+MERGESORT   /src/main/java/java_programs/MERGESORT.java : 38
+Identical to human-written patches  
+-  if (arr.size() == 0) { 
++     if (arr.size() < = 1) {
+
+FIND_IN_SORTED   /src/main/java/java_programs/FIND_IN_SORTED.java : 20
+Identical to human-written patches  
+-  return binsearch(arr, x, mid, end); 
++     return binsearch(arr, x, mid + 1, end);
+
+LEVENSHTEIN   /src/main/java/java_programs/LEVENSHTEIN.java : 17
+Identical to human-written patches  
+-  return 1 + levenshtein(source.substring(1), target.substring(1)); 
++     return levenshtein(source.substring(1), target.substring(1));
+
+KNAPSACK   /src/main/java/java_programs/KNAPSACK.java : 30
+Identical to human-written patches  
+-  else if (weight < j) { 
++     else if (weight < = j) {
+
+BUCKETSORT   /src/main/java/java_programs/BUCKETSORT.java : 22
+Identical to human-written patches  
+-  for (Integer count : arr) { 
++     for (Integer count : counts) {
+
+REVERSE_LINKED_LIST   /src/main/java/java_programs/REVERSE_LINKED_LIST.java : 20
+Identical to human-written patches  
+-  
++     prevnode = node;
+
+TOPOLOGICAL_ORDERING   /src/main/java/java_programs/TOPOLOGICAL_ORDERING.java : 17
+Identical to human-written patches  
+-  if (orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode)) { 
++     if (orderedNodes.containsAll(nextNode.getPredecessors()) &&!orderedNodes.contains(nextNode)) {
+
+QUICKSORT   /src/main/java/java_programs/QUICKSORT.java : 26
+Identical to human-written patches  
+-  } else if (x > pivot) { 
++     } else if (x >= pivot) {
+
+NEXT_PALINDROME   /src/main/java/java_programs/NEXT_PALINDROME.java : 35
+Identical to human-written patches  
+-  otherwise.addAll(Collections.nCopies(digit_list.length, 0)); 
++     otherwise.addAll(Collections.nCopies(digit_list.length - 1, 0));
+
+GCD   /src/main/java/java_programs/GCD.java : 19
+Identical to human-written patches  
+-  return gcd(a % b, b);  
++     return gcd(b, a % b);
+
+PASCAL   /src/main/java/java_programs/PASCAL.java : 22
+Identical to human-written patches  
+-  for (int c=0; c<r; c++) { 
++     for (int c=0; c < r + 1; c++) {
+
+SIEVE   /src/main/java/java_programs/SIEVE.java : 41
+Identical to human-written patches  
+-  if (any(list_comp(n, primes))) { 
++     if (all(list_comp(n, primes))) {
+
+DETECT_CYCLE /src/main/java/java_programs/DETECT_CYCLE.java : 18
+- if (hare.getSuccessor() == null)
++ if  (hare==null  ||  hare.getSuccessor()  ==  null)
+semantically equivalent to developer patch:
+developer patch:
++ if  (null  ==  hare  ||hare.getSuccessor()  ==  null)

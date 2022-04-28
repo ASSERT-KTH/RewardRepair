@@ -1,0 +1,194 @@
+Math_57
+FL: org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer,175,0.408
+Identical to human-written patches  replace line(s)
+-     int    sum    =    0;    
++     double sum = 0;
+
+Math_41
+FL: org.apache.commons.math.stat.descriptive.moment.Variance,520,0.408
+Identical to human-written patches  replace line(s)
+-     for    (int    i    =    0;    i    <    weights.length;    i++)    {    
++     for (int i = begin; i < begin + length; i++) {
+
+Time_19
+FL: org.joda.time.DateTimeZone,900,0.121
+Identical to human-written patches  replace line(s)
+-     }    else    if    (offsetLocal    >    0)    {    
++     } else if (offsetLocal >= 0) {
+
+Math_82
+FL: org.apache.commons.math.optimization.linear.SimplexSolver,82,0.267
+Identical to human-written patches  replace line(s)
+-     if    (MathUtils.compareTo(entry,    0,    epsilon)    >=    0)    {    
++     if (MathUtils.compareTo(entry, 0, epsilon) > 0) {
+
+Math_59
+FL: org.apache.commons.math.util.FastMath,3482,1
+Identical to human-written patches  replace line(s)
+-     return    (a    <=    b)    ?    b    :    (Float.isNaN(a    +    b)    ?    Float.NaN    :    b);   
++     return (a < = b)? b : (Float.isNaN(a + b)? Float.NaN : a);
+
+Math_34
+FL: org.apache.commons.math3.genetics.ListPopulation,209,0.707
+Identical to human-written patches  replace line(s)
+-     return    chromosomes.iterator();    
++     return getChromosomes().iterator();
+
+Lang_45
+FL: org.apache.commons.lang.WordUtils,618,1
+Identical to human-written patches  add line(s)
+-        
++     if  (lower  >  str.length())  {  lower  =  str.length();  }
+
+Math_70
+FL: org.apache.commons.math.analysis.solvers.BisectionSolver,72,1
+Identical to human-written patches  replace line(s)
+-     return    solve(min,    max);    
++     return solve(f, min, max);
+
+Lang_59
+FL: org.apache.commons.lang.text.StrBuilder,884,0.408
+Identical to human-written patches  replace line(s)
+-     str.getChars(0,    strLen,    buffer,    size);    
++     str.getChars(0, width, buffer, size);
+
+Closure_73
+FL: com.google.javascript.jscomp.CodeGenerator,1045,0.047
+Identical to human-written patches  replace line(s)
+-     if    (c    >    0x1f    &&    c    <=    0x7f)    {    
++     if (c > 0x1f && c < 0x7f) {
+
+Math_85
+FL: org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils,198,0.243
+Identical to human-written patches  replace line(s)
+-     if    (fa    *    fb    >=    0.0    )    {    
++     if (fa * fb > 0.0) {
+
+Closure_62
+FL: com.google.javascript.jscomp.LightweightMessageFormatter,97,0.447
+Identical to human-written patches  replace line(s)
+-     if (excerpt.equals(LINE) &&    0    <=    charno    &&    charno    <    sourceExcerpt.length())    {    
++     if (excerpt.equals(LINE) && 0 < = charno && charno < = sourceExcerpt.length()) {
+
+Chart_24
+FL: org.jfree.chart.renderer.GrayPaintScale,126,1
+Identical to human-written patches  replace line(s)
+-     int    g    =    (int)    ((value    -    this.lowerBound)    /    (this.upperBound    
++     int g = (int) ((v - this.lowerBound) / (this.upperBound
+
+Closure_70
+FL: com.google.javascript.jscomp.TypedScopeCreator,1744,0.05
+Identical to human-written patches  replace line(s)
+-      defineSlot(astParameter, functionNode, jsDocParameter.getJSType(),    true);    
++      defineSlot(astParameter, functionNode, jsDocParameter.getJSType(), false);
+
+Closure_18
+FL: com.google.javascript.jscomp.Compiler,1288,0.081
+Identical to human-written patches  replace line(s)
+-     if    (options.dependencyOptions.needsManagement()    &&    options.closurePass)    {    
++     if (options.dependencyOptions.needsManagement()) {
+
+Chart_11
+FL: org.jfree.chart.util.ShapeUtilities,275,0.25
+Identical to human-written patches  replace line(s)
+-     PathIterator    iterator2    =    p1.getPathIterator(null);    
++     PathIterator iterator2 = p2.getPathIterator(null);
+
+Math_11
+FL: org.apache.commons.math3.distribution.MultivariateNormalDistribution,183,0.408
+Identical to human-written patches  replace line(s)
+-     return    FastMath.pow(2    *    FastMath.PI,    -dim    /    2)    *    
++     return FastMath.pow(2 * FastMath.PI, -0.5 * dim) *
+
+Math_33
+FL: org.apache.commons.math3.optimization.linear.SimplexTableau,338,0.167
+Identical to human-written patches  replace line(s)
+-     if    (Precision.compareTo(entry,    0d,    maxUlps)    >    0)    {    
++     if (Precision.compareTo(entry, 0d, epsilon) > 0) {
+
+Math_75
+FL: org.apache.commons.math.stat.Frequency,303,1
+Identical to human-written patches  replace line(s)
+-     return    getCumPct((Comparable<?>)    v);    
++     return getPct((Comparable <?>) v);
+
+Math_94 
+FL: org.apache.commons.math.util.MathUtils,413,0.149
+Identical to human-written patches  replace line(s)
+-     if    (u    *    v    ==    0)    {    
++     if ((u == 0) || (v == 0)) {
+
+Math_80
+FL: org.apache.commons.math.linear.EigenDecompositionImpl,1135,1
+Identical to human-written patches  replace line(s)
+-     int    j    =    4    *    n    -    1;    
++     int j = 4 * (n - 1);
+
+
+Chart_1
+FL: org.jfree.chart.renderer.category.AbstractCategoryItemRenderer,1797,0.162
+Identical to human-written patches  replace line(s)
+-     if    (dataset    !=    null)    {    
++     if (dataset == null) {
+
+Closure_1
+FL: com.google.javascript.jscomp.RemoveUnusedVars,380,0.254
+Identical to human-written patches  add line(s)
+-     
++     if (!removeGlobals) { return; }
+
+Math_50
+FL: org.apache.commons.math.analysis.solvers.BaseSecantSolver,188,0.707
+org.apache.commons.math.analysis.solvers.BaseSecantSolver,189,0.707
+Identical to human-written patches  replace line(s)
+-         x0    =    0.5    *    (x0    +    x1    -    FastMath.max(rtol    *    FastMath.abs(x1),    atol));   f0 = computeObjectiveValue(x0);   
++     
+
+Closure_126 
+FL: com.google.javascript.jscomp.MinimizeExitPoints,142,0.707
+com.google.javascript.jscomp.MinimizeExitPoints,143,0.707
+Identical to human-written patches  replace line(s)
+-     Node    finallyBlock    =    n.getLastChild();    tryMinimizeExits(finallyBlock,    exitType,    labelName);        
++  
+
+
+Chart_9 
+FL: org.jfree.data.time.TimeSeries,944,0.707
+Semantical equivalent to human-written patches  replace line(s)
+-  if (endIndex < 0) {
++  if  (endIndex  -  startIndex  <  0)  {
+or
++  if  (endIndex  <  startIndex)  {
+
+developer patch:
++  if  ((endIndex  <  0)  ||  (endIndex  <  startIndex))  {
+
+Same correct patch as SequenceR: https://github.com/KTH/sequencer/tree/master/results/Defects4J_patches/Chart_9/15_correct 
+
+Closure_38
+FL: com.google.javascript.jscomp.CodeConsumer,245,0.025
+Semantical equivalent to human-written patches  replace line(s)
+-  if  (x  <   0  &&  prev  ==  '-')  {
++  if  (x  <=  0  &&  prev  ==  '-')  {
+developer patch:
++  if  ((x  <  0  ||  negativeZero)  &&  prev  ==  '-')  {
+Same correct patch as CURE: https://github.com/lin-tan/CURE/blob/master/Bugs_CURE_fixed/Defects4J/Closure_38.txt
+
+Lang_57 
+FL: org.apache.commons.lang.LocaleUtils,223,1
+Semantical equivalent to human-written patches  replace line(s)
+- return cAvailableLocaleSet.contains(locale);
++ return  cAvailableLocaleList.contains(locale);
+developer patch:
++ return  availableLocaleList().contains(locale);
+Same correct patch as CURE:  https://github.com/lin-tan/CURE/blob/master/Bugs_CURE_fixed/Defects4J/Lang_57.txt
+
+Math_105
+FL: org.apache.commons.math.stat.regression.SimpleRegression,264,0.333
+Semantical equivalent to human-written patches  replace line(s)
+-  return sumYY - sumXY * sumXY / sumXX;
++  return  Math.max(0,  sumYY  -  sumXY  *  sumXY  /  sumXX);
+developer patch:
++  return  Math.max(0d,  sumYY  -  sumXY  *  sumXY  /  sumXX);
+
+

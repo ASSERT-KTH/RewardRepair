@@ -1,0 +1,246 @@
+Closure_168   src/com/google/javascript/jscomp/TypedScopeCreator.java:1996
+Identical to human-written patches  replace 1 line(s)
+-  if (t.getScopeDepth() <= 2) { 
++  if (t.getScopeDepth() < = 1) {
+
+JxPath_16 src/java/org/apache/commons/jxpath/ri/model/jdom/JDOMNodePointer.java:391
+Identical to human-written patches  replace 1 line(s)
+-   return  (node  instanceof  Element)  ||  (node  instanceof  Document);  
++     return true;
+
+JacksonDatabind_57   src/main/java/com/fasterxml/jackson/databind/ObjectReader.java:1441
+Identical to human-written patches  replace 1 line(s)
+-   return  _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),  
++   return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src, offset, length),
+
+Jsoup_52   src/main/java/org/jsoup/helper/DataUtil.java:112
+Identical to human-written patches  remove 6 line(s)
+-   try  {  if  (Charset.isSupported(meta.attr( "charset ")))  {  }  }  catch  (IllegalCharsetNameException  e)  {  foundCharset  =  null;  }  
++     
+
+Jsoup_57   src/main/java/org/jsoup/nodes/Attributes.java:125
+Identical to human-written patches  replace 1 line(s)
+-   attributes.remove(attrKey);  
++   it.remove();
+
+JacksonDatabind_27   src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java:794
+Identical to human-written patches  replace 1 line(s)
+-   if  (ext.handlePropertyValue(p,  ctxt,  propName,  buffer))  {  
++     if (ext.handlePropertyValue(p, ctxt, propName, null)) {
+
+Jsoup_64   src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java:1489
+Identical to human-written patches  replace 1 line(s)
+-   tb.insert(startTag); 
++ 
+src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java:1493 
++     tb.insert(startTag);
+
+JacksonCore_5   src/main/java/com/fasterxml/jackson/core/JsonPointer.java:193
+Identical to human-written patches  replace 1 line(s)
+-   char  c  =  str.charAt(i++);  
++     char c = str.charAt(i);
+
+Csv_11   src/main/java/org/apache/commons/csv/CSVParser.java:384
+Identical to human-written patches  replace 1 line(s)
+-   final  boolean  emptyHeader  =  header.trim().isEmpty();  
++     final boolean emptyHeader = header == null || header.trim().isEmpty();
+
+Codec_1   src/java/org/apache/commons/codec/language/Caverphone,org/apache/commons/codec/language/Metaphone,org/apache/commons/codec/language/SoundexUtils.java
+Identical to human-written patches  replace 1 line(s)
+-   return  txt.toUpperCase()  ;  
++     return txt.toUpperCase(java.util.Locale.ENGLISH) ;
+
+src/java/org/apache/commons/codec/language/Caverphone:59
+-	txt = txt.toLowerCase() ;
++      txt  =  txt.toLowerCase(Locale.ENGLISH)  ;
+
+src/java/org/apache/commons/codec/language/SoundexUtils.java:53
+-return str.toUpperCase();
++return  str.toUpperCase(java.util.Locale.ENGLISH);   
+
+
+JacksonCore_25   src/main/java/com/fasterxml/jackson/core/json/ReaderBasedJsonParser.java:1963
+Identical to human-written patches  replace 1 line(s)
+-   if  (i  <=  maxCode)  {  
++     if (i < maxCode) {
+
+Cli_25   src/java/org/apache/commons/cli/HelpFormatter.java:825
+Identical to human-written patches  replace 1 line(s)
+-   nextLineTabStop  =  width  -  1;  
++     nextLineTabStop = 1;
+
+JacksonDatabind_102   src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java:67
+Identical to human-written patches  remove 3 line(s)
+-   if  (property  ==  null)  {  return  this;  }  
++     
+
+Csv_9   src/main/java/org/apache/commons/csv/CSVRecord.java:180
+Identical to human-written patches  add line(s)
+-   
++     if (mapping == null) { return map; }
+
+Codec_8   src/java/org/apache/commons/codec/binary/Base64InputStream.java:169
+Identical to human-written patches  remove 3 line(s)
+-   if  (c  >  0  &&  b.length  ==  len)  {  base64.setInitialBuffer(b,  offset,  len);  }  
++     
+
+JxPath_10   src/java/org/apache/commons/jxpath/ri/compiler/CoreOperationRelationalExpression.java:42
+Identical to human-written patches  replace 1 line(s)
+-   return  compute(args[0].computeValue(context),  args[1].computeValue(context))  
++     return compute(args[0].compute(context), args[1].compute(context))
+
+Cli_8   src/java/org/apache/commons/cli/HelpFormatter.java:812
+Identical to human-written patches  replace 1 line(s)
+-   pos  =  findWrapPos(text,  width,  nextLineTabStop);  
++     pos = findWrapPos(text, width, 0);
+
+Compress_14   src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java:65
+Identical to human-written patches  replace 8 line(s)
+-   boolean  allNUL  =  true;  for  (int  i  =  start;  i  <  end;  i++){  if  (buffer[i]  !=  0){  allNUL  =  false;  break;  }  }  if  (allNUL)  {  
++     if (buffer[start] == 0) {
+
+
+JacksonDatabind_49   src/main/java/com/fasterxml/jackson/databind/ser/impl/WritableObjectId.java:50
+Identical to human-written patches  add line(s)
+-   
++     if (id == null) { }
+
+Jsoup_24   src/main/java/org/jsoup/parser/TokeniserState.java:558
+Identical to human-written patches  remove 1 line(s)
+-   r.advance();  
++     
+
+Cli_5   src/java/org/apache/commons/cli/Util.java:36
+Identical to human-written patches  add line(s)
+-   
++     if (str == null) { return null; }
+
+JacksonDatabind_17   src/main/java/com/fasterxml/jackson/databind/ObjectMapper.java:180
+Identical to human-written patches  replace 1 line(s)
+-   ||  TreeNode.class.isAssignableFrom(t.getRawClass()));  
++     &&!TreeNode.class.isAssignableFrom(t.getRawClass()));
+
+Jsoup_43   src/main/java/org/jsoup/nodes/Element.java:574
+Identical to human-written patches  replace 1 line(s)
+-   if  (element.equals(search))  
++     if (element == search)
+
+Codec_7   src/java/org/apache/commons/codec/binary/Base64.java:670
+Identical to human-written patches  replace 1 line(s)
+-   return  StringUtils.newStringUtf8(encodeBase64(binaryData,  true));  
++     return StringUtils.newStringUtf8(encodeBase64(binaryData, false));
+
+JxPath_5   src/java/org/apache/commons/jxpath/ri/model/NodePointer.java:665
+Identical to human-written patches  replace 3 line(s)
+-   throw  new  JXPathException(   "Cannot  compare  pointers  that  do  not  belong  to  the  same  tree:  ' "  +  p1  +   "'  and  ' "  +  p2  +   "' ");  
++     return 0;
+
+Jsoup_55   src/main/java/org/jsoup/parser/TokeniserState.java:883
+Identical to human-written patches  add line(s)
+-   
++     r.unconsume();
+
+Codec_2   src/java/org/apache/commons/codec/binary/Base64.java:446
+Identical to human-written patches  replace 1 line(s)
+-   if  (lineLength  >  0)  {  
++     if (lineLength > 0 && pos > 0) {
+
+Codec_17   src/main/java/org/apache/commons/codec/binary/StringUtils.java:339
+Identical to human-written patches  replace 1 line(s)
+-   return  new  String(bytes,  Charsets.ISO_8859_1);  
++     return newString(bytes, Charsets.ISO_8859_1);
+
+Cli_27   src/java/org/apache/commons/cli/OptionGroup.java:98
+Identical to human-written patches  replace 2 line(s)
+-   if  (selected  ==  null  ||  selected.equals(option.getOpt()))  selected  =  option.getOpt();  
++     if (selected == null || selected.equals(option.getKey())) selected = option.getKey();
+
+Codec_3   src/java/org/apache/commons/codec/language/DoubleMetaphone.java:455
+Identical to human-written patches  replace 1 line(s)
+-   }  else  if  (contains(value,  index  +  1,  4,   "IER "))  {  
++     } else if (contains(value, index + 1, 3, "IER ")) {
+
+Cli_28   src/java/org/apache/commons/cli/Parser.java:290
+Identical to human-written patches  replace 1 line(s)
+-   break;  
++     continue;
+
+Jsoup_49   src/main/java/org/jsoup/nodes/Node.java:445
+Identical to human-written patches  add  line(s)
+-    
++    reindexChildren(index);
+src/main/java/org/jsoup/nodes/Node.java:447
+-  reindexChildren(index);
++ 
+
+Compress_27   src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java:133
+Identical to human-written patches  remove 4 line(s)
+-   if  (start  ==  end)  {  throw  new  IllegalArgumentException(  exceptionMessage(buffer,  offset,  length,  start,  trailer));  }  
++     
+
+JacksonDatabind_13   src/main/java/com/fasterxml/jackson/databind/deser/impl/ObjectIdValueProperty.java:87
+Identical to human-written patches  add line(s)
+-   
++     if (id == null) { return null; }
+
+JacksonDatabind_99   src/main/java/com/fasterxml/jackson/databind/type/ReferenceType.java:169
+Identical to human-written patches  add line(s)
+-   
++     sb.append('>');
+
+Cli_17   src/java/org/apache/commons/cli/PosixParser.java:303
+Identical to human-written patches  add line(s)
+-   
++     break;
+
+JxPath_1   src/java/org/apache/commons/jxpath/ri/model/dom/DOMNodePointer:376
+Identical to human-written patches  replace 1 line(s)
+-   return  node  instanceof  Element;  
++     return (node instanceof Element) || (node instanceof Document);
+
+Compress_31   src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java:135
+Identical to human-written patches  remove 3 line(s)
+-   if  (currentByte  ==  0)  {  break;  }  
++     
+
+Gson_6   gson/src/main/java/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.java:67
+Identical to human-written patches  add line(s)
+-   
++     if (typeAdapter!= null) 
+
+Compress_19   src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java:259
+Identical to human-written patches  replace 1 line(s)
+-   if  (rawCentralDirectoryData.length  !=  expectedLength)  {  
++     if (rawCentralDirectoryData.length < expectedLength) {
+
+JacksonDatabind_24   src/main/java/com/fasterxml/jackson/databind/cfg/BaseSettings.java:234
+Identical to human-written patches  replace 2 line(s)
+-   TimeZone  tz  =  (df  ==  null)  ?  _timeZone  :  df.getTimeZone();  tz,  _defaultBase64);  
++     _timeZone, _defaultBase64);
+
+JacksonDatabind_83 src/main/java/com/fasterxml/jackson/databind/deser/std/FromStringDeserializer.java:119
+Identical to human-written patches  remove 1 line(s)
+-   if  (_deserialize(text,  ctxt)  !=  null)  {  
++ 
+
+Collections_26 src/main/java/org/apache/commons/collections4/keyvalue/MultiKey.java:277
+Semantical equivalent to human-written patches  add line(s)   
+- private Object readResolve() {
++ Object  readResolve()  {
+developer patch:
++ protected  Object  readResolve()  {
+
+JacksonDatabind_46  src/main/java/com/fasterxml/jackson/databind/type/ReferenceType.java 156
+Semantical equivalent to human-written patches  add line(s)   
++     sb.append('>');
+
+developer patch:
+-     sb.append(';');
++     sb.append(">;");
+
+Jsoup_86 src/main/java/org/jsoup/nodes/Comment.java 78
+Semantical equivalent to human-written patches  replace 1 line(s)   
+- if (doc.childNodeSize() > 0) {
++ if  (!doc.children().isEmpty())  {
+developer patch:
++ if  (doc.children().size()  >  0)  {

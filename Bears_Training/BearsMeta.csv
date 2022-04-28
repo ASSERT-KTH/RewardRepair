@@ -1,0 +1,251 @@
+1	Bears-227	core/src/main/java/feign/querymap/FieldQueryMapEncoder.java	20	
+2	Bears-201	src/main/java/com/zaxxer/hikari/pool/PoolBase.java	523	replace-1
+3	Bears-155	oak-core/src/main/java/org/apache/jackrabbit/oak/plugins/document/DocumentNodeStore.java	672	
+4	Bears-129	src/org/traccar/protocol/Gl200TextProtocolDecoder.java	68	replace-1
+5	Bears-116	src/org/traccar/protocol/SanavProtocolDecoder.java	41	
+6	Bears-111	src/org/traccar/protocol/Tlt2hProtocolDecoder.java	4	
+7	Bears-118	src/org/traccar/FilterHandler.java	87	
+8	Bears-127	src/org/traccar/protocol/EelinkProtocolDecoder.java	163	replace-1
+9	Bears-120	src/org/traccar/protocol/AplicomFrameDecoder.java	29	add
+10	Bears-121	src/org/traccar/BaseProtocolDecoder.java	109	replace-1
+11	Bears-119	src/org/traccar/protocol/H02ProtocolDecoder.java	380	
+12	Bears-126	src/org/traccar/protocol/Gt06ProtocolDecoder.java	185	
+13	Bears-110	src/org/traccar/protocol/H02ProtocolDecoder.java	187	replace-1
+14	Bears-128	src/org/traccar/protocol/H02ProtocolDecoder.java	155	
+15	Bears-117	src/org/traccar/protocol/Gps103ProtocolDecoder.java	93	
+16	Bears-135	src/org/traccar/protocol/TmgFrameDecoder.java	50	replace-2
+17	Bears-132	src/org/traccar/protocol/Gl200TextProtocolDecoder.java	219	replace-1
+18	Bears-104	src/org/traccar/protocol/SuntechProtocolDecoder.java	34	
+19	Bears-103	src/org/traccar/protocol/AquilaProtocolDecoder.java	135	replace-1
+20	Bears-102	src/org/traccar/protocol/TeltonikaProtocolDecoder.java	85	
+21	Bears-105	src/org/traccar/protocol/TelicProtocolDecoder.java	57	
+22	Bears-133	src/org/traccar/protocol/Jt600FrameDecoder.java	4	
+23	Bears-134	src/org/traccar/protocol/TmgProtocolDecoder.java	73	
+24	Bears-112	src/org/traccar/protocol/L100ProtocolDecoder.java	43	
+25	Bears-115	src/org/traccar/protocol/WatchProtocolDecoder.java	68	
+26	Bears-123	src/org/traccar/reports/ReportUtils.java	287	replace-8
+27	Bears-98	src/org/traccar/protocol/GoSafeProtocolDecoder.java	159	replace-1
+28	Bears-124	src/org/traccar/protocol/EskyProtocolDecoder.java	43	replace-2
+29	Bears-99	src/org/traccar/protocol/H02FrameDecoder.java	4	add
+30	Bears-125	src/org/traccar/protocol/Gl200TextProtocolDecoder.java	617	replace-1
+31	Bears-122	src/org/traccar/protocol/Gl200TextProtocolDecoder.java	79	
+32	Bears-114	src/org/traccar/protocol/StarLinkProtocolDecoder.java	103	
+33	Bears-113	src/org/traccar/protocol/Pt502ProtocolDecoder.java	4	
+34	Bears-131	src/org/traccar/protocol/MeitrackProtocolDecoder.java	222	replace-4
+35	Bears-136	src/org/traccar/protocol/EelinkProtocolEncoder.java	68	replace-1
+36	Bears-109	src/org/traccar/protocol/SuntechProtocolDecoder.java	70	replace-1
+37	Bears-100	src/org/traccar/events/IgnitionEventHandler.java	42	
+38	Bears-107	src/org/traccar/protocol/StarLinkProtocolDecoder.java	154	add
+39	Bears-138	src/org/traccar/protocol/Gt06ProtocolDecoder.java	557	replace-2
+40	Bears-106	src/org/traccar/protocol/TelicProtocolDecoder.java	56	
+41	Bears-139	src/org/traccar/protocol/MeitrackProtocolDecoder.java	262	replace-1
+42	Bears-101	src/org/traccar/protocol/Gl200ProtocolDecoder.java	35	
+43	Bears-137	src/org/traccar/protocol/TotemFrameDecoder.java	45	replace-2
+44	Bears-108	src/org/traccar/protocol/CguardProtocolDecoder.java	38	replace-7
+45	Bears-130	src/org/traccar/protocol/MeitrackProtocolDecoder.java	72	replace-1
+46	Bears-189	src/main/java/hu/oe/nik/szfmv/Main.java	35	add
+47	Bears-188	src/main/java/hu/oe/nik/szfmv/visualization/Dashboard.java	59	replace-1
+48	Bears-243	src/main/java/gumtree/spoon/diff/DiffImpl.java	4	
+49	Bears-247	src/main/java/io/vertx/ext/jdbc/impl/JDBCConnectionImpl.java	50	
+50	Bears-233	pippo-session-parent/pippo-session/src/main/java/ro/pippo/session/ClassFilter.java	12	replace-1
+51	Bears-143	src/main/java/edu/harvard/h2ms/domain/core/User.java	39	
+52	Bears-141	src/main/java/edu/harvard/h2ms/domain/core/User.java	97	
+53	Bears-140	src/main/java/edu/harvard/h2ms/service/utils/H2msRestUtils.java	22	
+54	Bears-221	src/main/java/hudson/plugins/ansicolor/AnsiColorConsoleLogFilter.java	6	
+55	Bears-187	modules/swagger-codegen/src/main/java/io/swagger/codegen/languages/SwaggerYamlGenerator.java	63	replace-1
+56	Bears-186	modules/swagger-codegen/src/main/java/io/swagger/codegen/languages/JavaJAXRSSpecServerCodegen.java	88	add
+57	Bears-194	src/main/java/com/gdssecurity/pmd/rules/dfa/DfaSecurityRule.java	547	
+58	Bears-207	src/main/java/org/broadinstitute/dsde/consent/ontology/resources/SwaggerResource.java	32	replace-2
+59	Bears-180	spring-cloud-gcp-storage/src/main/java/org/springframework/cloud/gcp/storage/GoogleStorageResourceObject.java	110	replace-1
+60	Bears-181	spring-cloud-gcp-data-spanner/src/main/java/org/springframework/cloud/gcp/data/spanner/core/SpannerTemplate.java	202	replace-4
+61	Bears-183	spring-cloud-gcp-data-spanner/src/main/java/org/springframework/cloud/gcp/data/spanner/core/SpannerTemplate.java	181	replace-1
+62	Bears-182	spring-cloud-gcp-data-spanner/src/main/java/org/springframework/cloud/gcp/data/spanner/repository/query/SqlSpannerQuery.java	21	
+63	Bears-229	omod-1.9/src/main/java/org/openmrs/module/webservices/rest/web/v1_0/resource/openmrs1_9/ObsResource1_9.java	12	
+64	Bears-232	src/main/java/com/paritytrading/foundation/ByteArrays.java	93	replace-1
+65	Bears-235	src/main/java/org/cash/count/service/impl/AccountManager.java	108	add
+66	Bears-234	src/main/java/org/cash/count/service/impl/TransferService.java	44	add
+67	Bears-145	suite/spdz/src/main/java/dk/alexandra/fresco/suite/spdz/storage/SpdzConfigurableDataSupplier.java	30	replace-2
+68	Bears-144	core/src/main/java/dk/alexandra/fresco/framework/util/StrictBitVector.java	117	replace-2
+69	Bears-148	suite/spdz2k/src/main/java/dk/alexandra/fresco/suite/spdz2k/datatypes/CompUInt128.java	52	add
+70	Bears-146	suite/spdz/src/main/java/dk/alexandra/fresco/suite/spdz/storage/SpdzMascotDataSupplier.java	7	
+71	Bears-147	core/src/main/java/dk/alexandra/fresco/framework/value/BigIntegerOIntArithmetic.java	21	
+72	Bears-196	code/spi-support/src/main/java/org/apache/tamaya/spisupport/EnumConverter.java	27	
+73	Bears-200	axon-server-connector/src/main/java/org/axonframework/axonserver/connector/ErrorCode.java	119	replace-1
+74	Bears-202	src/main/java/io/github/classgraph/ClassGraph.java	865	replace-1
+75	Bears-192	src/server/src/main/java/io/cassandrareaper/resources/view/RepairRunStatus.java	22	
+76	Bears-191	src/server/src/main/java/io/cassandrareaper/resources/view/NodesStatus.java	44	
+77	Bears-190	src/server/src/main/java/io/cassandrareaper/resources/view/NodesStatus.java	18	
+78	Bears-169	pinot-core/src/main/java/com/linkedin/pinot/core/data/manager/realtime/LLRealtimeSegmentDataManager.java	142	replace-1
+79	Bears-177	byte-buddy-dep/src/main/java/net/bytebuddy/pool/TypePool.java	7416	
+80	Bears-179	byte-buddy-dep/src/main/java/net/bytebuddy/implementation/bytecode/member/MethodInvocation.java	320	replace-3
+81	Bears-178	byte-buddy-dep/src/main/java/net/bytebuddy/implementation/MethodCall.java	1448	
+82	Bears-236	byte-buddy-dep/src/main/java/net/bytebuddy/dynamic/scaffold/TypeWriter.java	4349	replace-4
+83	Bears-237	byte-buddy-dep/src/main/java/net/bytebuddy/implementation/FieldAccessor.java	208	
+84	Bears-239	src/main/java/com/shapesecurity/shift/es2017/parser/GenericParser.java	2181	replace-1
+85	Bears-204	src/main/java/client/presenter/controller/messages/LoginResponseMessage.java	27	add
+86	Bears-246	src/main/java/com/wrapper/spotify/requests/data/player/StartResumeUsersPlaybackRequest.java	130	replace-1
+87	Bears-142	modules/activiti-engine/src/main/java/org/activiti/engine/impl/history/handler/ActivityInstanceEndHandler.java	18	
+88	Bears-211	cbor/src/main/java/com/fasterxml/jackson/dataformat/cbor/CBORFactory.java	277	
+89	Bears-159	debezium-connector-postgres/src/main/java/io/debezium/connector/postgresql/connection/wal2json/DateTimeFormat.java	46	replace-2
+90	Bears-161	debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/MySqlDdlParser.java	1300	replace-1
+91	Bears-160	debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/MySqlDdlParser.java	1228	add
+92	Bears-208	debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/MySqlDefaultValuePreConverter.java	36	
+93	Bears-162	debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/MySqlDdlParser.java	837	add
+94	Bears-164	debezium-connector-postgres/src/main/java/io/debezium/connector/postgresql/connection/wal2json/DateTimeFormat.java	17	
+95	Bears-163	debezium-connector-mysql/src/main/java/io/debezium/connector/mysql/MySqlDdlParser.java	625	replace-1
+96	Bears-212	yaml/src/main/java/com/fasterxml/jackson/dataformat/yaml/YAMLGenerator.java	454	replace-1
+97	Bears-193	activiti-cloud-app-service/src/main/java/org/activiti/cloud/app/configuration/ApplicationServiceAutoConfiguration.java	9	
+98	Bears-226	src/main/java/com/milaboratory/core/alignment/batch/BatchAlignerWithBaseParameters.java	33	replace-3
+99	Bears-242	cxx-checks/src/main/java/org/sonar/cxx/checks/naming/MethodNameCheck.java	22	
+100	Bears-198	src/main/java/com/amazonaws/encryptionsdk/model/DecryptionMaterialsRequest.java	57	replace-1
+101	Bears-95	src/main/java/org/springframework/data/mapping/model/ClassGeneratingPropertyAccessorFactory.java	136	replace-1
+102	Bears-92	src/main/java/org/springframework/data/history/AnnotationRevisionMetadata.java	88	replace-3
+103	Bears-93	src/main/java/org/springframework/data/convert/ClassGeneratingEntityInstantiator.java	58	
+104	Bears-94	src/main/java/org/springframework/data/util/ParameterizedTypeInformation.java	55	
+105	Bears-244	src/main/java/org/springframework/data/convert/ClassGeneratingEntityInstantiator.java	157	add
+106	Bears-89	src/main/java/org/springframework/data/util/ParameterizedTypeInformation.java	184	add
+107	Bears-87	src/main/java/org/springframework/data/repository/util/QueryExecutionConverters.java	528	replace-1
+108	Bears-86	src/main/java/org/springframework/data/web/ProxyingHandlerMethodArgumentResolver.java	18	
+109	Bears-88	src/main/java/org/springframework/data/repository/config/RepositoryBeanNameGenerator.java	4	
+110	Bears-91	src/main/java/org/springframework/data/web/config/SpringDataWebConfiguration.java	20	
+111	Bears-96	src/main/java/org/springframework/data/repository/support/Repositories.java	124	
+112	Bears-97	src/main/java/org/springframework/data/web/PagedResourcesAssembler.java	4	
+113	Bears-90	src/main/java/org/springframework/data/mapping/model/AbstractPersistentProperty.java	65	replace-1
+114	Bears-84	src/main/java/org/springframework/data/auditing/AuditingHandler.java	137	add
+115	Bears-85	src/main/java/org/springframework/data/web/ProjectingJackson2HttpMessageConverter.java	120	replace-1
+116	Bears-220	src/main/java/com/github/underscore/lodash/Xml.java	699	replace-1
+117	Bears-168	address-controller/src/main/java/io/enmasse/controller/api/DefaultExceptionMapper.java	14	add
+118	Bears-166	address-model-lib/src/main/java/io/enmasse/address/model/Status.java	24	add
+119	Bears-167	address-controller/src/main/java/io/enmasse/controller/api/v1/AddressApiHelper.java	12	
+120	Bears-176	zipkin2/src/main/java/zipkin2/Span.java	469	
+121	Bears-157	runtime/src/main/java/org/corfudb/util/NodeLocator.java	145	replace-1
+122	Bears-240	seeds-core/src/main/java/com/github/smallcreep/cucumber/seeds/context/CxJoined.java	66	replace-1
+123	Bears-150	hessian-lite/src/main/java/com/alibaba/com/caucho/hessian/io/LocaleHandle.java	57	replace-56
+124	Bears-195	dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/support/MockInvoker.java	173	
+125	Bears-151	dubbo-config/dubbo-config-spring/src/main/java/com/alibaba/dubbo/config/spring/util/PropertySourcesUtils.java	55	replace-3
+126	Bears-149	dubbo-cluster/src/main/java/com/alibaba/dubbo/rpc/cluster/router/condition/ConditionRouter.java	207	add
+127	Bears-152	dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ProtocolConfig.java	23	
+128	Bears-238	src/main/java/com/json/ignore/JsonIgnoreFields.java	133	replace-1
+129	Bears-241	ci-droid-tasks-consumer-services/src/main/java/com/societegenerale/cidroid/tasks/consumer/services/ActionToPerformService.java	118	
+130	Bears-224	src/main/java/valuestreams/pipeline/Pipeline.java	112	
+131	Bears-230	src/main/java/io/opentracing/contrib/p6spy/TracingP6SpyListener.java	125	
+132	Bears-249	src/main/java/org/imdea/vcd/queue/box/CommittedQueueBox.java	38	replace-1
+133	Bears-205	apollo-adminservice/src/main/java/com/ctrip/framework/apollo/adminservice/controller/ClusterController.java	11	
+134	Bears-213	src/main/java/org/springframework/data/ebean/repository/query/EbeanQueryWrapper.java	186	
+135	Bears-174	molgenis-data-postgresql/src/main/java/org/molgenis/data/postgresql/PostgreSqlEntityFactory.java	195	replace-3
+136	Bears-173	molgenis-data-csv/src/main/java/org/molgenis/data/csv/CsvIterator.java	231	add
+137	Bears-172	molgenis-data-security/src/main/java/org/molgenis/data/security/owned/AbstractRowLevelSecurityRepositoryDecorator.java	78	replace-8
+138	Bears-175	molgenis-data-import/src/main/java/org/molgenis/data/importer/DataPersisterImpl.java	5	
+139	Bears-170	molgenis-semantic-mapper/src/main/java/org/molgenis/semanticmapper/service/impl/AlgorithmServiceImpl.java	13	
+140	Bears-171	molgenis-data-csv/src/main/java/org/molgenis/data/csv/CsvIterator.java	24	
+141	Bears-206	openhtmltopdf-core/src/main/java/com/openhtmltopdf/render/PageBox.java	307	
+142	Bears-228	api/src/main/java/org/openmrs/module/htmlformentry/element/EncounterDetailSubmissionElement.java	7	
+143	Bears-153	service-registry/src/main/java/org/apache/servicecomb/serviceregistry/api/registry/MicroserviceFactory.java	59	
+144	Bears-154	foundations/foundation-config/src/main/java/org/apache/servicecomb/config/ConfigUtil.java	133	replace-4
+145	Bears-197	cas-client-core/src/main/java/org/jasig/cas/client/util/CommonUtils.java	260	
+146	Bears-231	src/main/java/org/jsapar/compose/bean/BeanComposer.java	139	
+147	Bears-8	src/main/java/com/fasterxml/jackson/databind/ser/std/MapSerializer.java	955	
+148	Bears-1	src/main/java/com/fasterxml/jackson/databind/deser/impl/CreatorCollector.java	165	
+149	Bears-6	src/main/java/com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector.java	7	add
+150	Bears-7	src/main/java/com/fasterxml/jackson/databind/deser/std/EnumDeserializer.java	170	replace-6
+151	Bears-9	src/main/java/com/fasterxml/jackson/databind/jsontype/impl/AsPropertyTypeDeserializer.java	156	add
+152	Bears-20	src/main/java/com/fasterxml/jackson/databind/deser/std/FromStringDeserializer.java	16	
+153	Bears-18	src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java	764	
+154	Bears-11	src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializer.java	34	
+155	Bears-16	src/main/java/com/fasterxml/jackson/databind/SerializerProvider.java	1158	
+156	Bears-17	src/main/java/com/fasterxml/jackson/databind/jsontype/impl/StdSubtypeResolver.java	4	
+157	Bears-10	src/main/java/com/fasterxml/jackson/databind/deser/std/EnumDeserializer.java	168	
+158	Bears-19	src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerFactory.java	495	replace-1
+159	Bears-26	src/main/java/com/fasterxml/jackson/databind/jsontype/impl/SubTypeValidator.java	74	
+160	Bears-21	src/main/java/com/fasterxml/jackson/databind/ser/std/DateTimeSerializerBase.java	52	replace-24
+161	Bears-5	src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializer.java	376	
+162	Bears-2	src/main/java/com/fasterxml/jackson/databind/deser/std/StdKeyDeserializer.java	75	replace-1
+163	Bears-3	src/main/java/com/fasterxml/jackson/databind/deser/impl/BeanPropertyMap.java	95	
+164	Bears-4	src/main/java/com/fasterxml/jackson/databind/deser/impl/InnerClassProperty.java	86	add
+165	Bears-24	src/main/java/com/fasterxml/jackson/databind/type/ResolvedRecursiveType.java	114	replace-3
+166	Bears-23	src/main/java/com/fasterxml/jackson/databind/util/StdDateFormat.java	42	
+167	Bears-15	src/main/java/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.java	579	
+168	Bears-12	src/main/java/com/fasterxml/jackson/databind/deser/BuilderBasedDeserializer.java	29	
+169	Bears-13	src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerFactory.java	444	
+170	Bears-14	src/main/java/com/fasterxml/jackson/databind/deser/BeanDeserializerFactory.java	142	
+171	Bears-22	src/main/java/com/fasterxml/jackson/databind/type/ResolvedRecursiveType.java	28	add
+172	Bears-25	src/main/java/com/fasterxml/jackson/databind/ser/std/StdKeySerializers.java	210	add
+173	Bears-203	common/src/main/java/slash/common/helpers/JAXBHelper.java	26	
+174	Bears-158	navigation-formats/src/main/java/slash/navigation/csv/ExcelPosition.java	23	
+175	Bears-222	jgrapht-core/src/main/java/org/jgrapht/generate/WattsStrogatzGraphGenerator.java	169	
+176	Bears-210	src/main/java/org/joo/libra/pointer/VariablePredicate.java	4	
+177	Bears-245	src/main/java/com/squareup/javapoet/ParameterSpec.java	163	add
+178	Bears-251	wffweb/src/main/java/com/webfirmframework/wffweb/tag/html/AbstractHtml.java	1116	replace-1
+179	Bears-199	amazon-kinesis-client/src/main/java/software/amazon/kinesis/retrieval/polling/PrefetchRecordsPublisher.java	179	replace-1
+180	Bears-209	src/main/java/com/github/example/holder/impl/LockHolderImpl.java	6	
+181	Bears-225	src/main/java/io/lettuce/core/dynamic/DeclaredCommandMethod.java	82	replace-2
+182	Bears-214	BaragonAgentService/src/main/java/com/hubspot/baragon/agent/handlebars/PreferSameRackWeightingHelper.java	48	add
+183	Bears-223	src/main/java/com/github/julianps/modelmapper/ValueConverter.java	4	
+184	Bears-184	src/main/java/org/springframework/data/jpa/util/JpaMetamodel.java	79	replace-1
+185	Bears-185	src/main/java/org/springframework/data/jpa/repository/query/NativeJpaQuery.java	37	
+186	Bears-61	src/main/java/spoon/reflect/factory/CodeFactory.java	576	add
+187	Bears-59	src/main/java/spoon/reflect/visitor/DefaultJavaPrettyPrinter.java	538	
+188	Bears-66	src/main/java/spoon/support/reflect/reference/CtTypeParameterReferenceImpl.java	180	replace-3
+189	Bears-50	src/main/java/spoon/support/compiler/jdt/JDTBasedSpoonCompiler.java	418	
+190	Bears-68	src/main/java/spoon/reflect/visitor/DefaultJavaPrettyPrinter.java	1102	
+191	Bears-57	src/main/java/spoon/reflect/visitor/DefaultJavaPrettyPrinter.java	1799	
+192	Bears-32	src/main/java/spoon/reflect/visitor/chain/CtQueryImpl.java	282	replace-1
+193	Bears-35	src/main/java/spoon/reflect/visitor/ImportScannerImpl.java	19	
+194	Bears-69	src/main/java/spoon/reflect/annotations/MetamodelPropertyField.java	36	
+195	Bears-56	src/main/java/spoon/reflect/visitor/ImportScannerImpl.java	566	replace-1
+196	Bears-51	src/main/java/spoon/support/reflect/reference/CtTypeParameterReferenceImpl.java	22	
+197	Bears-58	src/main/java/spoon/reflect/visitor/DefaultJavaPrettyPrinter.java	285	
+198	Bears-67	src/main/java/spoon/reflect/factory/ExecutableFactory.java	121	replace-1
+199	Bears-60	src/main/java/spoon/support/reflect/declaration/CtElementImpl.java	34	
+200	Bears-34	src/main/java/spoon/reflect/visitor/DefaultJavaPrettyPrinter.java	188	
+201	Bears-33	src/main/java/spoon/support/reflect/reference/CtTypeReferenceImpl.java	468	
+202	Bears-216	src/main/java/spoon/support/compiler/SnippetCompilationHelper.java	97	
+203	Bears-218	src/main/java/spoon/support/compiler/jdt/JDTTreeBuilder.java	59	
+204	Bears-219	src/main/java/spoon/support/compiler/SpoonPom.java	259	
+205	Bears-217	src/main/java/spoon/support/compiler/jdt/JDTTreeBuilder.java	795	replace-2
+206	Bears-27	src/main/java/spoon/support/compiler/jdt/ContextBuilder.java	90	replace-1
+207	Bears-29	src/main/java/spoon/reflect/factory/ExecutableFactory.java	117	
+208	Bears-42	src/main/java/spoon/reflect/visitor/filter/PotentialVariableDeclarationFunction.java	73	replace-1
+209	Bears-45	src/main/java/spoon/refactoring/Refactoring.java	39	
+210	Bears-73	src/main/java/spoon/reflect/visitor/chain/CtQueryImpl.java	342	replace-2
+211	Bears-80	src/main/java/spoon/support/StandardEnvironment.java	356	replace-3
+212	Bears-74	src/main/java/spoon/support/compiler/jdt/ReferenceBuilder.java	543	add
+213	Bears-28	src/main/java/spoon/reflect/visitor/DefaultJavaPrettyPrinter.java	1191	add
+214	Bears-75	src/main/java/spoon/support/compiler/jdt/PositionBuilder.java	19	
+215	Bears-81	src/main/java/spoon/support/reflect/reference/CtTypeParameterReferenceImpl.java	193	
+216	Bears-72	src/main/java/spoon/reflect/visitor/DefaultJavaPrettyPrinter.java	19	
+217	Bears-44	src/main/java/spoon/support/reflect/code/CtBlockImpl.java	193	replace-1
+218	Bears-43	src/main/java/spoon/support/reflect/reference/CtExecutableReferenceImpl.java	239	replace-5
+219	Bears-38	src/main/java/spoon/support/reflect/code/CtLambdaImpl.java	112	replace-1
+220	Bears-36	src/main/java/spoon/reflect/visitor/ImportScannerImpl.java	258	
+221	Bears-31	src/main/java/spoon/support/reflect/reference/CtTypeReferenceImpl.java	622	
+222	Bears-65	src/main/java/spoon/support/visitor/java/JavaReflectionTreeBuilder.java	220	replace-2
+223	Bears-62	src/main/java/spoon/support/visitor/ClassTypingContext.java	20	
+224	Bears-54	src/main/java/spoon/reflect/visitor/ImportScannerImpl.java	76	
+225	Bears-53	src/main/java/spoon/support/compiler/jdt/ReferenceBuilder.java	916	replace-1
+226	Bears-30	src/main/java/spoon/support/compiler/jdt/JDTTreeBuilderHelper.java	20	
+227	Bears-37	src/main/java/spoon/support/visitor/java/JavaReflectionTreeBuilder.java	248	add
+228	Bears-39	src/main/java/spoon/reflect/visitor/filter/LocalVariableReferenceFunction.java	20	
+229	Bears-52	src/main/java/spoon/reflect/visitor/filter/SuperInheritanceHierarchyFunction.java	59	
+230	Bears-55	src/main/java/spoon/reflect/visitor/ImportScannerImpl.java	25	
+231	Bears-63	src/main/java/spoon/support/compiler/jdt/ReferenceBuilder.java	89	
+232	Bears-64	src/main/java/spoon/support/visitor/ClassTypingContext.java	45	
+233	Bears-215	src/main/java/spoon/reflect/visitor/ImportScannerImpl.java	62	
+234	Bears-46	src/main/java/spoon/support/reflect/declaration/CtElementImpl.java	389	add
+235	Bears-79	src/main/java/spoon/support/visitor/ProcessingVisitor.java	48	replace-2
+236	Bears-41	src/main/java/spoon/support/compiler/jdt/ReferenceBuilder.java	87	
+237	Bears-83	src/main/java/spoon/template/Substitution.java	674	
+238	Bears-77	src/main/java/spoon/reflect/code/CtComment.java	54	add
+239	Bears-48	src/main/java/spoon/support/visitor/ClassTypingContext.java	376	
+240	Bears-70	src/main/java/spoon/support/compiler/jdt/JDTTreeBuilder.java	156	
+241	Bears-71	src/main/java/spoon/support/compiler/jdt/ReferenceBuilder.java	635	add
+242	Bears-76	src/main/java/spoon/support/template/Parameters.java	271	replace-1
+243	Bears-82	src/main/java/spoon/reflect/visitor/DefaultJavaPrettyPrinter.java	790	add
+244	Bears-49	src/main/java/spoon/support/reflect/declaration/CtAnnotationImpl.java	113	replace-1
+245	Bears-40	src/main/java/spoon/support/reflect/reference/CtTypeReferenceImpl.java	267	
+246	Bears-47	src/main/java/spoon/support/compiler/jdt/ReferenceBuilder.java	644	add
+247	Bears-78	src/main/java/spoon/reflect/visitor/DefaultJavaPrettyPrinter.java	783	replace-1
+248	Bears-156	integration/hibernate-base/src/main/java/com/blazebit/persistence/integration/hibernate/base/HibernateJpaProvider.java	509	replace-1
+249	Bears-250	src/main/java/org/la4j/vector/sparse/CompressedVector.java	210	replace-1
+250	Bears-165	dhis-2/dhis-api/src/main/java/org/hisp/dhis/dataelement/DataElementOperand.java	320	add
+251	Bears-248	vertx-web-client/src/main/java/io/vertx/ext/web/client/impl/HttpContext.java	198	replace-3

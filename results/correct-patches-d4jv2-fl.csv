@@ -1,0 +1,142 @@
+Closure_168
+FL: com.google.javascript.jscomp.TypedScopeCreator,1996,0.036
+Identical to human-written patches  replace 1 line(s)
+-  if (t.getScopeDepth() <= 2) { 
++  if (t.getScopeDepth() < = 1) {
+
+JxPath_16 
+FL: org.apache.commons.jxpath.ri.model.jdom.JDOMNodePointer,391,0.218
+Identical to human-written patches  replace 1 line(s)
+-   return  (node  instanceof  Element)  ||  (node  instanceof  Document);  
++     return true;
+
+JacksonDatabind_57   
+FL: com.fasterxml.jackson.databind.ObjectReader,1441,0.178
+Identical to human-written patches  replace 1 line(s)
+-   return  _bindAndReadValues(_considerFilter(_parserFactory.createParser(src),  
++   return _bindAndReadValues(_considerFilter(_parserFactory.createParser(src, offset, length),
+   
+Jsoup_57   
+FL: org.jsoup.nodes.Attributes,125,0.707
+Identical to human-written patches  replace 1 line(s)
+-   attributes.remove(attrKey);  
++   it.remove();
+
+JacksonDatabind_27   
+FL: com.fasterxml.jackson.databind.deser.BeanDeserializer,794,0.204
+Identical to human-written patches  replace 1 line(s)
+-   if  (ext.handlePropertyValue(p,  ctxt,  propName,  buffer))  {  
++     if (ext.handlePropertyValue(p, ctxt, propName, null)) {
+
+Csv_11   
+FL: org.apache.commons.csv.CSVParser,384,0.258
+Identical to human-written patches  replace 1 line(s)
+-   final  boolean  emptyHeader  =  header.trim().isEmpty();  
++     final boolean emptyHeader = header == null || header.trim().isEmpty();
+
+JacksonCore_25   
+FL: com.fasterxml.jackson.core.json.ReaderBasedJsonParser,1963,0.052
+Identical to human-written patches  replace 1 line(s)
+-   if  (i  <=  maxCode)  {  
++     if (i < maxCode) {
+
+Cli_25   
+FL: org.apache.commons.cli.HelpFormatter,825,0.1
+Identical to human-written patches  replace 1 line(s)
+-   nextLineTabStop  =  width  -  1;  
++     nextLineTabStop = 1;
+
+JacksonDatabind_102   
+FL: com.fasterxml.jackson.databind.ser.std.DateTimeSerializerBase,68,0.174
+Identical to human-written patches  remove 1 line(s)
+-    return  this;    
++     
+
+Csv_9   
+FL: org.apache.commons.csv.CSVRecord,180,0.447
+Identical to human-written patches  add line(s)
+-   
++     if (mapping == null) { return map; }
+
+Cli_8 
+FL: org.apache.commons.cli.HelpFormatter,812,0.06
+Identical to human-written patches  replace 1 line(s)
+-   pos  =  findWrapPos(text,  width,  nextLineTabStop);  
++     pos = findWrapPos(text, width, 0);
+
+Jsoup_24   
+FL: org.jsoup.parser.TokeniserState,558,1
+Identical to human-written patches  remove 1 line(s)
+-   r.advance();  
++     
+
+Cli_5   
+FL: org.apache.commons.cli.Util,37,0.174
+Identical to human-written patches  add line(s)
+-   
++     if (str == null) { return null; }
+
+Jsoup_43   
+FL: org.jsoup.nodes.Element,574,0.267
+Identical to human-written patches  replace 1 line(s)
+-   if  (element.equals(search))  
++     if (element == search)
+
+Codec_7   
+FL: org.apache.commons.codec.binary.Base64,670,0.062
+Identical to human-written patches  replace 1 line(s)
+-   return  StringUtils.newStringUtf8(encodeBase64(binaryData,  true));  
++     return StringUtils.newStringUtf8(encodeBase64(binaryData, false));
+
+JxPath_5   
+FL: org.apache.commons.jxpath.ri.model.NodePointer,665,1
+Identical to human-written patches  replace 3 line(s)
+-   throw  new  JXPathException(   "Cannot  compare  pointers  that  do  not  belong  to  the  same  tree:  ' "  +  p1  +   "'  and  ' "  +  p2  +   "' ");  
++     return 0;
+
+Jsoup_55   
+FL: org.jsoup.parser.TokeniserState,883,1
+Identical to human-written patches  add line(s)
+-   
++     r.unconsume();
+
+Codec_2   
+FL: org.apache.commons.codec.binary.Base64,446,0.086
+Identical to human-written patches  replace 1 line(s)
+-   if  (lineLength  >  0)  {  
++     if (lineLength > 0 && pos > 0) {
+
+Cli_27   
+FL: org.apache.commons.cli.OptionGroup,98,0.433
+Identical to human-written patches  replace 2 line(s)
+-   if  (selected  ==  null  ||  selected.equals(option.getOpt()))  selected  =  option.getOpt();  
++     if (selected == null || selected.equals(option.getKey())) selected = option.getKey();
+
+Codec_3   
+FL: org.apache.commons.codec.language.DoubleMetaphone,455,0.5
+Identical to human-written patches  replace 1 line(s)
+-   }  else  if  (contains(value,  index  +  1,  4,   "IER "))  {  
++     } else if (contains(value, index + 1, 3, "IER ")) {
+
+Cli_28   
+FL: org.apache.commons.cli.Parser,290,1
+Identical to human-written patches  replace 1 line(s)
+-   break;  
++     continue;    
+
+Cli_17   
+FL: org.apache.commons.cli.PosixParser,304,0.049
+Identical to human-written patches  add line(s)  
++     break;
+
+JxPath_1   
+FL: org.apache.commons.jxpath.ri.model.jdom.JDOMNodePointer,376,0.154
+Identical to human-written patches  replace 1 line(s)
+-   return  node  instanceof  Element;  
++     return (node instanceof Element) || (node instanceof Document);
+    
+Gson_6 
+FL: com.google.gson.internal.bind.JsonAdapterAnnotationTypeAdapterFactory,67,0.365
+Identical to human-written patches  add line(s)
+-   
++     if (typeAdapter!= null) 
