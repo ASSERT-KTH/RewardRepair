@@ -48,7 +48,7 @@ RewardRepair trained model: https://doi.org/10.5281/zenodo.5997686
 
 ```
 git submodule add https://github.com/bears-bugs/bears-benchmark.git
-cp -rf myscript ./bears-benchmark/
+cp -rf myscripts ./bears-benchmark/
 pip install transformers
 pip install sentencepiece
 ```
