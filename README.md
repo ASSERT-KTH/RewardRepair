@@ -64,6 +64,8 @@ use the script to extract data: extract_CoCoNut_data.py
 Get Megadiff dataset from here https://github.com/monperrus/megadiff
 use the script to extract data: extract_Megadiff_data.py
 
+Get CodRep dataset from here https://github.com/KTH/codrep-2019
+
 ```
 ```
 To run our script
