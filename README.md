@@ -52,11 +52,15 @@ cp -rf myscript ./bears-benchmar/
 pip install transformers
 pip install sentencepiece
 ```
-Extract and combine these two dataset as  syntactic training data
+
 ```
 cd data
 tar -xzvf MegaDiff-CodRep.tar.gz
 tar -xzvf pretrain.csv.tgz
+```
+Get the CoCoNut java dataset from here: https://github.com/lin-tan/CoCoNut-Artifact/releases/tag/training_data_1.0.0
+use the script to extract data: extract_CoCoNut_data.py
+```
 ```
 To run our script
 ```
