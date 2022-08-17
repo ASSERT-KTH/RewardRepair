@@ -60,6 +60,10 @@ tar -xzvf pretrain.csv.tgz
 ```
 Get the CoCoNut java dataset from here: https://github.com/lin-tan/CoCoNut-Artifact/releases/tag/training_data_1.0.0
 use the script to extract data: extract_CoCoNut_data.py
+
+Get Megadiff dataset from here https://github.com/monperrus/megadiff
+use the script to extract data: extract_Megadiff_data.py
+
 ```
 ```
 To run our script
