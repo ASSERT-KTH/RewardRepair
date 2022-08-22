@@ -53,21 +53,19 @@ pip install transformers
 pip install sentencepiece
 ```
 
-```
-cd data
-tar -xzvf MegaDiff-CodRep.tar.gz
-tar -xzvf pretrain.csv.tgz
-```
 Get the CoCoNut java dataset from here: https://github.com/lin-tan/CoCoNut-Artifact/releases/tag/training_data_1.0.0
 use the script to extract data: extract_CoCoNut_data.py
+```
+Data availables here: 
+https://zenodo.org/record/7009192#.YwPS4-xBxbg 
+```
 
 Get Megadiff dataset from here https://github.com/monperrus/megadiff
 use the script to extract data: extract_Megadiff_data.py
 
 Get CodRep dataset from here https://github.com/KTH/codrep-2019
 
-```
-```
+
 To run our script
 ```
 python3 train.py
