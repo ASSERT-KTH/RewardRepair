@@ -228,7 +228,7 @@ def getGeneratorDataLoader(filepatch,tokenizer,batchsize):
 
 
 
-def syntactic(epoch):  
+def syntactic(epoch,syn_train_data_path):  
     # Set random seeds and deterministic pytorch for reproducibility
     torch.manual_seed(SEED) # pytorch random seed
     np.random.seed(SEED) # numpy random seed
@@ -243,7 +243,7 @@ def syntactic(epoch):
     
 
     # tokenzier for encoding the text
-    if epoch == 0:
+    if epoch == 0 and 'CoCoNut' in syn_train_data_path:
         model = T5ForConditionalGeneration.from_pretrained('t5-base', output_hidden_states=True)    
         tokenizer = T5Tokenizer.from_pretrained('t5-base',truncation=True)
         tokenizer.add_tokens(['{', '}','<','^','>=','<=','==','buggy:','context:'])
@@ -311,8 +311,8 @@ if __name__ == '__main__':
     gc.collect()
     torch.cuda.empty_cache()
     # This is a  small dataset to try
-    # update this with the combined dataset documented in ReadME
-    syn_train_data_path= './data/small.csv' 
+    syn_train_data_path_1= './data/CoCoNut.csv'
+    syn_train_data_path_2= './data/MegaDiff-CodRep.csv'
     semantic_train_data_path= 'Bears_Training/BearsTraining.csv'
     SAVE_MODEL='./model/RewardRepair'
     rootPath='/your/path/'
@@ -323,8 +323,12 @@ if __name__ == '__main__':
     MAX_LEN = 512
     PATCH_LEN = 100    
     
+    #We train the CoCoNut dataset
+    for epoch in range(0,TRAIN_EPOCHS):
+        syntactic(epoch,syn_train_data_path_1)
+    
     #we train the syntactic training and semantic training
     for epoch in range(0,TRAIN_EPOCHS):
-        syntactic(epoch)
+        syntactic(epoch,syn_train_data_path_2)
         if  (epoch>5 and epoch % 3 == 0) or epoch == TRAIN_EPOCHS-1:
             semantic(epoch)
