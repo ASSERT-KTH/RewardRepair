@@ -49,40 +49,7 @@ def getResults(bugindex,preds,root):
             print('BUILD SUCCESS')
             if 'Failures: 0' in results and 'Errors: 0' in results:
                 execResult = 'passHumanTest'
-                print('Plausible!!')
-        
-#         if execResult in 'passHumanTest':
-#             print(bugId)
-#             evotest=repodir+'/BearsTests/tests/'+bugId
-#             if os.path.exists(evotest):
-#                 for i in range(0,1):
-#                     #cp evosuite-tests
-#                     evoTestPath=evotest+'/'+str(i)+'/evosuite-tests/'
-#                     #compile
-#                     srcpath=repodir+'/'+bugId
-#                     evopath = getEvosuitTestPath(evoTestPath)
-#                     cpstr='cp  '+evoTestPath+'/'+evopath+'  ' +srcpath+'/target/classes/'+evopath
-#                     print(cpstr)
-#                     cpstr2 = cpstr.replace('.java','_scaffolding.java')
-#                     os.system(cpstr)
-#                     os.system(cpstr2)
-                    
-#                     libpath=getLibPath(bugId,repodir,root)
-#                     print(libpath)
-#                     compstr='javac  -cp '+libpath+':'+srcpath+'/target/classes  ' +srcpath+'/target/classes/'+evopath
-#                     print(compstr)
-#                     os.system(compstr)
-
-#                     #execute
-#                     os.chdir(srcpath+'/target/classes')
-#                     evopathclass=evopath.replace('.java','').replace('/','.')
-#                     executeTest='java -cp '+libpath+':'+srcpath+'/target/classes '+ ' org.junit.runner.JUnitCore '+evopathclass
-#                     print(executeTest)
-#                     evosuiteTestResult = os.popen(executeTest).read()
-#                     print(evosuiteTestResult)
-#                     if 'OK' in evosuiteTestResult:                
-#                         execResult = 'passAllTest'
-#                         print('passAllTest!!')            
+                print('Plausible!!')      
     
 
         os.system('rm -rf '+repodir+'/'+bugId)
